@@ -3,15 +3,10 @@ out/
 .env
 .DS_Store
 
-# Raw footage, renders and other large or regenerable media stay local
+# Raw interview footage stays local (8 GB). The trailer song is a copyrighted track, so the
+# music files themselves are not published.
 30th-anniversary/footage/
-30th-anniversary/renders/
-30th-anniversary/transcripts/audio/
-30th-anniversary/audio/music/
-public/anniversary/clips/
-public/anniversary/music/
+30th-anniversary/audio/music/trailer-music*.wav
+public/anniversary/music/trailer-music*.wav
 *.mov
 *.MOV
-*.mp4
-*.wav
-!public/anniversary/sfx/*.wav
