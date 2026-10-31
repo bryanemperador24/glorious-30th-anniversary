@@ -1,0 +1,253 @@
+{
+  "task": "transcribe",
+  "language": "Tagalog",
+  "duration": 24.363311104,
+  "text": " One, two, three, go. I pray that Glorious Church continues to inspire generations to come and bring more people closer to God. Okay, pause. One, two, three, go.",
+  "words": [
+    {
+      "word": "One,",
+      "start": 0.86,
+      "end": 1.42
+    },
+    {
+      "word": "two,",
+      "start": 1.42,
+      "end": 2.56
+    },
+    {
+      "word": "three,",
+      "start": 2.56,
+      "end": 3.06
+    },
+    {
+      "word": "go.",
+      "start": 3.06,
+      "end": 3.18
+    },
+    {
+      "word": "I",
+      "start": 4.62,
+      "end": 4.74
+    },
+    {
+      "word": "pray",
+      "start": 4.74,
+      "end": 5.1
+    },
+    {
+      "word": "that",
+      "start": 5.1,
+      "end": 5.42
+    },
+    {
+      "word": "Glorious",
+      "start": 5.42,
+      "end": 9
+    },
+    {
+      "word": "Church",
+      "start": 9,
+      "end": 9.5
+    },
+    {
+      "word": "continues",
+      "start": 9.5,
+      "end": 10.1
+    },
+    {
+      "word": "to",
+      "start": 10.1,
+      "end": 10.46
+    },
+    {
+      "word": "inspire",
+      "start": 10.46,
+      "end": 11.3
+    },
+    {
+      "word": "generations",
+      "start": 11.3,
+      "end": 12.34
+    },
+    {
+      "word": "to",
+      "start": 12.34,
+      "end": 12.68
+    },
+    {
+      "word": "come",
+      "start": 12.68,
+      "end": 12.98
+    },
+    {
+      "word": "and",
+      "start": 12.98,
+      "end": 13.62
+    },
+    {
+      "word": "bring",
+      "start": 13.62,
+      "end": 14.44
+    },
+    {
+      "word": "more",
+      "start": 14.44,
+      "end": 15.36
+    },
+    {
+      "word": "people",
+      "start": 15.36,
+      "end": 15.7
+    },
+    {
+      "word": "closer",
+      "start": 15.7,
+      "end": 16.1
+    },
+    {
+      "word": "to",
+      "start": 16.1,
+      "end": 16.32
+    },
+    {
+      "word": "God.",
+      "start": 16.32,
+      "end": 16.52
+    },
+    {
+      "word": "Okay,",
+      "start": 18.6,
+      "end": 19.06
+    },
+    {
+      "word": "pause.",
+      "start": 19.06,
+      "end": 19.54
+    },
+    {
+      "word": "One,",
+      "start": 18.96,
+      "end": 20.32
+    },
+    {
+      "word": "two,",
+      "start": 20.32,
+      "end": 22.34
+    },
+    {
+      "word": "three,",
+      "start": 22.34,
+      "end": 23.7
+    },
+    {
+      "word": "go.",
+      "start": 23.7,
+      "end": 24.42
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 3.24,
+      "text": " One, two, three, go.",
+      "tokens": [
+        50365,
+        1485,
+        11,
+        732,
+        11,
+        1045,
+        11,
+        352,
+        13,
+        50527
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35135025,
+      "compression_ratio": 1.3305786,
+      "no_speech_prob": 0.014221191
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.54,
+      "end": 16.539999,
+      "text": " I pray that Glorious Church continues to inspire generations to come and bring more people closer to God.",
+      "tokens": [
+        50592,
+        286,
+        3690,
+        300,
+        5209,
+        14354,
+        7882,
+        6515,
+        281,
+        15638,
+        10593,
+        281,
+        808,
+        293,
+        1565,
+        544,
+        561,
+        4966,
+        281,
+        1265,
+        13,
+        51192
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35135025,
+      "compression_ratio": 1.3305786,
+      "no_speech_prob": 0.014221191
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.52,
+      "end": 19.22,
+      "text": " Okay, pause.",
+      "tokens": [
+        51291,
+        1033,
+        11,
+        10465,
+        13,
+        51326
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35135025,
+      "compression_ratio": 1.3305786,
+      "no_speech_prob": 0.014221191
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.46,
+      "end": 23.939999,
+      "text": " One, two, three, go.",
+      "tokens": [
+        51338,
+        1485,
+        11,
+        732,
+        11,
+        1045,
+        11,
+        352,
+        13,
+        51562
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35135025,
+      "compression_ratio": 1.3305786,
+      "no_speech_prob": 0.014221191
+    }
+  ],
+  "x_groq": {
+    "id": "req_01m65b714zefzr5qrzmqy1q6xx"
+  }
+}

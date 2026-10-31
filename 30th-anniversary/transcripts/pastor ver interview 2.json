@@ -1,0 +1,1379 @@
+{
+  "task": "transcribe",
+  "language": "Tagalog",
+  "duration": 60.130000896,
+  "text": " expect ng mga tao sa itong anniversary natin? Anong gusto nilang expect? Parang invite, Pastor? Pang-invite. Wala po kami ipang in-expect, panalangin kundi yung maranasan yung maranasan ng mga tao yung presence ng Lord this coming anniversary. Kasi wala yung pang-mahalaga sa atin sa panood natin ngayon, lalo na po itong anniversary natin, kundi yung presence ng Lord. At ang pangako ng Lord sa inyong salita, my presence will go with you. Yan ang panghawakan po natin this coming anniversary. God bless! Di pa sa sabi mo lang, December 6 sa Country Club. Ayun lang, sabi mo, sa December 6 sa Country Club. So, ni-invite po namin kayo sa December 6 sa Country Club. Kita-kita po tayo. At niniwala po na magandang gagawin ng Lord sa araw na ito. God bless! Thank you for watching!",
+  "words": [
+    {
+      "word": "expect",
+      "start": 0,
+      "end": 0.34
+    },
+    {
+      "word": "ng",
+      "start": 0.34,
+      "end": 0.46
+    },
+    {
+      "word": "mga",
+      "start": 0.46,
+      "end": 0.6
+    },
+    {
+      "word": "tao",
+      "start": 0.6,
+      "end": 0.84
+    },
+    {
+      "word": "sa",
+      "start": 0.84,
+      "end": 1.02
+    },
+    {
+      "word": "itong",
+      "start": 1.02,
+      "end": 1.16
+    },
+    {
+      "word": "anniversary",
+      "start": 1.16,
+      "end": 1.46
+    },
+    {
+      "word": "natin?",
+      "start": 1.46,
+      "end": 2.48
+    },
+    {
+      "word": "Anong",
+      "start": 2.76,
+      "end": 2.94
+    },
+    {
+      "word": "gusto",
+      "start": 2.94,
+      "end": 3.26
+    },
+    {
+      "word": "nilang",
+      "start": 3.26,
+      "end": 3.48
+    },
+    {
+      "word": "expect?",
+      "start": 3.04,
+      "end": 4.52
+    },
+    {
+      "word": "Parang",
+      "start": 4.52,
+      "end": 4.68
+    },
+    {
+      "word": "invite,",
+      "start": 4.68,
+      "end": 5.26
+    },
+    {
+      "word": "Pastor?",
+      "start": 5.26,
+      "end": 5.9
+    },
+    {
+      "word": "Pang-invite.",
+      "start": 6.5,
+      "end": 7.08
+    },
+    {
+      "word": "Wala",
+      "start": 8.16,
+      "end": 8.48
+    },
+    {
+      "word": "po",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "word": "kami",
+      "start": 8.8,
+      "end": 9.36
+    },
+    {
+      "word": "ipang",
+      "start": 9.1,
+      "end": 9.92
+    },
+    {
+      "word": "in-expect,",
+      "start": 9.92,
+      "end": 11.16
+    },
+    {
+      "word": "panalangin",
+      "start": 11.16,
+      "end": 11.9
+    },
+    {
+      "word": "kundi",
+      "start": 12.72,
+      "end": 13.04
+    },
+    {
+      "word": "yung",
+      "start": 13.04,
+      "end": 13.3
+    },
+    {
+      "word": "maranasan",
+      "start": 13.3,
+      "end": 14.04
+    },
+    {
+      "word": "yung",
+      "start": 13.58,
+      "end": 14.48
+    },
+    {
+      "word": "maranasan",
+      "start": 14.48,
+      "end": 15.3
+    },
+    {
+      "word": "ng",
+      "start": 15.3,
+      "end": 15.44
+    },
+    {
+      "word": "mga",
+      "start": 15.44,
+      "end": 15.62
+    },
+    {
+      "word": "tao",
+      "start": 15.62,
+      "end": 15.92
+    },
+    {
+      "word": "yung",
+      "start": 15.48,
+      "end": 16.38
+    },
+    {
+      "word": "presence",
+      "start": 16.38,
+      "end": 17.12
+    },
+    {
+      "word": "ng",
+      "start": 17.12,
+      "end": 17.36
+    },
+    {
+      "word": "Lord",
+      "start": 17.36,
+      "end": 17.64
+    },
+    {
+      "word": "this",
+      "start": 17.2,
+      "end": 17.96
+    },
+    {
+      "word": "coming",
+      "start": 17.96,
+      "end": 18.28
+    },
+    {
+      "word": "anniversary.",
+      "start": 18.28,
+      "end": 18.78
+    },
+    {
+      "word": "Kasi",
+      "start": 20.06,
+      "end": 20.3
+    },
+    {
+      "word": "wala",
+      "start": 20.3,
+      "end": 20.42
+    },
+    {
+      "word": "yung",
+      "start": 20.42,
+      "end": 20.54
+    },
+    {
+      "word": "pang-mahalaga",
+      "start": 20.54,
+      "end": 21.04
+    },
+    {
+      "word": "sa",
+      "start": 21.04,
+      "end": 21.2
+    },
+    {
+      "word": "atin",
+      "start": 21.2,
+      "end": 21.58
+    },
+    {
+      "word": "sa",
+      "start": 21.14,
+      "end": 22.58
+    },
+    {
+      "word": "panood",
+      "start": 22.58,
+      "end": 22.86
+    },
+    {
+      "word": "natin",
+      "start": 22.86,
+      "end": 23.12
+    },
+    {
+      "word": "ngayon,",
+      "start": 23.12,
+      "end": 23.56
+    },
+    {
+      "word": "lalo",
+      "start": 23.56,
+      "end": 23.72
+    },
+    {
+      "word": "na",
+      "start": 23.72,
+      "end": 23.84
+    },
+    {
+      "word": "po",
+      "start": 23.84,
+      "end": 24
+    },
+    {
+      "word": "itong",
+      "start": 23.54,
+      "end": 24.54
+    },
+    {
+      "word": "anniversary",
+      "start": 24.54,
+      "end": 25.06
+    },
+    {
+      "word": "natin,",
+      "start": 25.06,
+      "end": 25.62
+    },
+    {
+      "word": "kundi",
+      "start": 25.62,
+      "end": 25.84
+    },
+    {
+      "word": "yung",
+      "start": 25.84,
+      "end": 26.06
+    },
+    {
+      "word": "presence",
+      "start": 25.64,
+      "end": 26.9
+    },
+    {
+      "word": "ng",
+      "start": 26.9,
+      "end": 27.16
+    },
+    {
+      "word": "Lord.",
+      "start": 27.16,
+      "end": 27.96
+    },
+    {
+      "word": "At",
+      "start": 28.08,
+      "end": 28.18
+    },
+    {
+      "word": "ang",
+      "start": 28.18,
+      "end": 28.28
+    },
+    {
+      "word": "pangako",
+      "start": 28.28,
+      "end": 28.6
+    },
+    {
+      "word": "ng",
+      "start": 28.6,
+      "end": 28.74
+    },
+    {
+      "word": "Lord",
+      "start": 28.74,
+      "end": 29.06
+    },
+    {
+      "word": "sa",
+      "start": 29.06,
+      "end": 29.26
+    },
+    {
+      "word": "inyong",
+      "start": 29.26,
+      "end": 29.32
+    },
+    {
+      "word": "salita,",
+      "start": 29.32,
+      "end": 29.98
+    },
+    {
+      "word": "my",
+      "start": 30.64,
+      "end": 30.8
+    },
+    {
+      "word": "presence",
+      "start": 30.8,
+      "end": 31.36
+    },
+    {
+      "word": "will",
+      "start": 31.36,
+      "end": 31.8
+    },
+    {
+      "word": "go",
+      "start": 31.8,
+      "end": 32.08
+    },
+    {
+      "word": "with",
+      "start": 32.08,
+      "end": 32.3
+    },
+    {
+      "word": "you.",
+      "start": 32.3,
+      "end": 32.52
+    },
+    {
+      "word": "Yan",
+      "start": 33.44,
+      "end": 33.62
+    },
+    {
+      "word": "ang",
+      "start": 33.62,
+      "end": 34.08
+    },
+    {
+      "word": "panghawakan",
+      "start": 33.62,
+      "end": 34.78
+    },
+    {
+      "word": "po",
+      "start": 34.78,
+      "end": 35
+    },
+    {
+      "word": "natin",
+      "start": 35,
+      "end": 35.38
+    },
+    {
+      "word": "this",
+      "start": 35.38,
+      "end": 35.7
+    },
+    {
+      "word": "coming",
+      "start": 35.7,
+      "end": 36.04
+    },
+    {
+      "word": "anniversary.",
+      "start": 36.04,
+      "end": 37.14
+    },
+    {
+      "word": "God",
+      "start": 38.34,
+      "end": 38.56
+    },
+    {
+      "word": "bless!",
+      "start": 38.56,
+      "end": 38.8
+    },
+    {
+      "word": "Di",
+      "start": 40.44,
+      "end": 40.6
+    },
+    {
+      "word": "pa",
+      "start": 40.6,
+      "end": 40.66
+    },
+    {
+      "word": "sa",
+      "start": 40.66,
+      "end": 40.78
+    },
+    {
+      "word": "sabi",
+      "start": 40.78,
+      "end": 40.92
+    },
+    {
+      "word": "mo",
+      "start": 40.92,
+      "end": 41
+    },
+    {
+      "word": "lang,",
+      "start": 41,
+      "end": 41.64
+    },
+    {
+      "word": "December",
+      "start": 41.64,
+      "end": 41.82
+    },
+    {
+      "word": "6",
+      "start": 41.82,
+      "end": 42.26
+    },
+    {
+      "word": "sa",
+      "start": 41.84,
+      "end": 42.96
+    },
+    {
+      "word": "Country",
+      "start": 42.96,
+      "end": 43.72
+    },
+    {
+      "word": "Club.",
+      "start": 43.72,
+      "end": 44.16
+    },
+    {
+      "word": "Ayun",
+      "start": 44.22,
+      "end": 44.34
+    },
+    {
+      "word": "lang,",
+      "start": 44.34,
+      "end": 44.52
+    },
+    {
+      "word": "sabi",
+      "start": 44.52,
+      "end": 44.6
+    },
+    {
+      "word": "mo,",
+      "start": 44.6,
+      "end": 44.78
+    },
+    {
+      "word": "sa",
+      "start": 44.78,
+      "end": 44.98
+    },
+    {
+      "word": "December",
+      "start": 44.98,
+      "end": 45.26
+    },
+    {
+      "word": "6",
+      "start": 45.26,
+      "end": 45.46
+    },
+    {
+      "word": "sa",
+      "start": 45.46,
+      "end": 45.6
+    },
+    {
+      "word": "Country",
+      "start": 45.6,
+      "end": 45.66
+    },
+    {
+      "word": "Club.",
+      "start": 45.66,
+      "end": 45.68
+    },
+    {
+      "word": "So,",
+      "start": 45.38,
+      "end": 45.86
+    },
+    {
+      "word": "ni-invite",
+      "start": 47.64,
+      "end": 48.12
+    },
+    {
+      "word": "po",
+      "start": 48.12,
+      "end": 48.28
+    },
+    {
+      "word": "namin",
+      "start": 48.28,
+      "end": 48.52
+    },
+    {
+      "word": "kayo",
+      "start": 48.52,
+      "end": 48.78
+    },
+    {
+      "word": "sa",
+      "start": 48.78,
+      "end": 48.96
+    },
+    {
+      "word": "December",
+      "start": 48.96,
+      "end": 49.36
+    },
+    {
+      "word": "6",
+      "start": 49.36,
+      "end": 49.76
+    },
+    {
+      "word": "sa",
+      "start": 49.34,
+      "end": 50.1
+    },
+    {
+      "word": "Country",
+      "start": 50.1,
+      "end": 50.52
+    },
+    {
+      "word": "Club.",
+      "start": 50.52,
+      "end": 50.9
+    },
+    {
+      "word": "Kita-kita",
+      "start": 51.52,
+      "end": 52.04
+    },
+    {
+      "word": "po",
+      "start": 52.04,
+      "end": 52.28
+    },
+    {
+      "word": "tayo.",
+      "start": 52.28,
+      "end": 52.76
+    },
+    {
+      "word": "At",
+      "start": 53.48,
+      "end": 53.6
+    },
+    {
+      "word": "niniwala",
+      "start": 53.6,
+      "end": 54.04
+    },
+    {
+      "word": "po",
+      "start": 54.04,
+      "end": 54.22
+    },
+    {
+      "word": "na",
+      "start": 54.22,
+      "end": 54.38
+    },
+    {
+      "word": "magandang",
+      "start": 54.38,
+      "end": 54.94
+    },
+    {
+      "word": "gagawin",
+      "start": 54.94,
+      "end": 55.38
+    },
+    {
+      "word": "ng",
+      "start": 55.38,
+      "end": 55.56
+    },
+    {
+      "word": "Lord",
+      "start": 55.08,
+      "end": 55.94
+    },
+    {
+      "word": "sa",
+      "start": 55.94,
+      "end": 56.14
+    },
+    {
+      "word": "araw",
+      "start": 56.14,
+      "end": 56.36
+    },
+    {
+      "word": "na",
+      "start": 56.36,
+      "end": 56.54
+    },
+    {
+      "word": "ito.",
+      "start": 56.54,
+      "end": 56.78
+    },
+    {
+      "word": "God",
+      "start": 57.86,
+      "end": 58.06
+    },
+    {
+      "word": "bless!",
+      "start": 58.06,
+      "end": 58.22
+    },
+    {
+      "word": "Thank",
+      "start": 60,
+      "end": 60.16
+    },
+    {
+      "word": "you",
+      "start": 60.16,
+      "end": 60.18
+    },
+    {
+      "word": "for",
+      "start": 60.18,
+      "end": 60.62
+    },
+    {
+      "word": "watching!",
+      "start": 60.62,
+      "end": 60.64
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 2,
+      "text": " expect ng mga tao sa itong anniversary natin?",
+      "tokens": [
+        50365,
+        2066,
+        6415,
+        275,
+        3680,
+        44292,
+        601,
+        309,
+        556,
+        12962,
+        2249,
+        259,
+        30,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.74,
+      "end": 3.54,
+      "text": " Anong gusto nilang",
+      "tokens": [
+        50502,
+        1107,
+        556,
+        38723,
+        297,
+        388,
+        656,
+        50542
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.54,
+      "end": 5.42,
+      "text": " expect? Parang invite, Pastor?",
+      "tokens": [
+        50542,
+        2066,
+        30,
+        3457,
+        656,
+        7980,
+        11,
+        34289,
+        30,
+        50636
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.12,
+      "end": 7.04,
+      "text": " Pang-invite.",
+      "tokens": [
+        50671,
+        49499,
+        12,
+        259,
+        85,
+        642,
+        13,
+        50717
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.96,
+      "end": 9.36,
+      "text": " Wala po kami",
+      "tokens": [
+        50763,
+        343,
+        5159,
+        714,
+        34502,
+        50833
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 9.36,
+      "end": 11.96,
+      "text": " ipang in-expect, panalangin",
+      "tokens": [
+        50833,
+        28501,
+        656,
+        294,
+        12,
+        3121,
+        1043,
+        11,
+        2462,
+        304,
+        656,
+        259,
+        50963
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 11.96,
+      "end": 14.08,
+      "text": " kundi yung maranasan",
+      "tokens": [
+        50963,
+        350,
+        997,
+        72,
+        288,
+        1063,
+        1849,
+        14292,
+        282,
+        51069
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 14.08,
+      "end": 15.98,
+      "text": " yung maranasan ng mga tao",
+      "tokens": [
+        51069,
+        288,
+        1063,
+        1849,
+        14292,
+        282,
+        6415,
+        275,
+        3680,
+        44292,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 15.98,
+      "end": 17.66,
+      "text": " yung presence ng Lord",
+      "tokens": [
+        51164,
+        288,
+        1063,
+        6814,
+        6415,
+        3257,
+        51248
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 17.66,
+      "end": 18.88,
+      "text": " this coming anniversary.",
+      "tokens": [
+        51248,
+        341,
+        1348,
+        12962,
+        13,
+        51309
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 20.039999,
+      "end": 21.64,
+      "text": " Kasi wala yung pang-mahalaga sa atin",
+      "tokens": [
+        51367,
+        591,
+        8483,
+        261,
+        5159,
+        288,
+        1063,
+        280,
+        656,
+        12,
+        76,
+        545,
+        304,
+        9286,
+        601,
+        412,
+        259,
+        51447
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 21.64,
+      "end": 24.039999,
+      "text": " sa panood natin ngayon, lalo na po",
+      "tokens": [
+        51447,
+        601,
+        2462,
+        1816,
+        2249,
+        259,
+        6415,
+        320,
+        266,
+        11,
+        287,
+        10334,
+        1667,
+        714,
+        51567
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 24.039999,
+      "end": 26.14,
+      "text": " itong anniversary natin, kundi yung",
+      "tokens": [
+        51567,
+        309,
+        556,
+        12962,
+        2249,
+        259,
+        11,
+        350,
+        997,
+        72,
+        288,
+        1063,
+        51672
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 26.14,
+      "end": 27.48,
+      "text": " presence ng Lord.",
+      "tokens": [
+        51672,
+        6814,
+        6415,
+        3257,
+        13,
+        51739
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 28,
+      "end": 29.82,
+      "text": " At ang pangako ng Lord sa inyong salita,",
+      "tokens": [
+        51765,
+        1711,
+        2562,
+        280,
+        656,
+        18501,
+        6415,
+        3257,
+        601,
+        294,
+        88,
+        556,
+        1845,
+        2786,
+        11,
+        51856
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23690309,
+      "compression_ratio": 1.9205607,
+      "no_speech_prob": 0.2775879
+    },
+    {
+      "id": 15,
+      "seek": 3000,
+      "start": 30,
+      "end": 32.58,
+      "text": " my presence will go with you.",
+      "tokens": [
+        50365,
+        452,
+        6814,
+        486,
+        352,
+        365,
+        291,
+        13,
+        50494
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 16,
+      "seek": 3000,
+      "start": 33.44,
+      "end": 34.12,
+      "text": " Yan ang",
+      "tokens": [
+        50537,
+        13633,
+        2562,
+        50571
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 17,
+      "seek": 3000,
+      "start": 34.12,
+      "end": 36.66,
+      "text": " panghawakan po natin this coming anniversary.",
+      "tokens": [
+        50571,
+        280,
+        656,
+        71,
+        1607,
+        14910,
+        714,
+        2249,
+        259,
+        341,
+        1348,
+        12962,
+        13,
+        50698
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 18,
+      "seek": 3000,
+      "start": 38.22,
+      "end": 39,
+      "text": " God bless!",
+      "tokens": [
+        50776,
+        1265,
+        5227,
+        0,
+        50815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 19,
+      "seek": 3000,
+      "start": 40.42,
+      "end": 42.34,
+      "text": " Di pa sa sabi mo lang, December 6",
+      "tokens": [
+        50886,
+        8789,
+        2502,
+        601,
+        5560,
+        72,
+        705,
+        2265,
+        11,
+        7687,
+        1386,
+        50982
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 20,
+      "seek": 3000,
+      "start": 42.34,
+      "end": 43.94,
+      "text": " sa Country Club.",
+      "tokens": [
+        50982,
+        601,
+        23216,
+        11288,
+        13,
+        51062
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 21,
+      "seek": 3000,
+      "start": 44.22,
+      "end": 45.66,
+      "text": " Ayun lang, sabi mo, sa December 6 sa Country Club.",
+      "tokens": [
+        51076,
+        9081,
+        409,
+        2265,
+        11,
+        5560,
+        72,
+        705,
+        11,
+        601,
+        7687,
+        1386,
+        601,
+        23216,
+        11288,
+        13,
+        51148
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 22,
+      "seek": 3000,
+      "start": 45.66,
+      "end": 45.82,
+      "text": " So,",
+      "tokens": [
+        51148,
+        407,
+        11,
+        51156
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 23,
+      "seek": 3000,
+      "start": 45.82,
+      "end": 49.84,
+      "text": " ni-invite po namin kayo sa December 6",
+      "tokens": [
+        51156,
+        3867,
+        12,
+        259,
+        85,
+        642,
+        714,
+        297,
+        7428,
+        12446,
+        78,
+        601,
+        7687,
+        1386,
+        51357
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 24,
+      "seek": 3000,
+      "start": 49.84,
+      "end": 50.94,
+      "text": " sa Country Club.",
+      "tokens": [
+        51357,
+        601,
+        23216,
+        11288,
+        13,
+        51412
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 25,
+      "seek": 3000,
+      "start": 51.5,
+      "end": 52.82,
+      "text": " Kita-kita po tayo.",
+      "tokens": [
+        51440,
+        27329,
+        12,
+        74,
+        2786,
+        714,
+        39224,
+        78,
+        13,
+        51506
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 26,
+      "seek": 3000,
+      "start": 53.48,
+      "end": 55.579998,
+      "text": " At niniwala po na magandang gagawin ng",
+      "tokens": [
+        51539,
+        1711,
+        297,
+        3812,
+        86,
+        5159,
+        714,
+        1667,
+        2258,
+        474,
+        656,
+        34833,
+        1607,
+        259,
+        6415,
+        51644
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 27,
+      "seek": 3000,
+      "start": 55.579998,
+      "end": 56.84,
+      "text": " Lord sa araw na ito.",
+      "tokens": [
+        51644,
+        3257,
+        601,
+        257,
+        5131,
+        1667,
+        309,
+        78,
+        13,
+        51707
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 28,
+      "seek": 3000,
+      "start": 57.82,
+      "end": 58.26,
+      "text": " God bless!",
+      "tokens": [
+        51756,
+        1265,
+        5227,
+        0,
+        51778
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36126345,
+      "compression_ratio": 1.721393,
+      "no_speech_prob": 0.03967285
+    },
+    {
+      "id": 29,
+      "seek": 6000,
+      "start": 60,
+      "end": 60.1,
+      "text": " Thank you for watching!",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        337,
+        1976,
+        0,
+        50370
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28491446,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.9301758
+    }
+  ],
+  "x_groq": {
+    "id": "req_01m65b7p2cetmb61k9y092ph45"
+  }
+}

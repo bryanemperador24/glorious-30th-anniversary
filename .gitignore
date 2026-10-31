@@ -1,0 +1,17 @@
+node_modules/
+out/
+.env
+.DS_Store
+
+# Raw footage, renders and other large or regenerable media stay local
+30th-anniversary/footage/
+30th-anniversary/renders/
+30th-anniversary/transcripts/audio/
+30th-anniversary/audio/music/
+public/anniversary/clips/
+public/anniversary/music/
+*.mov
+*.MOV
+*.mp4
+*.wav
+!public/anniversary/sfx/*.wav

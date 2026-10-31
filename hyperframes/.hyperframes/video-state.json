@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "historyId": "ae4db4ca-da5e-4f6d-b07c-0d49c71a655e",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060",
+      "content": "/Users/bryanemperador/.cache/hyperframes/history/ae4db4ca-da5e-4f6d-b07c-0d49c71a655e/blobs/1b/1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060"
+    },
+    "CLAUDE.md": {
+      "hash": "1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060",
+      "content": "/Users/bryanemperador/.cache/hyperframes/history/ae4db4ca-da5e-4f6d-b07c-0d49c71a655e/blobs/1b/1b36171117cb7c18f4100a0db6a3782ff2e096115995733200445cc2e80a4060"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/Users/bryanemperador/.cache/hyperframes/history/ae4db4ca-da5e-4f6d-b07c-0d49c71a655e/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "6a113838a27f17664b975753071997c5946b67f30c6d3d94c781d439c359f41a",
+      "content": "/Users/bryanemperador/.cache/hyperframes/history/ae4db4ca-da5e-4f6d-b07c-0d49c71a655e/blobs/6a/6a113838a27f17664b975753071997c5946b67f30c6d3d94c781d439c359f41a"
+    },
+    "meta.json": {
+      "hash": "8c0327785e5ba13e61944c71484ad8de8967cf27372db7f78a3a070fe09671e6",
+      "content": "/Users/bryanemperador/.cache/hyperframes/history/ae4db4ca-da5e-4f6d-b07c-0d49c71a655e/blobs/8c/8c0327785e5ba13e61944c71484ad8de8967cf27372db7f78a3a070fe09671e6"
+    },
+    "package.json": {
+      "hash": "0c2aa050cb2581727b12ea91b265405eaf905db83bc8a4723b33319ded154897",
+      "content": "/Users/bryanemperador/.cache/hyperframes/history/ae4db4ca-da5e-4f6d-b07c-0d49c71a655e/blobs/0c/0c2aa050cb2581727b12ea91b265405eaf905db83bc8a4723b33319ded154897"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "3f53ccd2-cca6-4781-9a8b-3e9bf75bcdca",
+      "completedAt": 1793327278595,
+      "output": "/Users/bryanemperador/Desktop/another video editor/out/hf-test.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}

@@ -1,0 +1,5190 @@
+{
+  "task": "transcribe",
+  "language": "Tagalog",
+  "duration": 305.31335813500004,
+  "text": " When and how did you first come to Glorious Church? Ay, atin! Okay, okay lang. Continue. Kay Kuya Yuan ka titingin. First time ko po makapunta sa Glorious Church, recently lang din po, last year. And through an invitation. So, as time went by, my mom was the one who invited me to the church. So, I was the one who invited her to the church. sa Glorious Church, recently lang din po, last last year. So, through an invitation po and the people who welcomed me here. So, as time went by, mas lumalim po yung relationship ko with God. And I also realized that itong church ito, hindi lang siya dito tayo nag-worship, pero para rin siya sa pag-grow natin ng faith, pag-serve natin sa kanya and para makapag-build ng relationship with the people who share the same faith Ayoko na What is one memory from this 30 years you will never forget A memory po na I will never forget is yung mga fellowship ko po with the dance ministry. So since po nagkakaroon po kami ng mga fellowship, Marami pong times na tatawanan po kami And I feel like it's the moment po na naglalas po I think na yung memory na yun, hindi lang po siya memory Pero it's the presence of God and the people he used to become part of that journey po And I also realized po na this church, hindi lang po siya building But it is also a family with Christ po How has God been faithful to you through this church? Well, God has been faithful to me Isa pa From the top Yun, from the top dyan Ready? How has God been faithful to you through this church? God has been faithful to me po By giving a community that encouraged me to build a relationship with God po So um Shucks Alati ano yung tanong Sige, sige. How has God been faithful to you through this church? God has been faithful to me po by giving a community that encouraged me to build relationships with people, but with Jesus, of course. So, um... Alati, sorry na talaga po. Okay, okay lang. Atido ko na po. Okay, maska. Para makita ka. Okay, ready? How has God been faithful to you through this church? God has been faithful to me by giving me a community that encourage me to build relationships with the people around me and with God, of course. So, parang nakakaroon po ako ng mga kahit na sobrang hirap po ng buhay, nakakaroon ng mga inconvenience. Pero through His words, of course, mas narirealize ko po na through faith po, I can do anything with God What does the 30th anniversary mean to you What does the 30th anniversary mean to you? Para po sa akin, hindi lang po siya celebration, pero it's a celebration. Shucks! What does the 30th anniversary mean to you? Para po sa akin, yung 30th anniversary is a celebration of faithfulness po Hindi lang po siya basta-basta celebration Pero ito po yung sacrifice po natin, prayer po natin And yung mga lives po na na-touch ni God po In one sentence, what is your message to the church for the next 30 years? So I pray that Glorious Church po Will be the church that always Shares the word of God Share the love of Christ And share a light That shines so bright for all the generations To see Okay, sabay-sabay Mag-end One Two Three",
+  "words": [
+    {
+      "word": "When",
+      "start": 1.54,
+      "end": 1.68
+    },
+    {
+      "word": "and",
+      "start": 1.68,
+      "end": 1.88
+    },
+    {
+      "word": "how",
+      "start": 1.88,
+      "end": 2.18
+    },
+    {
+      "word": "did",
+      "start": 2.18,
+      "end": 2.4
+    },
+    {
+      "word": "you",
+      "start": 2.4,
+      "end": 2.48
+    },
+    {
+      "word": "first",
+      "start": 2.48,
+      "end": 2.86
+    },
+    {
+      "word": "come",
+      "start": 2.86,
+      "end": 3.06
+    },
+    {
+      "word": "to",
+      "start": 3.06,
+      "end": 3.14
+    },
+    {
+      "word": "Glorious",
+      "start": 3.14,
+      "end": 3.62
+    },
+    {
+      "word": "Church?",
+      "start": 3.62,
+      "end": 4.48
+    },
+    {
+      "word": "Ay,",
+      "start": 6.78,
+      "end": 7.38
+    },
+    {
+      "word": "atin!",
+      "start": 7.38,
+      "end": 8.02
+    },
+    {
+      "word": "Okay,",
+      "start": 7.54,
+      "end": 9.98
+    },
+    {
+      "word": "okay",
+      "start": 9.98,
+      "end": 10.46
+    },
+    {
+      "word": "lang.",
+      "start": 10.46,
+      "end": 11
+    },
+    {
+      "word": "Continue.",
+      "start": 11,
+      "end": 11.48
+    },
+    {
+      "word": "Kay",
+      "start": 11.78,
+      "end": 12.08
+    },
+    {
+      "word": "Kuya",
+      "start": 12.08,
+      "end": 12.62
+    },
+    {
+      "word": "Yuan",
+      "start": 12.62,
+      "end": 12.84
+    },
+    {
+      "word": "ka",
+      "start": 12.84,
+      "end": 13.04
+    },
+    {
+      "word": "titingin.",
+      "start": 13.04,
+      "end": 13.48
+    },
+    {
+      "word": "First",
+      "start": 18.02,
+      "end": 18.42
+    },
+    {
+      "word": "time",
+      "start": 18.42,
+      "end": 18.68
+    },
+    {
+      "word": "ko",
+      "start": 18.68,
+      "end": 18.8
+    },
+    {
+      "word": "po",
+      "start": 18.8,
+      "end": 18.94
+    },
+    {
+      "word": "makapunta",
+      "start": 18.94,
+      "end": 19.48
+    },
+    {
+      "word": "sa",
+      "start": 19.48,
+      "end": 19.64
+    },
+    {
+      "word": "Glorious",
+      "start": 19.64,
+      "end": 20.06
+    },
+    {
+      "word": "Church,",
+      "start": 20.06,
+      "end": 20.82
+    },
+    {
+      "word": "recently",
+      "start": 20.82,
+      "end": 21.5
+    },
+    {
+      "word": "lang",
+      "start": 21.5,
+      "end": 21.82
+    },
+    {
+      "word": "din",
+      "start": 21.82,
+      "end": 21.98
+    },
+    {
+      "word": "po,",
+      "start": 21.98,
+      "end": 22.2
+    },
+    {
+      "word": "last",
+      "start": 22.2,
+      "end": 22.46
+    },
+    {
+      "word": "year.",
+      "start": 22.46,
+      "end": 23.16
+    },
+    {
+      "word": "And",
+      "start": 23.58,
+      "end": 24
+    },
+    {
+      "word": "through",
+      "start": 24,
+      "end": 24.5
+    },
+    {
+      "word": "an",
+      "start": 24.5,
+      "end": 24.76
+    },
+    {
+      "word": "invitation.",
+      "start": 24.76,
+      "end": 25.48
+    },
+    {
+      "word": "So,",
+      "start": 25,
+      "end": 29.2
+    },
+    {
+      "word": "as",
+      "start": 29.2,
+      "end": 29.8
+    },
+    {
+      "word": "time",
+      "start": 29.8,
+      "end": 29.82
+    },
+    {
+      "word": "went",
+      "start": 29.82,
+      "end": 29.9
+    },
+    {
+      "word": "by,",
+      "start": 29.9,
+      "end": 30.3
+    },
+    {
+      "word": "my",
+      "start": 30.3,
+      "end": 30.32
+    },
+    {
+      "word": "mom",
+      "start": 30.32,
+      "end": 31.96
+    },
+    {
+      "word": "was",
+      "start": 31.96,
+      "end": 32.36
+    },
+    {
+      "word": "the",
+      "start": 32.36,
+      "end": 32.38
+    },
+    {
+      "word": "one",
+      "start": 32.38,
+      "end": 32.4
+    },
+    {
+      "word": "who",
+      "start": 32.4,
+      "end": 32.42
+    },
+    {
+      "word": "invited",
+      "start": 32.42,
+      "end": 32.44
+    },
+    {
+      "word": "me",
+      "start": 32.44,
+      "end": 34.76
+    },
+    {
+      "word": "to",
+      "start": 34.76,
+      "end": 34.78
+    },
+    {
+      "word": "the",
+      "start": 34.78,
+      "end": 34.8
+    },
+    {
+      "word": "church.",
+      "start": 34.8,
+      "end": 34.88
+    },
+    {
+      "word": "So,",
+      "start": 43.68,
+      "end": 43.7
+    },
+    {
+      "word": "I",
+      "start": 43.7,
+      "end": 43.86
+    },
+    {
+      "word": "was",
+      "start": 43.86,
+      "end": 44.4
+    },
+    {
+      "word": "the",
+      "start": 44.4,
+      "end": 44.42
+    },
+    {
+      "word": "one",
+      "start": 44.42,
+      "end": 44.44
+    },
+    {
+      "word": "who",
+      "start": 44.44,
+      "end": 44.86
+    },
+    {
+      "word": "invited",
+      "start": 44.86,
+      "end": 44.88
+    },
+    {
+      "word": "her",
+      "start": 44.88,
+      "end": 45.1
+    },
+    {
+      "word": "to",
+      "start": 45.1,
+      "end": 45.12
+    },
+    {
+      "word": "the",
+      "start": 45.12,
+      "end": 45.16
+    },
+    {
+      "word": "church.",
+      "start": 45.16,
+      "end": 45.48
+    },
+    {
+      "word": "sa",
+      "start": 45,
+      "end": 45.22
+    },
+    {
+      "word": "Glorious",
+      "start": 45.22,
+      "end": 45.68
+    },
+    {
+      "word": "Church,",
+      "start": 45.68,
+      "end": 46.22
+    },
+    {
+      "word": "recently",
+      "start": 46.22,
+      "end": 46.98
+    },
+    {
+      "word": "lang",
+      "start": 46.76,
+      "end": 47.42
+    },
+    {
+      "word": "din",
+      "start": 47.42,
+      "end": 47.6
+    },
+    {
+      "word": "po,",
+      "start": 47.6,
+      "end": 47.84
+    },
+    {
+      "word": "last",
+      "start": 47.84,
+      "end": 48.08
+    },
+    {
+      "word": "last",
+      "start": 48.08,
+      "end": 48.32
+    },
+    {
+      "word": "year.",
+      "start": 48.32,
+      "end": 49.08
+    },
+    {
+      "word": "So,",
+      "start": 49.16,
+      "end": 49.54
+    },
+    {
+      "word": "through",
+      "start": 49.54,
+      "end": 50.1
+    },
+    {
+      "word": "an",
+      "start": 50.1,
+      "end": 50.28
+    },
+    {
+      "word": "invitation",
+      "start": 50.28,
+      "end": 50.86
+    },
+    {
+      "word": "po",
+      "start": 50.86,
+      "end": 51.22
+    },
+    {
+      "word": "and",
+      "start": 50.74,
+      "end": 51.48
+    },
+    {
+      "word": "the",
+      "start": 51.48,
+      "end": 51.6
+    },
+    {
+      "word": "people",
+      "start": 51.6,
+      "end": 51.84
+    },
+    {
+      "word": "who",
+      "start": 51.84,
+      "end": 52.14
+    },
+    {
+      "word": "welcomed",
+      "start": 52.14,
+      "end": 52.6
+    },
+    {
+      "word": "me",
+      "start": 52.6,
+      "end": 52.78
+    },
+    {
+      "word": "here.",
+      "start": 52.78,
+      "end": 53.46
+    },
+    {
+      "word": "So,",
+      "start": 53.32,
+      "end": 53.5
+    },
+    {
+      "word": "as",
+      "start": 53.5,
+      "end": 53.7
+    },
+    {
+      "word": "time",
+      "start": 53.7,
+      "end": 53.96
+    },
+    {
+      "word": "went",
+      "start": 53.96,
+      "end": 54.24
+    },
+    {
+      "word": "by,",
+      "start": 54.24,
+      "end": 54.94
+    },
+    {
+      "word": "mas",
+      "start": 55,
+      "end": 55.3
+    },
+    {
+      "word": "lumalim",
+      "start": 55.3,
+      "end": 55.8
+    },
+    {
+      "word": "po",
+      "start": 55.8,
+      "end": 56.02
+    },
+    {
+      "word": "yung",
+      "start": 56.02,
+      "end": 56.1
+    },
+    {
+      "word": "relationship",
+      "start": 56.1,
+      "end": 56.58
+    },
+    {
+      "word": "ko",
+      "start": 56.58,
+      "end": 57.06
+    },
+    {
+      "word": "with",
+      "start": 56.58,
+      "end": 57.26
+    },
+    {
+      "word": "God.",
+      "start": 57.26,
+      "end": 57.62
+    },
+    {
+      "word": "And",
+      "start": 57.62,
+      "end": 58
+    },
+    {
+      "word": "I",
+      "start": 58,
+      "end": 58.1
+    },
+    {
+      "word": "also",
+      "start": 58.1,
+      "end": 58.4
+    },
+    {
+      "word": "realized",
+      "start": 58.4,
+      "end": 58.88
+    },
+    {
+      "word": "that",
+      "start": 58.54,
+      "end": 59.52
+    },
+    {
+      "word": "itong",
+      "start": 59.52,
+      "end": 59.98
+    },
+    {
+      "word": "church",
+      "start": 59.98,
+      "end": 60.26
+    },
+    {
+      "word": "ito,",
+      "start": 60.26,
+      "end": 60.6
+    },
+    {
+      "word": "hindi",
+      "start": 60.6,
+      "end": 60.7
+    },
+    {
+      "word": "lang",
+      "start": 60.7,
+      "end": 60.9
+    },
+    {
+      "word": "siya",
+      "start": 60.9,
+      "end": 61.1
+    },
+    {
+      "word": "dito",
+      "start": 61.66,
+      "end": 61.9
+    },
+    {
+      "word": "tayo",
+      "start": 61.9,
+      "end": 62.12
+    },
+    {
+      "word": "nag-worship,",
+      "start": 62.12,
+      "end": 62.76
+    },
+    {
+      "word": "pero",
+      "start": 62.76,
+      "end": 62.94
+    },
+    {
+      "word": "para",
+      "start": 62.74,
+      "end": 63.56
+    },
+    {
+      "word": "rin",
+      "start": 63.56,
+      "end": 63.82
+    },
+    {
+      "word": "siya",
+      "start": 63.82,
+      "end": 64.08
+    },
+    {
+      "word": "sa",
+      "start": 64.08,
+      "end": 64.24
+    },
+    {
+      "word": "pag-grow",
+      "start": 64.24,
+      "end": 65.1
+    },
+    {
+      "word": "natin",
+      "start": 64.64,
+      "end": 65.42
+    },
+    {
+      "word": "ng",
+      "start": 65.42,
+      "end": 65.58
+    },
+    {
+      "word": "faith,",
+      "start": 65.58,
+      "end": 66.02
+    },
+    {
+      "word": "pag-serve",
+      "start": 66.02,
+      "end": 66.38
+    },
+    {
+      "word": "natin",
+      "start": 66.38,
+      "end": 66.72
+    },
+    {
+      "word": "sa",
+      "start": 66.72,
+      "end": 66.88
+    },
+    {
+      "word": "kanya",
+      "start": 66.88,
+      "end": 67.14
+    },
+    {
+      "word": "and",
+      "start": 66.68,
+      "end": 67.82
+    },
+    {
+      "word": "para",
+      "start": 67.82,
+      "end": 68.16
+    },
+    {
+      "word": "makapag-build",
+      "start": 68.16,
+      "end": 68.8
+    },
+    {
+      "word": "ng",
+      "start": 68.8,
+      "end": 69.02
+    },
+    {
+      "word": "relationship",
+      "start": 68.56,
+      "end": 69.74
+    },
+    {
+      "word": "with",
+      "start": 69.74,
+      "end": 70.1
+    },
+    {
+      "word": "the",
+      "start": 70.1,
+      "end": 70.22
+    },
+    {
+      "word": "people",
+      "start": 70.22,
+      "end": 70.56
+    },
+    {
+      "word": "who",
+      "start": 70.56,
+      "end": 70.78
+    },
+    {
+      "word": "share",
+      "start": 70.78,
+      "end": 70.98
+    },
+    {
+      "word": "the",
+      "start": 70.5,
+      "end": 71.2
+    },
+    {
+      "word": "same",
+      "start": 71.2,
+      "end": 71.44
+    },
+    {
+      "word": "faith.",
+      "start": 71.44,
+      "end": 72.04
+    },
+    {
+      "word": "Ayoko",
+      "start": 76.9,
+      "end": 77.52
+    },
+    {
+      "word": "na.",
+      "start": 77.52,
+      "end": 78.3
+    },
+    {
+      "word": "What",
+      "start": 71.32833,
+      "end": 77.54833
+    },
+    {
+      "word": "is",
+      "start": 77.54833,
+      "end": 82.60833
+    },
+    {
+      "word": "one",
+      "start": 82.60833,
+      "end": 82.90833
+    },
+    {
+      "word": "memory",
+      "start": 82.90833,
+      "end": 83.34833
+    },
+    {
+      "word": "from",
+      "start": 83.34833,
+      "end": 83.70833
+    },
+    {
+      "word": "this",
+      "start": 83.70833,
+      "end": 84.02833
+    },
+    {
+      "word": "30",
+      "start": 84.02833,
+      "end": 84.50833
+    },
+    {
+      "word": "years",
+      "start": 84.50833,
+      "end": 84.88833
+    },
+    {
+      "word": "you",
+      "start": 84.88833,
+      "end": 85.10833
+    },
+    {
+      "word": "will",
+      "start": 85.10833,
+      "end": 85.24833
+    },
+    {
+      "word": "never",
+      "start": 85.24833,
+      "end": 85.58833
+    },
+    {
+      "word": "forget?",
+      "start": 85.58833,
+      "end": 86.08833
+    },
+    {
+      "word": "A",
+      "start": 87.70833,
+      "end": 87.808334
+    },
+    {
+      "word": "memory",
+      "start": 87.808334,
+      "end": 88.20833
+    },
+    {
+      "word": "po",
+      "start": 88.20833,
+      "end": 88.46833
+    },
+    {
+      "word": "na",
+      "start": 88.46833,
+      "end": 88.668335
+    },
+    {
+      "word": "I",
+      "start": 88.668335,
+      "end": 88.88833
+    },
+    {
+      "word": "will",
+      "start": 88.88833,
+      "end": 89.04833
+    },
+    {
+      "word": "never",
+      "start": 89.04833,
+      "end": 89.308334
+    },
+    {
+      "word": "forget",
+      "start": 89.308334,
+      "end": 89.74833
+    },
+    {
+      "word": "is",
+      "start": 89.74833,
+      "end": 90.06833
+    },
+    {
+      "word": "yung",
+      "start": 90.06833,
+      "end": 90.24833
+    },
+    {
+      "word": "mga",
+      "start": 90.24833,
+      "end": 90.48833
+    },
+    {
+      "word": "fellowship",
+      "start": 90.48833,
+      "end": 91.10833
+    },
+    {
+      "word": "ko",
+      "start": 91.10833,
+      "end": 91.34833
+    },
+    {
+      "word": "po",
+      "start": 91.34833,
+      "end": 91.46833
+    },
+    {
+      "word": "with",
+      "start": 91.46833,
+      "end": 91.72833
+    },
+    {
+      "word": "the",
+      "start": 91.72833,
+      "end": 91.86833
+    },
+    {
+      "word": "dance",
+      "start": 91.86833,
+      "end": 92.308334
+    },
+    {
+      "word": "ministry.",
+      "start": 92.308334,
+      "end": 93.42833
+    },
+    {
+      "word": "So",
+      "start": 92.96833,
+      "end": 94.14833
+    },
+    {
+      "word": "since",
+      "start": 94.14833,
+      "end": 94.98833
+    },
+    {
+      "word": "po",
+      "start": 94.98833,
+      "end": 95.26833
+    },
+    {
+      "word": "nagkakaroon",
+      "start": 95.26833,
+      "end": 95.98833
+    },
+    {
+      "word": "po",
+      "start": 95.98833,
+      "end": 96.20833
+    },
+    {
+      "word": "kami",
+      "start": 96.20833,
+      "end": 96.40833
+    },
+    {
+      "word": "ng",
+      "start": 96.40833,
+      "end": 96.50833
+    },
+    {
+      "word": "mga",
+      "start": 96.50833,
+      "end": 96.70833
+    },
+    {
+      "word": "fellowship,",
+      "start": 96.70833,
+      "end": 97.78833
+    },
+    {
+      "word": "Marami",
+      "start": 97.308334,
+      "end": 98.28833
+    },
+    {
+      "word": "pong",
+      "start": 98.28833,
+      "end": 98.48833
+    },
+    {
+      "word": "times",
+      "start": 98.48833,
+      "end": 98.808334
+    },
+    {
+      "word": "na",
+      "start": 98.808334,
+      "end": 99.12833
+    },
+    {
+      "word": "tatawanan",
+      "start": 99.12833,
+      "end": 100.40833
+    },
+    {
+      "word": "po",
+      "start": 100.40833,
+      "end": 100.58833
+    },
+    {
+      "word": "kami",
+      "start": 100.58833,
+      "end": 100.808334
+    },
+    {
+      "word": "And",
+      "start": 100.34833,
+      "end": 101.20833
+    },
+    {
+      "word": "I",
+      "start": 101.20833,
+      "end": 101.68833
+    },
+    {
+      "word": "feel",
+      "start": 101.68833,
+      "end": 101.88833
+    },
+    {
+      "word": "like",
+      "start": 101.88833,
+      "end": 102.04833
+    },
+    {
+      "word": "it's",
+      "start": 102.04833,
+      "end": 102.38833
+    },
+    {
+      "word": "the",
+      "start": 102.38833,
+      "end": 102.72833
+    },
+    {
+      "word": "moment",
+      "start": 102.72833,
+      "end": 103.32833
+    },
+    {
+      "word": "po",
+      "start": 103.32833,
+      "end": 103.64833
+    },
+    {
+      "word": "na",
+      "start": 103.64833,
+      "end": 103.888336
+    },
+    {
+      "word": "naglalas",
+      "start": 103.888336,
+      "end": 104.70833
+    },
+    {
+      "word": "po",
+      "start": 104.70833,
+      "end": 104.888336
+    },
+    {
+      "word": "I",
+      "start": 104.50833,
+      "end": 105.388336
+    },
+    {
+      "word": "think",
+      "start": 105.388336,
+      "end": 105.668335
+    },
+    {
+      "word": "na",
+      "start": 105.668335,
+      "end": 105.808334
+    },
+    {
+      "word": "yung",
+      "start": 105.808334,
+      "end": 106.18833
+    },
+    {
+      "word": "memory",
+      "start": 106.18833,
+      "end": 106.50833
+    },
+    {
+      "word": "na",
+      "start": 106.50833,
+      "end": 106.72833
+    },
+    {
+      "word": "yun,",
+      "start": 106.72833,
+      "end": 106.98833
+    },
+    {
+      "word": "hindi",
+      "start": 106.98833,
+      "end": 107.08833
+    },
+    {
+      "word": "lang",
+      "start": 107.08833,
+      "end": 107.28833
+    },
+    {
+      "word": "po",
+      "start": 107.28833,
+      "end": 107.44833
+    },
+    {
+      "word": "siya",
+      "start": 107.44833,
+      "end": 107.60833
+    },
+    {
+      "word": "memory",
+      "start": 107.60833,
+      "end": 108.36833
+    },
+    {
+      "word": "Pero",
+      "start": 108.20833,
+      "end": 108.96833
+    },
+    {
+      "word": "it's",
+      "start": 108.96833,
+      "end": 109.34833
+    },
+    {
+      "word": "the",
+      "start": 109.34833,
+      "end": 109.54833
+    },
+    {
+      "word": "presence",
+      "start": 109.54833,
+      "end": 109.96833
+    },
+    {
+      "word": "of",
+      "start": 109.96833,
+      "end": 110.20833
+    },
+    {
+      "word": "God",
+      "start": 110.20833,
+      "end": 110.46833
+    },
+    {
+      "word": "and",
+      "start": 110.46833,
+      "end": 110.68833
+    },
+    {
+      "word": "the",
+      "start": 110.68833,
+      "end": 111.268326
+    },
+    {
+      "word": "people",
+      "start": 111.268326,
+      "end": 111.54833
+    },
+    {
+      "word": "he",
+      "start": 111.54833,
+      "end": 111.768326
+    },
+    {
+      "word": "used",
+      "start": 111.768326,
+      "end": 112.04833
+    },
+    {
+      "word": "to",
+      "start": 112.04833,
+      "end": 112.36833
+    },
+    {
+      "word": "become",
+      "start": 112.36833,
+      "end": 112.94833
+    },
+    {
+      "word": "part",
+      "start": 112.94833,
+      "end": 113.308334
+    },
+    {
+      "word": "of",
+      "start": 113.308334,
+      "end": 113.50833
+    },
+    {
+      "word": "that",
+      "start": 113.50833,
+      "end": 113.72833
+    },
+    {
+      "word": "journey",
+      "start": 113.72833,
+      "end": 114.06833
+    },
+    {
+      "word": "po",
+      "start": 114.06833,
+      "end": 114.28833
+    },
+    {
+      "word": "And",
+      "start": 113.86833,
+      "end": 114.888336
+    },
+    {
+      "word": "I",
+      "start": 114.888336,
+      "end": 115.04833
+    },
+    {
+      "word": "also",
+      "start": 115.04833,
+      "end": 115.34833
+    },
+    {
+      "word": "realized",
+      "start": 115.34833,
+      "end": 116.18833
+    },
+    {
+      "word": "po",
+      "start": 116.18833,
+      "end": 116.34833
+    },
+    {
+      "word": "na",
+      "start": 116.34833,
+      "end": 116.48833
+    },
+    {
+      "word": "this",
+      "start": 116.48833,
+      "end": 116.84833
+    },
+    {
+      "word": "church,",
+      "start": 116.84833,
+      "end": 117.268326
+    },
+    {
+      "word": "hindi",
+      "start": 117.268326,
+      "end": 117.40833
+    },
+    {
+      "word": "lang",
+      "start": 117.40833,
+      "end": 117.528336
+    },
+    {
+      "word": "po",
+      "start": 117.528336,
+      "end": 117.668335
+    },
+    {
+      "word": "siya",
+      "start": 117.668335,
+      "end": 117.78833
+    },
+    {
+      "word": "building",
+      "start": 117.78833,
+      "end": 118.14833
+    },
+    {
+      "word": "But",
+      "start": 117.92833,
+      "end": 118.58833
+    },
+    {
+      "word": "it",
+      "start": 118.58833,
+      "end": 118.82833
+    },
+    {
+      "word": "is",
+      "start": 118.82833,
+      "end": 119.00833
+    },
+    {
+      "word": "also",
+      "start": 119.00833,
+      "end": 119.28833
+    },
+    {
+      "word": "a",
+      "start": 119.28833,
+      "end": 119.48833
+    },
+    {
+      "word": "family",
+      "start": 119.48833,
+      "end": 119.92833
+    },
+    {
+      "word": "with",
+      "start": 119.92833,
+      "end": 120.86833
+    },
+    {
+      "word": "Christ",
+      "start": 120.86833,
+      "end": 121.22833
+    },
+    {
+      "word": "po",
+      "start": 121.22833,
+      "end": 121.46833
+    },
+    {
+      "word": "How",
+      "start": 122.84833,
+      "end": 122.98833
+    },
+    {
+      "word": "has",
+      "start": 122.98833,
+      "end": 123.308334
+    },
+    {
+      "word": "God",
+      "start": 123.308334,
+      "end": 123.668335
+    },
+    {
+      "word": "been",
+      "start": 123.668335,
+      "end": 123.888336
+    },
+    {
+      "word": "faithful",
+      "start": 123.888336,
+      "end": 124.28833
+    },
+    {
+      "word": "to",
+      "start": 124.28833,
+      "end": 124.50833
+    },
+    {
+      "word": "you",
+      "start": 124.50833,
+      "end": 124.82833
+    },
+    {
+      "word": "through",
+      "start": 124.82833,
+      "end": 125.18833
+    },
+    {
+      "word": "this",
+      "start": 125.18833,
+      "end": 125.50833
+    },
+    {
+      "word": "church?",
+      "start": 125.50833,
+      "end": 126.42833
+    },
+    {
+      "word": "Well,",
+      "start": 126.72833,
+      "end": 127.388336
+    },
+    {
+      "word": "God",
+      "start": 127.388336,
+      "end": 127.50833
+    },
+    {
+      "word": "has",
+      "start": 127.50833,
+      "end": 127.808334
+    },
+    {
+      "word": "been",
+      "start": 127.808334,
+      "end": 128.00833
+    },
+    {
+      "word": "faithful",
+      "start": 128.00833,
+      "end": 128.40833
+    },
+    {
+      "word": "to",
+      "start": 128.40833,
+      "end": 129.00833
+    },
+    {
+      "word": "me",
+      "start": 129.00833,
+      "end": 129.38834
+    },
+    {
+      "word": "Isa",
+      "start": 129.80833,
+      "end": 131.70833
+    },
+    {
+      "word": "pa",
+      "start": 131.70833,
+      "end": 132.46832
+    },
+    {
+      "word": "From",
+      "start": 132.02834,
+      "end": 134.14833
+    },
+    {
+      "word": "the",
+      "start": 134.14833,
+      "end": 134.30833
+    },
+    {
+      "word": "top",
+      "start": 134.30833,
+      "end": 134.52834
+    },
+    {
+      "word": "Yun,",
+      "start": 134.06833,
+      "end": 135.02834
+    },
+    {
+      "word": "from",
+      "start": 135.02834,
+      "end": 135.20833
+    },
+    {
+      "word": "the",
+      "start": 135.20833,
+      "end": 135.38834
+    },
+    {
+      "word": "top",
+      "start": 135.38834,
+      "end": 135.50833
+    },
+    {
+      "word": "dyan",
+      "start": 135.50833,
+      "end": 135.70833
+    },
+    {
+      "word": "Ready?",
+      "start": 136.76834,
+      "end": 137.52832
+    },
+    {
+      "word": "How",
+      "start": 137.66833,
+      "end": 137.82834
+    },
+    {
+      "word": "has",
+      "start": 137.82834,
+      "end": 138.08833
+    },
+    {
+      "word": "God",
+      "start": 138.08833,
+      "end": 138.36833
+    },
+    {
+      "word": "been",
+      "start": 138.36833,
+      "end": 138.60834
+    },
+    {
+      "word": "faithful",
+      "start": 138.60834,
+      "end": 138.90833
+    },
+    {
+      "word": "to",
+      "start": 138.90833,
+      "end": 139.18832
+    },
+    {
+      "word": "you",
+      "start": 139.18832,
+      "end": 139.40833
+    },
+    {
+      "word": "through",
+      "start": 139.40833,
+      "end": 139.70833
+    },
+    {
+      "word": "this",
+      "start": 139.70833,
+      "end": 140.04834
+    },
+    {
+      "word": "church?",
+      "start": 140.04834,
+      "end": 141.04834
+    },
+    {
+      "word": "God",
+      "start": 141.36833,
+      "end": 141.52832
+    },
+    {
+      "word": "has",
+      "start": 141.52832,
+      "end": 141.78833
+    },
+    {
+      "word": "been",
+      "start": 141.78833,
+      "end": 141.96832
+    },
+    {
+      "word": "faithful",
+      "start": 141.96832,
+      "end": 142.48834
+    },
+    {
+      "word": "to",
+      "start": 142.48834,
+      "end": 142.98834
+    },
+    {
+      "word": "me",
+      "start": 142.98834,
+      "end": 143.20833
+    },
+    {
+      "word": "po",
+      "start": 143.20833,
+      "end": 143.30833
+    },
+    {
+      "word": "By",
+      "start": 143.08833,
+      "end": 143.56833
+    },
+    {
+      "word": "giving",
+      "start": 143.56833,
+      "end": 143.96832
+    },
+    {
+      "word": "a",
+      "start": 143.96832,
+      "end": 144.16833
+    },
+    {
+      "word": "community",
+      "start": 144.16833,
+      "end": 144.66833
+    },
+    {
+      "word": "that",
+      "start": 144.66833,
+      "end": 144.92833
+    },
+    {
+      "word": "encouraged",
+      "start": 144.92833,
+      "end": 145.52832
+    },
+    {
+      "word": "me",
+      "start": 145.52832,
+      "end": 145.68832
+    },
+    {
+      "word": "to",
+      "start": 145.68832,
+      "end": 145.90833
+    },
+    {
+      "word": "build",
+      "start": 145.90833,
+      "end": 146.34833
+    },
+    {
+      "word": "a",
+      "start": 146.34833,
+      "end": 146.52832
+    },
+    {
+      "word": "relationship",
+      "start": 146.52832,
+      "end": 147.16833
+    },
+    {
+      "word": "with",
+      "start": 147.16833,
+      "end": 147.52832
+    },
+    {
+      "word": "God",
+      "start": 147.52832,
+      "end": 147.72833
+    },
+    {
+      "word": "po",
+      "start": 147.72833,
+      "end": 147.92833
+    },
+    {
+      "word": "So,",
+      "start": 148.38834,
+      "end": 148.78833
+    },
+    {
+      "word": "um",
+      "start": 148.78833,
+      "end": 148.90833
+    },
+    {
+      "word": "Shucks",
+      "start": 149.58833,
+      "end": 150.40833
+    },
+    {
+      "word": "Okay",
+      "start": 151.04834,
+      "end": 151.62833
+    },
+    {
+      "word": "lang,",
+      "start": 151.62833,
+      "end": 152.04834
+    },
+    {
+      "word": "okay",
+      "start": 152.04834,
+      "end": 152.30833
+    },
+    {
+      "word": "lang",
+      "start": 152.30833,
+      "end": 152.48834
+    },
+    {
+      "word": "Ikaw",
+      "start": 152.88834,
+      "end": 153.60834
+    },
+    {
+      "word": "ang",
+      "start": 153.60834,
+      "end": 153.70833
+    },
+    {
+      "word": "Tagalog",
+      "start": 153.70833,
+      "end": 154.00833
+    },
+    {
+      "word": "Oo",
+      "start": 154.70833,
+      "end": 154.84833
+    },
+    {
+      "word": "nga",
+      "start": 154.84833,
+      "end": 155.08833
+    },
+    {
+      "word": "po,",
+      "start": 155.08833,
+      "end": 155.34833
+    },
+    {
+      "word": "huwin",
+      "start": 155.34833,
+      "end": 155.62833
+    },
+    {
+      "word": "lang,",
+      "start": 155.62833,
+      "end": 155.94833
+    },
+    {
+      "word": "huwin",
+      "start": 155.94833,
+      "end": 155.96832
+    },
+    {
+      "word": "lang",
+      "start": 155.96832,
+      "end": 156.14833
+    },
+    {
+      "word": "So,",
+      "start": 147.65666,
+      "end": 148.77666
+    },
+    {
+      "word": "um,",
+      "start": 148.77666,
+      "end": 149.57666
+    },
+    {
+      "word": "shucks!",
+      "start": 149.57666,
+      "end": 150.99666
+    },
+    {
+      "word": "Alati,",
+      "start": 151.13666,
+      "end": 151.55666
+    },
+    {
+      "word": "ano",
+      "start": 151.55666,
+      "end": 155.75667
+    },
+    {
+      "word": "yung",
+      "start": 155.75667,
+      "end": 165.03667
+    },
+    {
+      "word": "tanong?",
+      "start": 165.03667,
+      "end": 167.75667
+    },
+    {
+      "word": "Sige,",
+      "start": 167.73666,
+      "end": 168.21666
+    },
+    {
+      "word": "sige.",
+      "start": 168.21666,
+      "end": 168.55666
+    },
+    {
+      "word": "How",
+      "start": 168.61667,
+      "end": 170.13666
+    },
+    {
+      "word": "has",
+      "start": 170.13666,
+      "end": 170.45667
+    },
+    {
+      "word": "God",
+      "start": 170.45667,
+      "end": 170.71666
+    },
+    {
+      "word": "been",
+      "start": 170.71666,
+      "end": 170.99666
+    },
+    {
+      "word": "faithful",
+      "start": 170.99666,
+      "end": 171.39667
+    },
+    {
+      "word": "to",
+      "start": 171.39667,
+      "end": 171.67667
+    },
+    {
+      "word": "you",
+      "start": 171.67667,
+      "end": 171.91666
+    },
+    {
+      "word": "through",
+      "start": 171.91666,
+      "end": 172.23666
+    },
+    {
+      "word": "this",
+      "start": 172.23666,
+      "end": 172.53667
+    },
+    {
+      "word": "church?",
+      "start": 172.53667,
+      "end": 173.43666
+    },
+    {
+      "word": "God",
+      "start": 173.49666,
+      "end": 173.81667
+    },
+    {
+      "word": "has",
+      "start": 173.81667,
+      "end": 174.07666
+    },
+    {
+      "word": "been",
+      "start": 174.07666,
+      "end": 174.23666
+    },
+    {
+      "word": "faithful",
+      "start": 174.23666,
+      "end": 174.59666
+    },
+    {
+      "word": "to",
+      "start": 174.59666,
+      "end": 175.23666
+    },
+    {
+      "word": "me",
+      "start": 175.23666,
+      "end": 175.45667
+    },
+    {
+      "word": "po",
+      "start": 175.45667,
+      "end": 175.59666
+    },
+    {
+      "word": "by",
+      "start": 175.65666,
+      "end": 176.13666
+    },
+    {
+      "word": "giving",
+      "start": 176.13666,
+      "end": 176.45667
+    },
+    {
+      "word": "a",
+      "start": 176.45667,
+      "end": 176.65666
+    },
+    {
+      "word": "community",
+      "start": 176.65666,
+      "end": 177.15666
+    },
+    {
+      "word": "that",
+      "start": 177.15666,
+      "end": 177.47665
+    },
+    {
+      "word": "encouraged",
+      "start": 177.21666,
+      "end": 178.25667
+    },
+    {
+      "word": "me",
+      "start": 178.25667,
+      "end": 178.39667
+    },
+    {
+      "word": "to",
+      "start": 178.39667,
+      "end": 178.59666
+    },
+    {
+      "word": "build",
+      "start": 178.59666,
+      "end": 178.91666
+    },
+    {
+      "word": "relationships",
+      "start": 178.91666,
+      "end": 179.55666
+    },
+    {
+      "word": "with",
+      "start": 179.13666,
+      "end": 180.71666
+    },
+    {
+      "word": "people,",
+      "start": 180.71666,
+      "end": 181.67667
+    },
+    {
+      "word": "but",
+      "start": 181.67667,
+      "end": 181.77666
+    },
+    {
+      "word": "with",
+      "start": 181.77666,
+      "end": 182.03667
+    },
+    {
+      "word": "Jesus,",
+      "start": 181.61667,
+      "end": 183.23666
+    },
+    {
+      "word": "of",
+      "start": 183.23666,
+      "end": 183.61667
+    },
+    {
+      "word": "course.",
+      "start": 183.61667,
+      "end": 183.79666
+    },
+    {
+      "word": "So,",
+      "start": 183.75665,
+      "end": 184.57666
+    },
+    {
+      "word": "um...",
+      "start": 184.57666,
+      "end": 185.49666
+    },
+    {
+      "word": "Alati,",
+      "start": 185.59666,
+      "end": 188.11667
+    },
+    {
+      "word": "sorry",
+      "start": 188.11667,
+      "end": 188.21666
+    },
+    {
+      "word": "na",
+      "start": 188.21666,
+      "end": 188.39667
+    },
+    {
+      "word": "talaga",
+      "start": 188.39667,
+      "end": 188.73666
+    },
+    {
+      "word": "po.",
+      "start": 188.73666,
+      "end": 188.91666
+    },
+    {
+      "word": "Okay,",
+      "start": 189.25665,
+      "end": 189.57666
+    },
+    {
+      "word": "okay",
+      "start": 189.57666,
+      "end": 189.89667
+    },
+    {
+      "word": "lang.",
+      "start": 189.89667,
+      "end": 190.09666
+    },
+    {
+      "word": "Atido",
+      "start": 189.61667,
+      "end": 190.47665
+    },
+    {
+      "word": "ko",
+      "start": 190.47665,
+      "end": 190.61667
+    },
+    {
+      "word": "na",
+      "start": 190.61667,
+      "end": 190.69666
+    },
+    {
+      "word": "po.",
+      "start": 190.69666,
+      "end": 191.03667
+    },
+    {
+      "word": "Okay,",
+      "start": 190.33667,
+      "end": 191.69666
+    },
+    {
+      "word": "maska.",
+      "start": 191.69666,
+      "end": 191.95667
+    },
+    {
+      "word": "Para",
+      "start": 192.57666,
+      "end": 193.01666
+    },
+    {
+      "word": "makita",
+      "start": 193.01666,
+      "end": 193.43666
+    },
+    {
+      "word": "ka.",
+      "start": 193.43666,
+      "end": 193.57666
+    },
+    {
+      "word": "Okay,",
+      "start": 194.67667,
+      "end": 195.05667
+    },
+    {
+      "word": "ready?",
+      "start": 195.05667,
+      "end": 195.39667
+    },
+    {
+      "word": "How",
+      "start": 196.25665,
+      "end": 197.05667
+    },
+    {
+      "word": "has",
+      "start": 197.05667,
+      "end": 197.31667
+    },
+    {
+      "word": "God",
+      "start": 197.31667,
+      "end": 197.57666
+    },
+    {
+      "word": "been",
+      "start": 197.57666,
+      "end": 197.81667
+    },
+    {
+      "word": "faithful",
+      "start": 197.81667,
+      "end": 198.19666
+    },
+    {
+      "word": "to",
+      "start": 198.19666,
+      "end": 198.45667
+    },
+    {
+      "word": "you",
+      "start": 198.45667,
+      "end": 198.63666
+    },
+    {
+      "word": "through",
+      "start": 198.17667,
+      "end": 198.99666
+    },
+    {
+      "word": "this",
+      "start": 198.99666,
+      "end": 199.25665
+    },
+    {
+      "word": "church?",
+      "start": 199.25665,
+      "end": 200.15666
+    },
+    {
+      "word": "God",
+      "start": 200.41666,
+      "end": 200.95667
+    },
+    {
+      "word": "has",
+      "start": 200.95667,
+      "end": 201.23666
+    },
+    {
+      "word": "been",
+      "start": 201.23666,
+      "end": 201.37666
+    },
+    {
+      "word": "faithful",
+      "start": 201.37666,
+      "end": 201.79666
+    },
+    {
+      "word": "to",
+      "start": 201.79666,
+      "end": 202.35666
+    },
+    {
+      "word": "me",
+      "start": 202.35666,
+      "end": 202.69666
+    },
+    {
+      "word": "by",
+      "start": 202.21666,
+      "end": 203.11667
+    },
+    {
+      "word": "giving",
+      "start": 203.11667,
+      "end": 203.39667
+    },
+    {
+      "word": "me",
+      "start": 203.39667,
+      "end": 203.59666
+    },
+    {
+      "word": "a",
+      "start": 203.59666,
+      "end": 203.75665
+    },
+    {
+      "word": "community",
+      "start": 203.75665,
+      "end": 204.21666
+    },
+    {
+      "word": "that",
+      "start": 204.21666,
+      "end": 204.49666
+    },
+    {
+      "word": "encourage",
+      "start": 204.55667,
+      "end": 204.91666
+    },
+    {
+      "word": "me",
+      "start": 204.91666,
+      "end": 205.15666
+    },
+    {
+      "word": "to",
+      "start": 205.15666,
+      "end": 205.31667
+    },
+    {
+      "word": "build",
+      "start": 205.31667,
+      "end": 205.55667
+    },
+    {
+      "word": "relationships",
+      "start": 205.55667,
+      "end": 206.01666
+    },
+    {
+      "word": "with",
+      "start": 205.69666,
+      "end": 207.01666
+    },
+    {
+      "word": "the",
+      "start": 207.01666,
+      "end": 207.31667
+    },
+    {
+      "word": "people",
+      "start": 207.31667,
+      "end": 207.59666
+    },
+    {
+      "word": "around",
+      "start": 207.59666,
+      "end": 207.89667
+    },
+    {
+      "word": "me",
+      "start": 207.89667,
+      "end": 208.15666
+    },
+    {
+      "word": "and",
+      "start": 207.73666,
+      "end": 208.55667
+    },
+    {
+      "word": "with",
+      "start": 208.55667,
+      "end": 208.91666
+    },
+    {
+      "word": "God,",
+      "start": 208.91666,
+      "end": 209.33667
+    },
+    {
+      "word": "of",
+      "start": 209.33667,
+      "end": 209.35666
+    },
+    {
+      "word": "course.",
+      "start": 209.35666,
+      "end": 209.89667
+    },
+    {
+      "word": "So,",
+      "start": 209.93666,
+      "end": 210.09666
+    },
+    {
+      "word": "parang",
+      "start": 210.09666,
+      "end": 210.45667
+    },
+    {
+      "word": "nakakaroon",
+      "start": 210.45667,
+      "end": 211.07666
+    },
+    {
+      "word": "po",
+      "start": 211.07666,
+      "end": 211.25665
+    },
+    {
+      "word": "ako",
+      "start": 211.25665,
+      "end": 211.43666
+    },
+    {
+      "word": "ng",
+      "start": 211.43666,
+      "end": 211.55667
+    },
+    {
+      "word": "mga",
+      "start": 211.55667,
+      "end": 211.87666
+    },
+    {
+      "word": "kahit",
+      "start": 212.55667,
+      "end": 212.95667
+    },
+    {
+      "word": "na",
+      "start": 212.95667,
+      "end": 213.11667
+    },
+    {
+      "word": "sobrang",
+      "start": 213.11667,
+      "end": 213.81667
+    },
+    {
+      "word": "hirap",
+      "start": 213.39667,
+      "end": 214.39667
+    },
+    {
+      "word": "po",
+      "start": 214.39667,
+      "end": 214.53665
+    },
+    {
+      "word": "ng",
+      "start": 214.53665,
+      "end": 214.61667
+    },
+    {
+      "word": "buhay,",
+      "start": 214.61667,
+      "end": 214.95667
+    },
+    {
+      "word": "nakakaroon",
+      "start": 214.95667,
+      "end": 215.23666
+    },
+    {
+      "word": "ng",
+      "start": 215.23666,
+      "end": 215.37666
+    },
+    {
+      "word": "mga",
+      "start": 215.37666,
+      "end": 215.55667
+    },
+    {
+      "word": "inconvenience.",
+      "start": 215.55667,
+      "end": 216.91666
+    },
+    {
+      "word": "Pero",
+      "start": 216.83667,
+      "end": 217.01666
+    },
+    {
+      "word": "through",
+      "start": 217.01666,
+      "end": 217.29666
+    },
+    {
+      "word": "His",
+      "start": 217.29666,
+      "end": 217.51666
+    },
+    {
+      "word": "words,",
+      "start": 217.51666,
+      "end": 217.93666
+    },
+    {
+      "word": "of",
+      "start": 217.93666,
+      "end": 218.07666
+    },
+    {
+      "word": "course,",
+      "start": 218.07666,
+      "end": 218.85666
+    },
+    {
+      "word": "mas",
+      "start": 219.27667,
+      "end": 219.55667
+    },
+    {
+      "word": "narirealize",
+      "start": 219.55667,
+      "end": 220.67667
+    },
+    {
+      "word": "ko",
+      "start": 220.67667,
+      "end": 220.79666
+    },
+    {
+      "word": "po",
+      "start": 220.79666,
+      "end": 220.97665
+    },
+    {
+      "word": "na",
+      "start": 220.51666,
+      "end": 221.25665
+    },
+    {
+      "word": "through",
+      "start": 221.25665,
+      "end": 222.23666
+    },
+    {
+      "word": "faith",
+      "start": 222.23666,
+      "end": 222.59666
+    },
+    {
+      "word": "po,",
+      "start": 222.59666,
+      "end": 223.41666
+    },
+    {
+      "word": "I",
+      "start": 223.39667,
+      "end": 223.57666
+    },
+    {
+      "word": "can",
+      "start": 223.57666,
+      "end": 223.73666
+    },
+    {
+      "word": "do",
+      "start": 223.73666,
+      "end": 223.91666
+    },
+    {
+      "word": "anything",
+      "start": 223.91666,
+      "end": 224.37666
+    },
+    {
+      "word": "with",
+      "start": 223.93666,
+      "end": 224.97665
+    },
+    {
+      "word": "God.",
+      "start": 224.97665,
+      "end": 225.75665
+    },
+    {
+      "word": "What",
+      "start": 227.55667,
+      "end": 227.87666
+    },
+    {
+      "word": "does",
+      "start": 227.87666,
+      "end": 228.09666
+    },
+    {
+      "word": "the",
+      "start": 228.08499,
+      "end": 228.26498
+    },
+    {
+      "word": "30th",
+      "start": 228.26498,
+      "end": 228.76498
+    },
+    {
+      "word": "anniversary",
+      "start": 228.76498,
+      "end": 228.82498
+    },
+    {
+      "word": "mean",
+      "start": 228.82498,
+      "end": 228.88498
+    },
+    {
+      "word": "to",
+      "start": 228.88498,
+      "end": 229.60498
+    },
+    {
+      "word": "you?",
+      "start": 229.60498,
+      "end": 229.96498
+    },
+    {
+      "word": "What",
+      "start": 240.38498,
+      "end": 241.38498
+    },
+    {
+      "word": "does",
+      "start": 241.38498,
+      "end": 241.62498
+    },
+    {
+      "word": "the",
+      "start": 241.62498,
+      "end": 241.86499
+    },
+    {
+      "word": "30th",
+      "start": 241.86499,
+      "end": 242.54498
+    },
+    {
+      "word": "anniversary",
+      "start": 242.54498,
+      "end": 243.18498
+    },
+    {
+      "word": "mean",
+      "start": 243.18498,
+      "end": 243.92499
+    },
+    {
+      "word": "to",
+      "start": 243.92499,
+      "end": 244.305
+    },
+    {
+      "word": "you?",
+      "start": 244.305,
+      "end": 244.58499
+    },
+    {
+      "word": "Para",
+      "start": 245.16498,
+      "end": 245.46498
+    },
+    {
+      "word": "po",
+      "start": 245.46498,
+      "end": 245.66498
+    },
+    {
+      "word": "sa",
+      "start": 245.66498,
+      "end": 245.805
+    },
+    {
+      "word": "akin,",
+      "start": 245.805,
+      "end": 246.16498
+    },
+    {
+      "word": "hindi",
+      "start": 246.08499,
+      "end": 246.26498
+    },
+    {
+      "word": "lang",
+      "start": 246.26498,
+      "end": 246.50499
+    },
+    {
+      "word": "po",
+      "start": 246.50499,
+      "end": 246.70499
+    },
+    {
+      "word": "siya",
+      "start": 246.70499,
+      "end": 246.90498
+    },
+    {
+      "word": "celebration,",
+      "start": 246.90498,
+      "end": 248.48499
+    },
+    {
+      "word": "pero",
+      "start": 247.50499,
+      "end": 248.50499
+    },
+    {
+      "word": "it's",
+      "start": 248.50499,
+      "end": 249.08499
+    },
+    {
+      "word": "a",
+      "start": 249.08499,
+      "end": 249.22499
+    },
+    {
+      "word": "celebration.",
+      "start": 249.22499,
+      "end": 249.78499
+    },
+    {
+      "word": "Shucks!",
+      "start": 250.92499,
+      "end": 251.64499
+    },
+    {
+      "word": "What",
+      "start": 252.82498,
+      "end": 253.78499
+    },
+    {
+      "word": "does",
+      "start": 253.78499,
+      "end": 256.10498
+    },
+    {
+      "word": "the",
+      "start": 256.10498,
+      "end": 256.305
+    },
+    {
+      "word": "30th",
+      "start": 256.305,
+      "end": 256.88498
+    },
+    {
+      "word": "anniversary",
+      "start": 256.88498,
+      "end": 257.40497
+    },
+    {
+      "word": "mean",
+      "start": 257.40497,
+      "end": 258.125
+    },
+    {
+      "word": "to",
+      "start": 258.125,
+      "end": 258.485
+    },
+    {
+      "word": "you?",
+      "start": 258.485,
+      "end": 259.28497
+    },
+    {
+      "word": "Para",
+      "start": 259.22498,
+      "end": 259.40497
+    },
+    {
+      "word": "po",
+      "start": 259.40497,
+      "end": 259.60498
+    },
+    {
+      "word": "sa",
+      "start": 259.60498,
+      "end": 259.76498
+    },
+    {
+      "word": "akin,",
+      "start": 259.76498,
+      "end": 260.125
+    },
+    {
+      "word": "yung",
+      "start": 260.125,
+      "end": 260.205
+    },
+    {
+      "word": "30th",
+      "start": 260.205,
+      "end": 260.865
+    },
+    {
+      "word": "anniversary",
+      "start": 260.865,
+      "end": 261.26498
+    },
+    {
+      "word": "is",
+      "start": 261.26498,
+      "end": 262.085
+    },
+    {
+      "word": "a",
+      "start": 262.085,
+      "end": 262.38498
+    },
+    {
+      "word": "celebration",
+      "start": 262.38498,
+      "end": 262.90497
+    },
+    {
+      "word": "of",
+      "start": 262.90497,
+      "end": 264.145
+    },
+    {
+      "word": "faithfulness",
+      "start": 264.145,
+      "end": 265.16498
+    },
+    {
+      "word": "po",
+      "start": 265.16498,
+      "end": 265.38498
+    },
+    {
+      "word": "Hindi",
+      "start": 264.985,
+      "end": 266.16498
+    },
+    {
+      "word": "lang",
+      "start": 266.16498,
+      "end": 266.40497
+    },
+    {
+      "word": "po",
+      "start": 266.40497,
+      "end": 266.625
+    },
+    {
+      "word": "siya",
+      "start": 266.625,
+      "end": 266.76498
+    },
+    {
+      "word": "basta-basta",
+      "start": 266.76498,
+      "end": 267.28497
+    },
+    {
+      "word": "celebration",
+      "start": 267.28497,
+      "end": 267.88498
+    },
+    {
+      "word": "Pero",
+      "start": 267.565,
+      "end": 268.38498
+    },
+    {
+      "word": "ito",
+      "start": 268.38498,
+      "end": 268.90497
+    },
+    {
+      "word": "po",
+      "start": 268.90497,
+      "end": 269.04498
+    },
+    {
+      "word": "yung",
+      "start": 269.04498,
+      "end": 269.145
+    },
+    {
+      "word": "sacrifice",
+      "start": 269.145,
+      "end": 269.82498
+    },
+    {
+      "word": "po",
+      "start": 269.82498,
+      "end": 270.00497
+    },
+    {
+      "word": "natin,",
+      "start": 270.00497,
+      "end": 270.485
+    },
+    {
+      "word": "prayer",
+      "start": 270.485,
+      "end": 270.72498
+    },
+    {
+      "word": "po",
+      "start": 270.72498,
+      "end": 270.925
+    },
+    {
+      "word": "natin",
+      "start": 270.925,
+      "end": 271.28497
+    },
+    {
+      "word": "And",
+      "start": 270.82498,
+      "end": 271.60498
+    },
+    {
+      "word": "yung",
+      "start": 271.60498,
+      "end": 271.82498
+    },
+    {
+      "word": "mga",
+      "start": 271.82498,
+      "end": 272.145
+    },
+    {
+      "word": "lives",
+      "start": 272.145,
+      "end": 272.60498
+    },
+    {
+      "word": "po",
+      "start": 272.60498,
+      "end": 272.805
+    },
+    {
+      "word": "na",
+      "start": 272.805,
+      "end": 272.94498
+    },
+    {
+      "word": "na-touch",
+      "start": 272.94498,
+      "end": 273.365
+    },
+    {
+      "word": "ni",
+      "start": 273.365,
+      "end": 273.525
+    },
+    {
+      "word": "God",
+      "start": 273.525,
+      "end": 273.78497
+    },
+    {
+      "word": "po",
+      "start": 273.78497,
+      "end": 274.085
+    },
+    {
+      "word": "In",
+      "start": 275.16498,
+      "end": 275.305
+    },
+    {
+      "word": "one",
+      "start": 275.305,
+      "end": 275.565
+    },
+    {
+      "word": "sentence,",
+      "start": 275.565,
+      "end": 276.50497
+    },
+    {
+      "word": "what",
+      "start": 276.50497,
+      "end": 276.76498
+    },
+    {
+      "word": "is",
+      "start": 276.76498,
+      "end": 277.00497
+    },
+    {
+      "word": "your",
+      "start": 277.00497,
+      "end": 277.185
+    },
+    {
+      "word": "message",
+      "start": 277.185,
+      "end": 277.685
+    },
+    {
+      "word": "to",
+      "start": 277.685,
+      "end": 277.90497
+    },
+    {
+      "word": "the",
+      "start": 277.90497,
+      "end": 278.125
+    },
+    {
+      "word": "church",
+      "start": 278.125,
+      "end": 278.365
+    },
+    {
+      "word": "for",
+      "start": 278.365,
+      "end": 278.76498
+    },
+    {
+      "word": "the",
+      "start": 278.76498,
+      "end": 278.965
+    },
+    {
+      "word": "next",
+      "start": 278.965,
+      "end": 279.245
+    },
+    {
+      "word": "30",
+      "start": 279.245,
+      "end": 279.84497
+    },
+    {
+      "word": "years?",
+      "start": 279.84497,
+      "end": 280.745
+    },
+    {
+      "word": "So",
+      "start": 280.26498,
+      "end": 281.16498
+    },
+    {
+      "word": "I",
+      "start": 281.16498,
+      "end": 281.705
+    },
+    {
+      "word": "pray",
+      "start": 281.705,
+      "end": 282.025
+    },
+    {
+      "word": "that",
+      "start": 282.025,
+      "end": 282.34497
+    },
+    {
+      "word": "Glorious",
+      "start": 281.925,
+      "end": 283.025
+    },
+    {
+      "word": "Church",
+      "start": 283.025,
+      "end": 283.50497
+    },
+    {
+      "word": "po",
+      "start": 283.50497,
+      "end": 283.72498
+    },
+    {
+      "word": "Will",
+      "start": 283.60498,
+      "end": 284.365
+    },
+    {
+      "word": "be",
+      "start": 284.365,
+      "end": 284.94498
+    },
+    {
+      "word": "the",
+      "start": 284.94498,
+      "end": 285.205
+    },
+    {
+      "word": "church",
+      "start": 285.205,
+      "end": 285.425
+    },
+    {
+      "word": "that",
+      "start": 285.425,
+      "end": 285.66498
+    },
+    {
+      "word": "always",
+      "start": 285.66498,
+      "end": 286.085
+    },
+    {
+      "word": "Shares",
+      "start": 285.805,
+      "end": 286.76498
+    },
+    {
+      "word": "the",
+      "start": 286.76498,
+      "end": 287.085
+    },
+    {
+      "word": "word",
+      "start": 287.085,
+      "end": 287.28497
+    },
+    {
+      "word": "of",
+      "start": 287.28497,
+      "end": 287.44498
+    },
+    {
+      "word": "God",
+      "start": 287.44498,
+      "end": 287.76498
+    },
+    {
+      "word": "Share",
+      "start": 287.54498,
+      "end": 288.78497
+    },
+    {
+      "word": "the",
+      "start": 288.78497,
+      "end": 288.965
+    },
+    {
+      "word": "love",
+      "start": 288.965,
+      "end": 289.245
+    },
+    {
+      "word": "of",
+      "start": 289.245,
+      "end": 289.44498
+    },
+    {
+      "word": "Christ",
+      "start": 289.44498,
+      "end": 289.78497
+    },
+    {
+      "word": "And",
+      "start": 289.365,
+      "end": 290.16498
+    },
+    {
+      "word": "share",
+      "start": 290.16498,
+      "end": 291.625
+    },
+    {
+      "word": "a",
+      "start": 291.625,
+      "end": 292.04498
+    },
+    {
+      "word": "light",
+      "start": 292.04498,
+      "end": 292.245
+    },
+    {
+      "word": "That",
+      "start": 291.76498,
+      "end": 292.485
+    },
+    {
+      "word": "shines",
+      "start": 292.485,
+      "end": 292.805
+    },
+    {
+      "word": "so",
+      "start": 292.805,
+      "end": 293.065
+    },
+    {
+      "word": "bright",
+      "start": 293.065,
+      "end": 293.40497
+    },
+    {
+      "word": "for",
+      "start": 293.40497,
+      "end": 293.625
+    },
+    {
+      "word": "all",
+      "start": 293.625,
+      "end": 293.82498
+    },
+    {
+      "word": "the",
+      "start": 293.82498,
+      "end": 293.985
+    },
+    {
+      "word": "generations",
+      "start": 293.985,
+      "end": 294.525
+    },
+    {
+      "word": "To",
+      "start": 294.085,
+      "end": 294.94498
+    },
+    {
+      "word": "see",
+      "start": 294.94498,
+      "end": 295.145
+    },
+    {
+      "word": "Okay,",
+      "start": 296.66498,
+      "end": 297.745
+    },
+    {
+      "word": "sabay-sabay",
+      "start": 297.745,
+      "end": 298.485
+    },
+    {
+      "word": "Mag-end",
+      "start": 298.025,
+      "end": 298.90497
+    },
+    {
+      "word": "One",
+      "start": 298.425,
+      "end": 299.645
+    },
+    {
+      "word": "Two",
+      "start": 301.145,
+      "end": 302.305
+    },
+    {
+      "word": "Three",
+      "start": 302.66498,
+      "end": 302.985
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 4,
+      "text": " When and how did you first come to Glorious Church?",
+      "tokens": [
+        50365,
+        1133,
+        293,
+        577,
+        630,
+        291,
+        700,
+        808,
+        281,
+        5209,
+        14354,
+        7882,
+        30,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4438747,
+      "compression_ratio": 1.3765432,
+      "no_speech_prob": 0.19311523
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7,
+      "end": 8,
+      "text": " Ay, atin!",
+      "tokens": [
+        50715,
+        9081,
+        11,
+        412,
+        259,
+        0,
+        50765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4438747,
+      "compression_ratio": 1.3765432,
+      "no_speech_prob": 0.19311523
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8,
+      "end": 11,
+      "text": " Okay, okay lang. Continue.",
+      "tokens": [
+        50765,
+        1033,
+        11,
+        1392,
+        2265,
+        13,
+        24472,
+        13,
+        50915
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4438747,
+      "compression_ratio": 1.3765432,
+      "no_speech_prob": 0.19311523
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11,
+      "end": 13,
+      "text": " Kay Kuya Yuan ka titingin.",
+      "tokens": [
+        50915,
+        14179,
+        20311,
+        3016,
+        398,
+        6139,
+        6799,
+        256,
+        1748,
+        259,
+        13,
+        51015
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4438747,
+      "compression_ratio": 1.3765432,
+      "no_speech_prob": 0.19311523
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18,
+      "end": 23,
+      "text": " First time ko po makapunta sa Glorious Church, recently lang din po, last year.",
+      "tokens": [
+        51265,
+        2386,
+        565,
+        8384,
+        714,
+        963,
+        569,
+        46380,
+        601,
+        5209,
+        14354,
+        7882,
+        11,
+        3938,
+        2265,
+        3791,
+        714,
+        11,
+        1036,
+        1064,
+        13,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4438747,
+      "compression_ratio": 1.3765432,
+      "no_speech_prob": 0.19311523
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23,
+      "end": 25,
+      "text": " And through an invitation.",
+      "tokens": [
+        51515,
+        400,
+        807,
+        364,
+        17890,
+        13,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4438747,
+      "compression_ratio": 1.3765432,
+      "no_speech_prob": 0.19311523
+    },
+    {
+      "id": 6,
+      "seek": 2500,
+      "start": 25,
+      "end": 35,
+      "text": " So, as time went by, my mom was the one who invited me to the church.",
+      "tokens": [
+        50365,
+        407,
+        11,
+        382,
+        565,
+        1437,
+        538,
+        11,
+        452,
+        1225,
+        390,
+        264,
+        472,
+        567,
+        9185,
+        385,
+        281,
+        264,
+        4128,
+        13,
+        50865
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.48833486,
+      "compression_ratio": 1.4512196,
+      "no_speech_prob": 0.31054688
+    },
+    {
+      "id": 7,
+      "seek": 2500,
+      "start": 35,
+      "end": 45,
+      "text": " So, I was the one who invited her to the church.",
+      "tokens": [
+        50865,
+        407,
+        11,
+        286,
+        390,
+        264,
+        472,
+        567,
+        9185,
+        720,
+        281,
+        264,
+        4128,
+        13,
+        51365
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.48833486,
+      "compression_ratio": 1.4512196,
+      "no_speech_prob": 0.31054688
+    },
+    {
+      "id": 8,
+      "seek": 4500,
+      "start": 45,
+      "end": 47.12,
+      "text": " sa Glorious Church, recently",
+      "tokens": [
+        50365,
+        601,
+        5209,
+        14354,
+        7882,
+        11,
+        3938,
+        50471
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 9,
+      "seek": 4500,
+      "start": 47.12,
+      "end": 48.66,
+      "text": " lang din po, last last year.",
+      "tokens": [
+        50471,
+        2265,
+        3791,
+        714,
+        11,
+        1036,
+        1036,
+        1064,
+        13,
+        50548
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 10,
+      "seek": 4500,
+      "start": 49.2,
+      "end": 51.24,
+      "text": " So, through an invitation po",
+      "tokens": [
+        50575,
+        407,
+        11,
+        807,
+        364,
+        17890,
+        714,
+        50677
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 11,
+      "seek": 4500,
+      "start": 51.24,
+      "end": 52.98,
+      "text": " and the people who welcomed me here.",
+      "tokens": [
+        50677,
+        293,
+        264,
+        561,
+        567,
+        23668,
+        385,
+        510,
+        13,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 12,
+      "seek": 4500,
+      "start": 53.34,
+      "end": 54.5,
+      "text": " So, as time went by,",
+      "tokens": [
+        50782,
+        407,
+        11,
+        382,
+        565,
+        1437,
+        538,
+        11,
+        50840
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 13,
+      "seek": 4500,
+      "start": 54.96,
+      "end": 57.079998,
+      "text": " mas lumalim po yung relationship ko",
+      "tokens": [
+        50863,
+        2300,
+        24635,
+        304,
+        332,
+        714,
+        288,
+        1063,
+        2480,
+        8384,
+        50969
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 14,
+      "seek": 4500,
+      "start": 57.079998,
+      "end": 59.04,
+      "text": " with God. And I also realized",
+      "tokens": [
+        50969,
+        365,
+        1265,
+        13,
+        400,
+        286,
+        611,
+        5334,
+        51067
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 15,
+      "seek": 4500,
+      "start": 59.04,
+      "end": 61.18,
+      "text": " that itong church ito, hindi lang siya",
+      "tokens": [
+        51067,
+        300,
+        309,
+        556,
+        4128,
+        309,
+        78,
+        11,
+        276,
+        10255,
+        2265,
+        1511,
+        3016,
+        51174
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 16,
+      "seek": 4500,
+      "start": 61.18,
+      "end": 62.98,
+      "text": " dito tayo nag-worship, pero",
+      "tokens": [
+        51174,
+        274,
+        3528,
+        39224,
+        78,
+        17096,
+        12,
+        86,
+        14752,
+        11,
+        4768,
+        51264
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 17,
+      "seek": 4500,
+      "start": 62.98,
+      "end": 65.14,
+      "text": " para rin siya sa pag-grow",
+      "tokens": [
+        51264,
+        1690,
+        367,
+        259,
+        1511,
+        3016,
+        601,
+        11812,
+        12,
+        26685,
+        51372
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 18,
+      "seek": 4500,
+      "start": 65.14,
+      "end": 67.18,
+      "text": " natin ng faith, pag-serve natin sa kanya",
+      "tokens": [
+        51372,
+        2249,
+        259,
+        6415,
+        4522,
+        11,
+        11812,
+        12,
+        82,
+        3768,
+        2249,
+        259,
+        601,
+        350,
+        8791,
+        51474
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 19,
+      "seek": 4500,
+      "start": 67.18,
+      "end": 69.06,
+      "text": " and para makapag-build ng",
+      "tokens": [
+        51474,
+        293,
+        1690,
+        963,
+        569,
+        559,
+        12,
+        11516,
+        6415,
+        51568
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 20,
+      "seek": 4500,
+      "start": 69.06,
+      "end": 71,
+      "text": " relationship with the people who share",
+      "tokens": [
+        51568,
+        2480,
+        365,
+        264,
+        561,
+        567,
+        2073,
+        51665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1462481,
+      "compression_ratio": 1.6837945,
+      "no_speech_prob": 0.08770752
+    },
+    {
+      "id": 21,
+      "seek": 71,
+      "start": 71,
+      "end": 86.20833,
+      "text": " the same faith Ayoko na What is one memory from this 30 years you will never forget",
+      "tokens": [
+        51665,
+        264,
+        912,
+        4522,
+        13,
+        51702,
+        50365,
+        9081,
+        13704,
+        1667,
+        13,
+        50509,
+        50365,
+        708,
+        307,
+        472,
+        4675,
+        490,
+        341,
+        2217,
+        924,
+        291,
+        486,
+        1128,
+        2870,
+        30,
+        51109
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2578861,
+      "compression_ratio": 1.4779412,
+      "no_speech_prob": 0.14147949
+    },
+    {
+      "id": 22,
+      "seek": 71,
+      "start": 87.22833,
+      "end": 93.46833,
+      "text": " A memory po na I will never forget is yung mga fellowship ko po with the dance ministry.",
+      "tokens": [
+        51160,
+        316,
+        4675,
+        714,
+        1667,
+        286,
+        486,
+        1128,
+        2870,
+        307,
+        288,
+        1063,
+        275,
+        3680,
+        24989,
+        8384,
+        714,
+        365,
+        264,
+        4489,
+        15024,
+        13,
+        51472
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2578861,
+      "compression_ratio": 1.4779412,
+      "no_speech_prob": 0.14147949
+    },
+    {
+      "id": 23,
+      "seek": 71,
+      "start": 93.46833,
+      "end": 97.308334,
+      "text": " So since po nagkakaroon po kami ng mga fellowship,",
+      "tokens": [
+        51472,
+        407,
+        1670,
+        714,
+        17096,
+        74,
+        514,
+        289,
+        4106,
+        714,
+        34502,
+        6415,
+        275,
+        3680,
+        24989,
+        11,
+        51664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2578861,
+      "compression_ratio": 1.4779412,
+      "no_speech_prob": 0.14147949
+    },
+    {
+      "id": 24,
+      "seek": 2669,
+      "start": 97.308334,
+      "end": 100.84833,
+      "text": " Marami pong times na tatawanan po kami",
+      "tokens": [
+        50365,
+        2039,
+        4526,
+        36164,
+        1413,
+        1667,
+        9600,
+        1607,
+        29915,
+        714,
+        34502,
+        50542
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14826304,
+      "compression_ratio": 1.6582278,
+      "no_speech_prob": 0.018554688
+    },
+    {
+      "id": 25,
+      "seek": 2669,
+      "start": 100.84833,
+      "end": 104.94833,
+      "text": " And I feel like it's the moment po na naglalas po",
+      "tokens": [
+        50542,
+        400,
+        286,
+        841,
+        411,
+        309,
+        311,
+        264,
+        1623,
+        714,
+        1667,
+        17096,
+        75,
+        304,
+        296,
+        714,
+        50747
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14826304,
+      "compression_ratio": 1.6582278,
+      "no_speech_prob": 0.018554688
+    },
+    {
+      "id": 26,
+      "seek": 2669,
+      "start": 104.94833,
+      "end": 108.42833,
+      "text": " I think na yung memory na yun, hindi lang po siya memory",
+      "tokens": [
+        50747,
+        286,
+        519,
+        1667,
+        288,
+        1063,
+        4675,
+        1667,
+        288,
+        409,
+        11,
+        276,
+        10255,
+        2265,
+        714,
+        1511,
+        3016,
+        4675,
+        50921
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14826304,
+      "compression_ratio": 1.6582278,
+      "no_speech_prob": 0.018554688
+    },
+    {
+      "id": 27,
+      "seek": 2669,
+      "start": 108.42833,
+      "end": 114.36833,
+      "text": " Pero it's the presence of God and the people he used to become part of that journey po",
+      "tokens": [
+        50921,
+        9377,
+        309,
+        311,
+        264,
+        6814,
+        295,
+        1265,
+        293,
+        264,
+        561,
+        415,
+        1143,
+        281,
+        1813,
+        644,
+        295,
+        300,
+        4671,
+        714,
+        51218
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14826304,
+      "compression_ratio": 1.6582278,
+      "no_speech_prob": 0.018554688
+    },
+    {
+      "id": 28,
+      "seek": 2669,
+      "start": 114.36833,
+      "end": 118.168335,
+      "text": " And I also realized po na this church, hindi lang po siya building",
+      "tokens": [
+        51218,
+        400,
+        286,
+        611,
+        5334,
+        714,
+        1667,
+        341,
+        4128,
+        11,
+        276,
+        10255,
+        2265,
+        714,
+        1511,
+        3016,
+        2390,
+        51408
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14826304,
+      "compression_ratio": 1.6582278,
+      "no_speech_prob": 0.018554688
+    },
+    {
+      "id": 29,
+      "seek": 2669,
+      "start": 118.168335,
+      "end": 121.528336,
+      "text": " But it is also a family with Christ po",
+      "tokens": [
+        51408,
+        583,
+        309,
+        307,
+        611,
+        257,
+        1605,
+        365,
+        2040,
+        714,
+        51576
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14826304,
+      "compression_ratio": 1.6582278,
+      "no_speech_prob": 0.018554688
+    },
+    {
+      "id": 30,
+      "seek": 2669,
+      "start": 121.528336,
+      "end": 125.94833,
+      "text": " How has God been faithful to you through this church?",
+      "tokens": [
+        51576,
+        1012,
+        575,
+        1265,
+        668,
+        17808,
+        281,
+        291,
+        807,
+        341,
+        4128,
+        30,
+        51797
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14826304,
+      "compression_ratio": 1.6582278,
+      "no_speech_prob": 0.018554688
+    },
+    {
+      "id": 31,
+      "seek": 5533,
+      "start": 125.94833,
+      "end": 129.46832,
+      "text": " Well, God has been faithful to me",
+      "tokens": [
+        50365,
+        1042,
+        11,
+        1265,
+        575,
+        668,
+        17808,
+        281,
+        385,
+        50541
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32889494,
+      "compression_ratio": 1.5767195,
+      "no_speech_prob": 0.45166016
+    },
+    {
+      "id": 32,
+      "seek": 5533,
+      "start": 129.46832,
+      "end": 132.52832,
+      "text": " Isa pa",
+      "tokens": [
+        50541,
+        19718,
+        2502,
+        50694
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32889494,
+      "compression_ratio": 1.5767195,
+      "no_speech_prob": 0.45166016
+    },
+    {
+      "id": 33,
+      "seek": 5533,
+      "start": 132.52832,
+      "end": 134.56833,
+      "text": " From the top",
+      "tokens": [
+        50694,
+        3358,
+        264,
+        1192,
+        50796
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32889494,
+      "compression_ratio": 1.5767195,
+      "no_speech_prob": 0.45166016
+    },
+    {
+      "id": 34,
+      "seek": 5533,
+      "start": 134.56833,
+      "end": 135.72833,
+      "text": " Yun, from the top dyan",
+      "tokens": [
+        50796,
+        18007,
+        11,
+        490,
+        264,
+        1192,
+        274,
+        6277,
+        50854
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32889494,
+      "compression_ratio": 1.5767195,
+      "no_speech_prob": 0.45166016
+    },
+    {
+      "id": 35,
+      "seek": 5533,
+      "start": 135.72833,
+      "end": 137.08833,
+      "text": " Ready?",
+      "tokens": [
+        50854,
+        9944,
+        30,
+        50922
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32889494,
+      "compression_ratio": 1.5767195,
+      "no_speech_prob": 0.45166016
+    },
+    {
+      "id": 36,
+      "seek": 5533,
+      "start": 137.64833,
+      "end": 140.56833,
+      "text": " How has God been faithful to you through this church?",
+      "tokens": [
+        50950,
+        1012,
+        575,
+        1265,
+        668,
+        17808,
+        281,
+        291,
+        807,
+        341,
+        4128,
+        30,
+        51096
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32889494,
+      "compression_ratio": 1.5767195,
+      "no_speech_prob": 0.45166016
+    },
+    {
+      "id": 37,
+      "seek": 5533,
+      "start": 141.28833,
+      "end": 143.32834,
+      "text": " God has been faithful to me po",
+      "tokens": [
+        51132,
+        1265,
+        575,
+        668,
+        17808,
+        281,
+        385,
+        714,
+        51234
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32889494,
+      "compression_ratio": 1.5767195,
+      "no_speech_prob": 0.45166016
+    },
+    {
+      "id": 38,
+      "seek": 147,
+      "start": 143.32834,
+      "end": 167.65666,
+      "text": " By giving a community that encouraged me to build a relationship with God po So um Shucks Alati ano yung tanong",
+      "tokens": [
+        51234,
+        3146,
+        2902,
+        257,
+        1768,
+        300,
+        14658,
+        385,
+        281,
+        1322,
+        257,
+        2480,
+        365,
+        1265,
+        714,
+        51466,
+        51466,
+        407,
+        11,
+        1105,
+        51518,
+        51518,
+        1160,
+        15493,
+        51595,
+        51595,
+        967,
+        6908,
+        11,
+        19816,
+        288,
+        1063,
+        7603,
+        556,
+        30,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4448897,
+      "compression_ratio": 1.2803738,
+      "no_speech_prob": 0.39453125
+    },
+    {
+      "id": 39,
+      "seek": 147,
+      "start": 167.75667,
+      "end": 168.47665,
+      "text": " Sige, sige.",
+      "tokens": [
+        51370,
+        318,
+        3969,
+        11,
+        262,
+        3969,
+        13,
+        51406
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4448897,
+      "compression_ratio": 1.2803738,
+      "no_speech_prob": 0.39453125
+    },
+    {
+      "id": 40,
+      "seek": 147,
+      "start": 168.57666,
+      "end": 172.95667,
+      "text": " How has God been faithful to you through this church?",
+      "tokens": [
+        51411,
+        1012,
+        575,
+        1265,
+        668,
+        17808,
+        281,
+        291,
+        807,
+        341,
+        4128,
+        30,
+        51630
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4448897,
+      "compression_ratio": 1.2803738,
+      "no_speech_prob": 0.39453125
+    },
+    {
+      "id": 41,
+      "seek": 147,
+      "start": 173.39667,
+      "end": 175.65666,
+      "text": " God has been faithful to me po",
+      "tokens": [
+        51652,
+        1265,
+        575,
+        668,
+        17808,
+        281,
+        385,
+        714,
+        51765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4448897,
+      "compression_ratio": 1.2803738,
+      "no_speech_prob": 0.39453125
+    },
+    {
+      "id": 42,
+      "seek": 2947,
+      "start": 175.65666,
+      "end": 177.51666,
+      "text": " by giving a community that",
+      "tokens": [
+        50365,
+        538,
+        2902,
+        257,
+        1768,
+        300,
+        50458
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 43,
+      "seek": 2947,
+      "start": 177.51666,
+      "end": 179.63666,
+      "text": " encouraged me to build relationships",
+      "tokens": [
+        50458,
+        14658,
+        385,
+        281,
+        1322,
+        6159,
+        50564
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 44,
+      "seek": 2947,
+      "start": 179.63666,
+      "end": 182.11667,
+      "text": " with people, but with",
+      "tokens": [
+        50564,
+        365,
+        561,
+        11,
+        457,
+        365,
+        50688
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 45,
+      "seek": 2947,
+      "start": 182.11667,
+      "end": 183.81667,
+      "text": " Jesus, of course.",
+      "tokens": [
+        50688,
+        2705,
+        11,
+        295,
+        1164,
+        13,
+        50773
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 46,
+      "seek": 2947,
+      "start": 184.25665,
+      "end": 185.67667,
+      "text": " So, um...",
+      "tokens": [
+        50795,
+        407,
+        11,
+        1105,
+        485,
+        50866
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 47,
+      "seek": 2947,
+      "start": 185.67667,
+      "end": 188.97665,
+      "text": " Alati, sorry na talaga po.",
+      "tokens": [
+        50866,
+        967,
+        6908,
+        11,
+        2597,
+        1667,
+        4023,
+        9286,
+        714,
+        13,
+        51031
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 48,
+      "seek": 2947,
+      "start": 189.21666,
+      "end": 190.05667,
+      "text": " Okay, okay lang.",
+      "tokens": [
+        51043,
+        1033,
+        11,
+        1392,
+        2265,
+        13,
+        51085
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 49,
+      "seek": 2947,
+      "start": 190.11667,
+      "end": 190.83667,
+      "text": " Atido ko na po.",
+      "tokens": [
+        51088,
+        1711,
+        2925,
+        8384,
+        1667,
+        714,
+        13,
+        51124
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 50,
+      "seek": 2947,
+      "start": 190.83667,
+      "end": 192.03667,
+      "text": " Okay, maska.",
+      "tokens": [
+        51124,
+        1033,
+        11,
+        2300,
+        2330,
+        13,
+        51184
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 51,
+      "seek": 2947,
+      "start": 192.57666,
+      "end": 193.55666,
+      "text": " Para makita ka.",
+      "tokens": [
+        51211,
+        11107,
+        963,
+        2786,
+        6799,
+        13,
+        51260
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 52,
+      "seek": 2947,
+      "start": 194.45667,
+      "end": 195.39667,
+      "text": " Okay, ready?",
+      "tokens": [
+        51305,
+        1033,
+        11,
+        1919,
+        30,
+        51352
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 53,
+      "seek": 2947,
+      "start": 196.49666,
+      "end": 198.67667,
+      "text": " How has God been faithful to you",
+      "tokens": [
+        51407,
+        1012,
+        575,
+        1265,
+        668,
+        17808,
+        281,
+        291,
+        51516
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 54,
+      "seek": 2947,
+      "start": 198.67667,
+      "end": 199.67667,
+      "text": " through this church?",
+      "tokens": [
+        51516,
+        807,
+        341,
+        4128,
+        30,
+        51566
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 55,
+      "seek": 2947,
+      "start": 200.39667,
+      "end": 202.71666,
+      "text": " God has been faithful to me",
+      "tokens": [
+        51602,
+        1265,
+        575,
+        668,
+        17808,
+        281,
+        385,
+        51718
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 56,
+      "seek": 2947,
+      "start": 202.71666,
+      "end": 204.55666,
+      "text": " by giving me a community that",
+      "tokens": [
+        51718,
+        538,
+        2902,
+        385,
+        257,
+        1768,
+        300,
+        51810
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.40781125,
+      "compression_ratio": 1.5845411,
+      "no_speech_prob": 0.08392334
+    },
+    {
+      "id": 57,
+      "seek": 5837,
+      "start": 204.55666,
+      "end": 206.19666,
+      "text": " encourage me to build relationships",
+      "tokens": [
+        50365,
+        5373,
+        385,
+        281,
+        1322,
+        6159,
+        50447
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 58,
+      "seek": 5837,
+      "start": 206.19666,
+      "end": 208.23666,
+      "text": " with the people around me",
+      "tokens": [
+        50447,
+        365,
+        264,
+        561,
+        926,
+        385,
+        50549
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 59,
+      "seek": 5837,
+      "start": 208.23666,
+      "end": 209.53665,
+      "text": " and with God, of course.",
+      "tokens": [
+        50549,
+        293,
+        365,
+        1265,
+        11,
+        295,
+        1164,
+        13,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 60,
+      "seek": 5837,
+      "start": 209.95667,
+      "end": 211.95667,
+      "text": " So, parang nakakaroon po ako ng mga",
+      "tokens": [
+        50635,
+        407,
+        11,
+        971,
+        656,
+        20332,
+        514,
+        289,
+        4106,
+        714,
+        43567,
+        6415,
+        275,
+        3680,
+        50735
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 61,
+      "seek": 5837,
+      "start": 211.95667,
+      "end": 213.89667,
+      "text": " kahit na sobrang",
+      "tokens": [
+        50735,
+        21651,
+        270,
+        1667,
+        370,
+        1443,
+        656,
+        50832
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 62,
+      "seek": 5837,
+      "start": 213.89667,
+      "end": 216.43666,
+      "text": " hirap po ng buhay, nakakaroon ng mga inconvenience.",
+      "tokens": [
+        50832,
+        276,
+        347,
+        569,
+        714,
+        6415,
+        758,
+        47464,
+        11,
+        20332,
+        514,
+        289,
+        4106,
+        6415,
+        275,
+        3680,
+        28752,
+        1182,
+        13,
+        50959
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 63,
+      "seek": 5837,
+      "start": 216.87666,
+      "end": 218.37665,
+      "text": " Pero through His words, of course,",
+      "tokens": [
+        50981,
+        9377,
+        807,
+        2812,
+        2283,
+        11,
+        295,
+        1164,
+        11,
+        51056
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 64,
+      "seek": 5837,
+      "start": 219.17667,
+      "end": 221.01666,
+      "text": " mas narirealize ko po",
+      "tokens": [
+        51096,
+        2300,
+        6714,
+        621,
+        304,
+        1125,
+        8384,
+        714,
+        51188
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 65,
+      "seek": 5837,
+      "start": 221.01666,
+      "end": 222.93666,
+      "text": " na through faith po,",
+      "tokens": [
+        51188,
+        1667,
+        807,
+        4522,
+        714,
+        11,
+        51284
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35852587,
+      "compression_ratio": 1.5732758,
+      "no_speech_prob": 0.0005507469
+    },
+    {
+      "id": 66,
+      "seek": 223,
+      "start": 223.13666,
+      "end": 229.64499,
+      "text": " I can do anything with God What does the 30th anniversary mean to you",
+      "tokens": [
+        51294,
+        286,
+        393,
+        360,
+        1340,
+        51359,
+        51359,
+        365,
+        1265,
+        13,
+        51401,
+        51501,
+        708,
+        775,
+        264,
+        2217,
+        392,
+        12962,
+        914,
+        281,
+        291,
+        30,
+        50648
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.26566583,
+      "compression_ratio": 1.559322,
+      "no_speech_prob": 0.28564453
+    },
+    {
+      "id": 67,
+      "seek": 223,
+      "start": 240.76498,
+      "end": 244.62498,
+      "text": " What does the 30th anniversary mean to you?",
+      "tokens": [
+        51204,
+        708,
+        775,
+        264,
+        2217,
+        392,
+        12962,
+        914,
+        281,
+        291,
+        30,
+        51397
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.26566583,
+      "compression_ratio": 1.559322,
+      "no_speech_prob": 0.28564453
+    },
+    {
+      "id": 68,
+      "seek": 223,
+      "start": 244.98499,
+      "end": 245.94498,
+      "text": " Para po sa akin,",
+      "tokens": [
+        51415,
+        11107,
+        714,
+        601,
+        47540,
+        11,
+        51463
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.26566583,
+      "compression_ratio": 1.559322,
+      "no_speech_prob": 0.28564453
+    },
+    {
+      "id": 69,
+      "seek": 223,
+      "start": 246.08499,
+      "end": 248.00499,
+      "text": " hindi lang po siya celebration,",
+      "tokens": [
+        51470,
+        276,
+        10255,
+        2265,
+        714,
+        1511,
+        3016,
+        14184,
+        11,
+        51566
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.26566583,
+      "compression_ratio": 1.559322,
+      "no_speech_prob": 0.28564453
+    },
+    {
+      "id": 70,
+      "seek": 223,
+      "start": 248.00499,
+      "end": 249.82498,
+      "text": " pero it's a celebration.",
+      "tokens": [
+        51566,
+        4768,
+        309,
+        311,
+        257,
+        14184,
+        13,
+        51657
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.26566583,
+      "compression_ratio": 1.559322,
+      "no_speech_prob": 0.28564453
+    },
+    {
+      "id": 71,
+      "seek": 223,
+      "start": 250.90498,
+      "end": 251.78499,
+      "text": " Shucks!",
+      "tokens": [
+        51711,
+        1160,
+        15493,
+        0,
+        51755
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.26566583,
+      "compression_ratio": 1.559322,
+      "no_speech_prob": 0.28564453
+    },
+    {
+      "id": 72,
+      "seek": 3003,
+      "start": 251.78499,
+      "end": 258.82498,
+      "text": " What does the 30th anniversary mean to you?",
+      "tokens": [
+        50365,
+        708,
+        775,
+        264,
+        2217,
+        392,
+        12962,
+        914,
+        281,
+        291,
+        30,
+        50717
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16312167,
+      "compression_ratio": 1.5754716,
+      "no_speech_prob": 0.07977295
+    },
+    {
+      "id": 73,
+      "seek": 3003,
+      "start": 259.245,
+      "end": 265.485,
+      "text": " Para po sa akin, yung 30th anniversary is a celebration of faithfulness po",
+      "tokens": [
+        50738,
+        11107,
+        714,
+        601,
+        47540,
+        11,
+        288,
+        1063,
+        2217,
+        392,
+        12962,
+        307,
+        257,
+        14184,
+        295,
+        17808,
+        1287,
+        714,
+        51050
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16312167,
+      "compression_ratio": 1.5754716,
+      "no_speech_prob": 0.07977295
+    },
+    {
+      "id": 74,
+      "seek": 3003,
+      "start": 265.485,
+      "end": 267.94498,
+      "text": " Hindi lang po siya basta-basta celebration",
+      "tokens": [
+        51050,
+        36225,
+        2265,
+        714,
+        1511,
+        3016,
+        45282,
+        12,
+        65,
+        12468,
+        14184,
+        51173
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16312167,
+      "compression_ratio": 1.5754716,
+      "no_speech_prob": 0.07977295
+    },
+    {
+      "id": 75,
+      "seek": 3003,
+      "start": 267.94498,
+      "end": 271.32498,
+      "text": " Pero ito po yung sacrifice po natin, prayer po natin",
+      "tokens": [
+        51173,
+        9377,
+        309,
+        78,
+        714,
+        288,
+        1063,
+        11521,
+        714,
+        2249,
+        259,
+        11,
+        8767,
+        714,
+        2249,
+        259,
+        51342
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16312167,
+      "compression_ratio": 1.5754716,
+      "no_speech_prob": 0.07977295
+    },
+    {
+      "id": 76,
+      "seek": 3003,
+      "start": 271.32498,
+      "end": 274.16498,
+      "text": " And yung mga lives po na na-touch ni God po",
+      "tokens": [
+        51342,
+        400,
+        288,
+        1063,
+        275,
+        3680,
+        2909,
+        714,
+        1667,
+        1667,
+        12,
+        83,
+        2220,
+        3867,
+        1265,
+        714,
+        51484
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16312167,
+      "compression_ratio": 1.5754716,
+      "no_speech_prob": 0.07977295
+    },
+    {
+      "id": 77,
+      "seek": 3003,
+      "start": 274.16498,
+      "end": 280.26498,
+      "text": " In one sentence, what is your message to the church for the next 30 years?",
+      "tokens": [
+        51484,
+        682,
+        472,
+        8174,
+        11,
+        437,
+        307,
+        428,
+        3636,
+        281,
+        264,
+        4128,
+        337,
+        264,
+        958,
+        2217,
+        924,
+        30,
+        51789
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16312167,
+      "compression_ratio": 1.5754716,
+      "no_speech_prob": 0.07977295
+    },
+    {
+      "id": 78,
+      "seek": 5851,
+      "start": 280.26498,
+      "end": 282.425,
+      "text": " So I pray that",
+      "tokens": [
+        50365,
+        407,
+        286,
+        3690,
+        300,
+        50473
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 79,
+      "seek": 5851,
+      "start": 282.425,
+      "end": 283.78497,
+      "text": " Glorious Church po",
+      "tokens": [
+        50473,
+        5209,
+        14354,
+        7882,
+        714,
+        50541
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 80,
+      "seek": 5851,
+      "start": 283.78497,
+      "end": 286.205,
+      "text": " Will be the church that always",
+      "tokens": [
+        50541,
+        3099,
+        312,
+        264,
+        4128,
+        300,
+        1009,
+        50662
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 81,
+      "seek": 5851,
+      "start": 286.205,
+      "end": 287.78497,
+      "text": " Shares the word of God",
+      "tokens": [
+        50662,
+        1160,
+        8643,
+        264,
+        1349,
+        295,
+        1265,
+        50741
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 82,
+      "seek": 5851,
+      "start": 287.78497,
+      "end": 289.865,
+      "text": " Share the love of Christ",
+      "tokens": [
+        50741,
+        14945,
+        264,
+        959,
+        295,
+        2040,
+        50845
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 83,
+      "seek": 5851,
+      "start": 289.865,
+      "end": 292.26498,
+      "text": " And share a light",
+      "tokens": [
+        50845,
+        400,
+        2073,
+        257,
+        1442,
+        50965
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 84,
+      "seek": 5851,
+      "start": 292.26498,
+      "end": 294.585,
+      "text": " That shines so bright for all the generations",
+      "tokens": [
+        50965,
+        663,
+        28056,
+        370,
+        4730,
+        337,
+        439,
+        264,
+        10593,
+        51081
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 85,
+      "seek": 5851,
+      "start": 294.585,
+      "end": 295.205,
+      "text": " To see",
+      "tokens": [
+        51081,
+        1407,
+        536,
+        51112
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 86,
+      "seek": 5851,
+      "start": 295.205,
+      "end": 298.525,
+      "text": " Okay, sabay-sabay",
+      "tokens": [
+        51112,
+        1033,
+        11,
+        5560,
+        320,
+        12,
+        82,
+        455,
+        320,
+        51278
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 87,
+      "seek": 5851,
+      "start": 298.525,
+      "end": 298.925,
+      "text": " Mag-end",
+      "tokens": [
+        51278,
+        6395,
+        12,
+        521,
+        51298
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 88,
+      "seek": 5851,
+      "start": 298.925,
+      "end": 299.685,
+      "text": " One",
+      "tokens": [
+        51298,
+        1485,
+        51336
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 89,
+      "seek": 5851,
+      "start": 299.685,
+      "end": 302.28497,
+      "text": " Two",
+      "tokens": [
+        51336,
+        4453,
+        51466
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    },
+    {
+      "id": 90,
+      "seek": 5851,
+      "start": 302.28497,
+      "end": 303.065,
+      "text": " Three",
+      "tokens": [
+        51466,
+        6244,
+        51505
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26159665,
+      "compression_ratio": 1.4267516,
+      "no_speech_prob": 0.00932312
+    }
+  ],
+  "x_groq": {
+    "id": "req_01m65b6ymde2ds5x30vm1nh479"
+  }
+}

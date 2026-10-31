@@ -1,0 +1,914 @@
+{
+  "task": "transcribe",
+  "language": "Tagalog",
+  "duration": 68.42669056,
+  "text": " Go, Ben. I pray that Glorious Church continue to inspire generations to come and bring more people closer to God. I think it's will continue. Will continue. Ano sabi mo? Sabi niya I pray Glorious Church continue. Will continue. I pray Glorious Church will continue. Well, kung... Did you say continue or continues? Continue lang. You can just say continues. Continues. Okay. One, two, three, go. I pray that... Sorry. I pray that Glorious Church continues to inspire generations to come and bring more people closer to God. Okay, pause in 1, 2, 3.",
+  "words": [
+    {
+      "word": "Go,",
+      "start": 0,
+      "end": 2.52
+    },
+    {
+      "word": "Ben.",
+      "start": 2.52,
+      "end": 2.6
+    },
+    {
+      "word": "I",
+      "start": 4.78,
+      "end": 5.46
+    },
+    {
+      "word": "pray",
+      "start": 5.46,
+      "end": 9.04
+    },
+    {
+      "word": "that",
+      "start": 9.04,
+      "end": 15.18
+    },
+    {
+      "word": "Glorious",
+      "start": 15.18,
+      "end": 15.72
+    },
+    {
+      "word": "Church",
+      "start": 15.72,
+      "end": 16.12
+    },
+    {
+      "word": "continue",
+      "start": 16.12,
+      "end": 16.74
+    },
+    {
+      "word": "to",
+      "start": 16.74,
+      "end": 16.98
+    },
+    {
+      "word": "inspire",
+      "start": 16.98,
+      "end": 17.74
+    },
+    {
+      "word": "generations",
+      "start": 17.74,
+      "end": 18.54
+    },
+    {
+      "word": "to",
+      "start": 18.54,
+      "end": 18.86
+    },
+    {
+      "word": "come",
+      "start": 18.86,
+      "end": 19.1
+    },
+    {
+      "word": "and",
+      "start": 19.1,
+      "end": 19.38
+    },
+    {
+      "word": "bring",
+      "start": 19.38,
+      "end": 19.8
+    },
+    {
+      "word": "more",
+      "start": 19.8,
+      "end": 20.04
+    },
+    {
+      "word": "people",
+      "start": 20.04,
+      "end": 20.46
+    },
+    {
+      "word": "closer",
+      "start": 20.46,
+      "end": 20.88
+    },
+    {
+      "word": "to",
+      "start": 20.88,
+      "end": 21.12
+    },
+    {
+      "word": "God.",
+      "start": 21.12,
+      "end": 21.28
+    },
+    {
+      "word": "I",
+      "start": 22.14,
+      "end": 22.26
+    },
+    {
+      "word": "think",
+      "start": 22.26,
+      "end": 22.46
+    },
+    {
+      "word": "it's",
+      "start": 22.46,
+      "end": 22.64
+    },
+    {
+      "word": "will",
+      "start": 22.64,
+      "end": 22.88
+    },
+    {
+      "word": "continue.",
+      "start": 22.88,
+      "end": 23.24
+    },
+    {
+      "word": "Will",
+      "start": 23.54,
+      "end": 23.7
+    },
+    {
+      "word": "continue.",
+      "start": 23.7,
+      "end": 24.04
+    },
+    {
+      "word": "Ano",
+      "start": 24.24,
+      "end": 24.44
+    },
+    {
+      "word": "sabi",
+      "start": 24.44,
+      "end": 24.78
+    },
+    {
+      "word": "mo?",
+      "start": 24.78,
+      "end": 25.14
+    },
+    {
+      "word": "Sabi",
+      "start": 25.24,
+      "end": 25.86
+    },
+    {
+      "word": "niya",
+      "start": 25.86,
+      "end": 25.98
+    },
+    {
+      "word": "I",
+      "start": 25.98,
+      "end": 26.22
+    },
+    {
+      "word": "pray",
+      "start": 26.22,
+      "end": 26.34
+    },
+    {
+      "word": "Glorious",
+      "start": 26.34,
+      "end": 26.62
+    },
+    {
+      "word": "Church",
+      "start": 26.62,
+      "end": 26.76
+    },
+    {
+      "word": "continue.",
+      "start": 26.76,
+      "end": 27.18
+    },
+    {
+      "word": "Will",
+      "start": 27.66,
+      "end": 27.88
+    },
+    {
+      "word": "continue.",
+      "start": 27.88,
+      "end": 28.68
+    },
+    {
+      "word": "I",
+      "start": 28.46,
+      "end": 28.62
+    },
+    {
+      "word": "pray",
+      "start": 28.62,
+      "end": 28.8
+    },
+    {
+      "word": "Glorious",
+      "start": 28.8,
+      "end": 29.1
+    },
+    {
+      "word": "Church",
+      "start": 29.1,
+      "end": 29.22
+    },
+    {
+      "word": "will",
+      "start": 29.22,
+      "end": 29.46
+    },
+    {
+      "word": "continue.",
+      "start": 29.46,
+      "end": 29.98
+    },
+    {
+      "word": "Well,",
+      "start": 30,
+      "end": 30.88
+    },
+    {
+      "word": "kung...",
+      "start": 30.88,
+      "end": 31.92
+    },
+    {
+      "word": "Did",
+      "start": 31.92,
+      "end": 33.12
+    },
+    {
+      "word": "you",
+      "start": 33.12,
+      "end": 33.26
+    },
+    {
+      "word": "say",
+      "start": 33.26,
+      "end": 33.46
+    },
+    {
+      "word": "continue",
+      "start": 33.46,
+      "end": 33.84
+    },
+    {
+      "word": "or",
+      "start": 33.84,
+      "end": 34.2
+    },
+    {
+      "word": "continues?",
+      "start": 34.2,
+      "end": 35.46
+    },
+    {
+      "word": "Continue",
+      "start": 35.72,
+      "end": 36.14
+    },
+    {
+      "word": "lang.",
+      "start": 36.14,
+      "end": 36.66
+    },
+    {
+      "word": "You",
+      "start": 36.7,
+      "end": 37.86
+    },
+    {
+      "word": "can",
+      "start": 37.86,
+      "end": 38.76
+    },
+    {
+      "word": "just",
+      "start": 38.76,
+      "end": 40.06
+    },
+    {
+      "word": "say",
+      "start": 40.06,
+      "end": 40.28
+    },
+    {
+      "word": "continues.",
+      "start": 40.28,
+      "end": 40.8
+    },
+    {
+      "word": "Continues.",
+      "start": 41.08,
+      "end": 42
+    },
+    {
+      "word": "Okay.",
+      "start": 41.62,
+      "end": 42.14
+    },
+    {
+      "word": "One,",
+      "start": 45.7,
+      "end": 46.66
+    },
+    {
+      "word": "two,",
+      "start": 46.66,
+      "end": 47.32
+    },
+    {
+      "word": "three,",
+      "start": 47.32,
+      "end": 47.6
+    },
+    {
+      "word": "go.",
+      "start": 47.6,
+      "end": 48
+    },
+    {
+      "word": "I",
+      "start": 49.4,
+      "end": 49.58
+    },
+    {
+      "word": "pray",
+      "start": 49.58,
+      "end": 49.94
+    },
+    {
+      "word": "that...",
+      "start": 49.94,
+      "end": 50.4
+    },
+    {
+      "word": "Sorry.",
+      "start": 49.92,
+      "end": 51.26
+    },
+    {
+      "word": "I",
+      "start": 52.76,
+      "end": 52.88
+    },
+    {
+      "word": "pray",
+      "start": 52.88,
+      "end": 53.24
+    },
+    {
+      "word": "that",
+      "start": 53.24,
+      "end": 53.42
+    },
+    {
+      "word": "Glorious",
+      "start": 53.42,
+      "end": 53.84
+    },
+    {
+      "word": "Church",
+      "start": 53.84,
+      "end": 54.32
+    },
+    {
+      "word": "continues",
+      "start": 54.32,
+      "end": 54.9
+    },
+    {
+      "word": "to",
+      "start": 54.9,
+      "end": 55.26
+    },
+    {
+      "word": "inspire",
+      "start": 55.26,
+      "end": 56.14
+    },
+    {
+      "word": "generations",
+      "start": 56.14,
+      "end": 57.08
+    },
+    {
+      "word": "to",
+      "start": 57.08,
+      "end": 57.46
+    },
+    {
+      "word": "come",
+      "start": 57.46,
+      "end": 57.78
+    },
+    {
+      "word": "and",
+      "start": 57.86,
+      "end": 58.44
+    },
+    {
+      "word": "bring",
+      "start": 58.44,
+      "end": 59.24
+    },
+    {
+      "word": "more",
+      "start": 59.24,
+      "end": 60.14
+    },
+    {
+      "word": "people",
+      "start": 60.14,
+      "end": 60.5
+    },
+    {
+      "word": "closer",
+      "start": 60.5,
+      "end": 60.86
+    },
+    {
+      "word": "to",
+      "start": 60.86,
+      "end": 61.12
+    },
+    {
+      "word": "God.",
+      "start": 61.12,
+      "end": 61.82
+    },
+    {
+      "word": "Okay,",
+      "start": 63.36,
+      "end": 63.68
+    },
+    {
+      "word": "pause",
+      "start": 63.68,
+      "end": 64.08
+    },
+    {
+      "word": "in",
+      "start": 64.08,
+      "end": 64.4
+    },
+    {
+      "word": "1,",
+      "start": 64.4,
+      "end": 65.1
+    },
+    {
+      "word": "2,",
+      "start": 65.1,
+      "end": 67.62
+    },
+    {
+      "word": "3.",
+      "start": 67.62,
+      "end": 67.78
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 2.62,
+      "text": " Go, Ben.",
+      "tokens": [
+        50365,
+        1037,
+        11,
+        3964,
+        13,
+        50496
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36307937,
+      "compression_ratio": 1.8095238,
+      "no_speech_prob": 0.58691406
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.62,
+      "end": 21.3,
+      "text": " I pray that Glorious Church continue to inspire generations to come and bring more people closer to God.",
+      "tokens": [
+        50596,
+        286,
+        3690,
+        300,
+        5209,
+        14354,
+        7882,
+        2354,
+        281,
+        15638,
+        10593,
+        281,
+        808,
+        293,
+        1565,
+        544,
+        561,
+        4966,
+        281,
+        1265,
+        13,
+        51430
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36307937,
+      "compression_ratio": 1.8095238,
+      "no_speech_prob": 0.58691406
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 22.06,
+      "end": 23.42,
+      "text": " I think it's will continue.",
+      "tokens": [
+        51468,
+        286,
+        519,
+        309,
+        311,
+        486,
+        2354,
+        13,
+        51536
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36307937,
+      "compression_ratio": 1.8095238,
+      "no_speech_prob": 0.58691406
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 23.519999,
+      "end": 24.1,
+      "text": " Will continue.",
+      "tokens": [
+        51541,
+        3099,
+        2354,
+        13,
+        51570
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36307937,
+      "compression_ratio": 1.8095238,
+      "no_speech_prob": 0.58691406
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 24.24,
+      "end": 24.9,
+      "text": " Ano sabi mo?",
+      "tokens": [
+        51577,
+        1107,
+        78,
+        5560,
+        72,
+        705,
+        30,
+        51610
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36307937,
+      "compression_ratio": 1.8095238,
+      "no_speech_prob": 0.58691406
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 25.16,
+      "end": 27.32,
+      "text": " Sabi niya I pray Glorious Church continue.",
+      "tokens": [
+        51623,
+        13915,
+        72,
+        3867,
+        3016,
+        286,
+        3690,
+        5209,
+        14354,
+        7882,
+        2354,
+        13,
+        51731
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36307937,
+      "compression_ratio": 1.8095238,
+      "no_speech_prob": 0.58691406
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 27.599998,
+      "end": 28.32,
+      "text": " Will continue.",
+      "tokens": [
+        51745,
+        3099,
+        2354,
+        13,
+        51781
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36307937,
+      "compression_ratio": 1.8095238,
+      "no_speech_prob": 0.58691406
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 28.32,
+      "end": 29.859999,
+      "text": " I pray Glorious Church will continue.",
+      "tokens": [
+        51781,
+        286,
+        3690,
+        5209,
+        14354,
+        7882,
+        486,
+        2354,
+        13,
+        51858
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.36307937,
+      "compression_ratio": 1.8095238,
+      "no_speech_prob": 0.58691406
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 30,
+      "end": 31.96,
+      "text": " Well, kung...",
+      "tokens": [
+        50365,
+        1042,
+        11,
+        49304,
+        485,
+        50463
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 9,
+      "seek": 3000,
+      "start": 31.96,
+      "end": 34.98,
+      "text": " Did you say continue or continues?",
+      "tokens": [
+        50463,
+        2589,
+        291,
+        584,
+        2354,
+        420,
+        6515,
+        30,
+        50614
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 10,
+      "seek": 3000,
+      "start": 35.66,
+      "end": 36.44,
+      "text": " Continue lang.",
+      "tokens": [
+        50648,
+        24472,
+        2265,
+        13,
+        50687
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 11,
+      "seek": 3000,
+      "start": 36.72,
+      "end": 40.94,
+      "text": " You can just say continues.",
+      "tokens": [
+        50701,
+        509,
+        393,
+        445,
+        584,
+        6515,
+        13,
+        50912
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 12,
+      "seek": 3000,
+      "start": 41.02,
+      "end": 41.52,
+      "text": " Continues.",
+      "tokens": [
+        50916,
+        14674,
+        1247,
+        13,
+        50941
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 41.64,
+      "end": 42.04,
+      "text": " Okay.",
+      "tokens": [
+        50947,
+        1033,
+        13,
+        50967
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 14,
+      "seek": 3000,
+      "start": 45.56,
+      "end": 48,
+      "text": " One, two, three, go.",
+      "tokens": [
+        51143,
+        1485,
+        11,
+        732,
+        11,
+        1045,
+        11,
+        352,
+        13,
+        51265
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 15,
+      "seek": 3000,
+      "start": 49.36,
+      "end": 50.42,
+      "text": " I pray that...",
+      "tokens": [
+        51333,
+        286,
+        3690,
+        300,
+        485,
+        51386
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 16,
+      "seek": 3000,
+      "start": 50.42,
+      "end": 50.78,
+      "text": " Sorry.",
+      "tokens": [
+        51386,
+        4919,
+        13,
+        51404
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 17,
+      "seek": 3000,
+      "start": 52.16,
+      "end": 57.86,
+      "text": " I pray that Glorious Church continues to inspire generations to come",
+      "tokens": [
+        51473,
+        286,
+        3690,
+        300,
+        5209,
+        14354,
+        7882,
+        6515,
+        281,
+        15638,
+        10593,
+        281,
+        808,
+        51758
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5042283,
+      "compression_ratio": 1.5136986,
+      "no_speech_prob": 0.35180664
+    },
+    {
+      "id": 18,
+      "seek": 5786,
+      "start": 57.86,
+      "end": 61.34,
+      "text": " and bring more people closer to God.",
+      "tokens": [
+        50365,
+        293,
+        1565,
+        544,
+        561,
+        4966,
+        281,
+        1265,
+        13,
+        50539
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2968254,
+      "compression_ratio": 0.89705884,
+      "no_speech_prob": 0.04888916
+    },
+    {
+      "id": 19,
+      "seek": 5786,
+      "start": 63.260002,
+      "end": 67.94,
+      "text": " Okay, pause in 1, 2, 3.",
+      "tokens": [
+        50635,
+        1033,
+        11,
+        10465,
+        294,
+        502,
+        11,
+        568,
+        11,
+        805,
+        13,
+        50869
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2968254,
+      "compression_ratio": 0.89705884,
+      "no_speech_prob": 0.04888916
+    }
+  ],
+  "x_groq": {
+    "id": "req_01m65b77jme19r5trne04vwpv2"
+  }
+}

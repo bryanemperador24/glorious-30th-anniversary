@@ -1,0 +1,244 @@
+{
+  "task": "transcribe",
+  "language": "Tagalog",
+  "duration": 12.498374656,
+  "text": " Go. Okay. First question po. When and how did you first come to Glorious Church? Nag-start ako sa Glorious Church after 1998.",
+  "words": [
+    {
+      "word": "Go.",
+      "start": 0,
+      "end": 0.68
+    },
+    {
+      "word": "Okay.",
+      "start": 1.06,
+      "end": 1.28
+    },
+    {
+      "word": "First",
+      "start": 1.6,
+      "end": 1.88
+    },
+    {
+      "word": "question",
+      "start": 1.88,
+      "end": 2.52
+    },
+    {
+      "word": "po.",
+      "start": 2.52,
+      "end": 2.82
+    },
+    {
+      "word": "When",
+      "start": 3.68,
+      "end": 3.86
+    },
+    {
+      "word": "and",
+      "start": 3.86,
+      "end": 4.28
+    },
+    {
+      "word": "how",
+      "start": 4.28,
+      "end": 4.58
+    },
+    {
+      "word": "did",
+      "start": 4.58,
+      "end": 4.82
+    },
+    {
+      "word": "you",
+      "start": 4.82,
+      "end": 5
+    },
+    {
+      "word": "first",
+      "start": 5,
+      "end": 5.38
+    },
+    {
+      "word": "come",
+      "start": 5.38,
+      "end": 5.68
+    },
+    {
+      "word": "to",
+      "start": 5.68,
+      "end": 5.88
+    },
+    {
+      "word": "Glorious",
+      "start": 5.88,
+      "end": 6.32
+    },
+    {
+      "word": "Church?",
+      "start": 6.32,
+      "end": 6.66
+    },
+    {
+      "word": "Nag-start",
+      "start": 7.86,
+      "end": 8.32
+    },
+    {
+      "word": "ako",
+      "start": 8.32,
+      "end": 8.58
+    },
+    {
+      "word": "sa",
+      "start": 8.58,
+      "end": 8.7
+    },
+    {
+      "word": "Glorious",
+      "start": 8.7,
+      "end": 9.06
+    },
+    {
+      "word": "Church",
+      "start": 9.06,
+      "end": 9.46
+    },
+    {
+      "word": "after",
+      "start": 9.54,
+      "end": 9.94
+    },
+    {
+      "word": "1998.",
+      "start": 9.94,
+      "end": 10.78
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 0.19999999,
+      "text": " Go.",
+      "tokens": [
+        50365,
+        1037,
+        13,
+        50375
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.445291,
+      "compression_ratio": 1.1775701,
+      "no_speech_prob": 0.18225098
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1,
+      "end": 1.3,
+      "text": " Okay.",
+      "tokens": [
+        50415,
+        1033,
+        13,
+        50430
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.445291,
+      "compression_ratio": 1.1775701,
+      "no_speech_prob": 0.18225098
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 1.5999999,
+      "end": 2.8799999,
+      "text": " First question po.",
+      "tokens": [
+        50445,
+        2386,
+        1168,
+        714,
+        13,
+        50509
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.445291,
+      "compression_ratio": 1.1775701,
+      "no_speech_prob": 0.18225098
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.54,
+      "end": 6.8999996,
+      "text": " When and how did you first come to Glorious Church?",
+      "tokens": [
+        50542,
+        1133,
+        293,
+        577,
+        630,
+        291,
+        700,
+        808,
+        281,
+        5209,
+        14354,
+        7882,
+        30,
+        50710
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.445291,
+      "compression_ratio": 1.1775701,
+      "no_speech_prob": 0.18225098
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.8199997,
+      "end": 9.54,
+      "text": " Nag-start ako sa Glorious Church",
+      "tokens": [
+        50756,
+        18913,
+        12,
+        24419,
+        43567,
+        601,
+        5209,
+        14354,
+        7882,
+        50842
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.445291,
+      "compression_ratio": 1.1775701,
+      "no_speech_prob": 0.18225098
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 9.54,
+      "end": 11.38,
+      "text": " after 1998.",
+      "tokens": [
+        50842,
+        934,
+        21404,
+        13,
+        50934
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.445291,
+      "compression_ratio": 1.1775701,
+      "no_speech_prob": 0.18225098
+    }
+  ],
+  "x_groq": {
+    "id": "req_01m65b7jjhek9bmnt71ka5ke0q"
+  }
+}

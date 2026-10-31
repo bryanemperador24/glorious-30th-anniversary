@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "remotion-studio",
+      "runtimeExecutable": "/bin/zsh",
+      "runtimeArgs": ["-c", "export PATH=\"$HOME/.local/node/bin:$PATH\" && npx remotion studio src/index.ts --port 3000 --no-open"],
+      "port": 3000
+    }
+  ]
+}

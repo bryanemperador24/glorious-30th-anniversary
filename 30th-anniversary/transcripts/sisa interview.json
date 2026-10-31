@@ -1,0 +1,3706 @@
+{
+  "task": "transcribe",
+  "language": "Tagalog",
+  "duration": 253.616706857,
+  "text": " When and how did you first come to Glorious Church? Nag-start ako sa Glorious Church taong 1998. Kaya 28 years na ako dito sa iglesyang ito. Noong simula, noong una ko dito, doon pa sa silong ng lumang bahay. At salamat sa Panginoon dahil binamit niya ang aking kaibigan na si Vicky upang ako'y ma-involve dito, ma-connect dito sa Glorious Church. Okay, second question po. What is one memory from this 30 years you will never forget? Ang dami. Pero isa na lang, yung nag-trending. Yung nag-trending talaga. Kasi talagang ang lungkot. Yung nangyari na, alam mo yung... Ang lungkot eh. Kasi yung nag-trending na yun, Hindi mo akalain na magawa ng mga leaders na bigla silang pumalis Nakakalumpo at nakakaiyak talaga. Pero, ang maganda doon, nakita ko kung paano ang ginawa ng kaaway sa church na ito. Nasimira niya, nawasak, pero nakita ko rin, nasaksihan ko rin kung paano binuunguli ng Diyos, kung paano muli ni-restore ng Diyos ang iglesia ito. Okay, third question po. How has God been faithful to you through this church? Dahil napakabuti ng Diyos. Magmula nung mapunta ko rito sa church na ito, nagbago na ang buhay namin. Talagang from nothing, talagang into blessing. Dati talagang walang-wala kami. Talagang halos wala kami makain, kahit pang masahe. Pero dahil sa church na ito, magmula sa prayers, sa prayers at sa mga at sa mga gawain na patuloy na na lumakas ang aking pananampalataya ayun doon na nagsimula ng pagbabago ng buhay namin Okay fourth question po What does the 30th anniversary mean to you Um... Okay lang, okay lang, tita. Okay lang tita kahit Galing sa puso kahit anuman Kahit anumining ng 30 years po sa inyo Okay siya Thank you. 30 years. Sige na lang. Sabot na lang. Ang 30 years para sa akin ay tatlong dekada ng kabutihan ng Lord, ng katapatan ng Lord. Yun ang para sa akin. At ang pasasalamat para sa tatlong dekada ito na punong-punong ng mga tatlong dikada ng pasasalamat ng kabutihan ng Lord. Okay po, last question po. In one sentence, what is your message to the church for the next 30 years? Last question. Last time, we are friends. I don't have to. From glory to glory, onward to next 30 years. Cut. 1, 2, 3.",
+  "words": [
+    {
+      "word": "When",
+      "start": 2.76,
+      "end": 2.9
+    },
+    {
+      "word": "and",
+      "start": 2.9,
+      "end": 3.92
+    },
+    {
+      "word": "how",
+      "start": 3.92,
+      "end": 4.18
+    },
+    {
+      "word": "did",
+      "start": 4.18,
+      "end": 4.42
+    },
+    {
+      "word": "you",
+      "start": 4.42,
+      "end": 4.56
+    },
+    {
+      "word": "first",
+      "start": 4.56,
+      "end": 4.88
+    },
+    {
+      "word": "come",
+      "start": 4.88,
+      "end": 5.06
+    },
+    {
+      "word": "to",
+      "start": 5.06,
+      "end": 5.2
+    },
+    {
+      "word": "Glorious",
+      "start": 5.2,
+      "end": 5.48
+    },
+    {
+      "word": "Church?",
+      "start": 5.48,
+      "end": 6.4
+    },
+    {
+      "word": "Nag-start",
+      "start": 6.5,
+      "end": 6.94
+    },
+    {
+      "word": "ako",
+      "start": 6.94,
+      "end": 7.16
+    },
+    {
+      "word": "sa",
+      "start": 7.16,
+      "end": 7.32
+    },
+    {
+      "word": "Glorious",
+      "start": 7.32,
+      "end": 7.66
+    },
+    {
+      "word": "Church",
+      "start": 7.66,
+      "end": 8.14
+    },
+    {
+      "word": "taong",
+      "start": 8.14,
+      "end": 8.62
+    },
+    {
+      "word": "1998.",
+      "start": 8.62,
+      "end": 9.88
+    },
+    {
+      "word": "Kaya",
+      "start": 10.08,
+      "end": 10.3
+    },
+    {
+      "word": "28",
+      "start": 10.3,
+      "end": 10.98
+    },
+    {
+      "word": "years",
+      "start": 10.98,
+      "end": 11.28
+    },
+    {
+      "word": "na",
+      "start": 11.28,
+      "end": 11.46
+    },
+    {
+      "word": "ako",
+      "start": 11.46,
+      "end": 11.6
+    },
+    {
+      "word": "dito",
+      "start": 11.6,
+      "end": 12
+    },
+    {
+      "word": "sa",
+      "start": 12,
+      "end": 12.52
+    },
+    {
+      "word": "iglesyang",
+      "start": 12.52,
+      "end": 13
+    },
+    {
+      "word": "ito.",
+      "start": 13,
+      "end": 14.32
+    },
+    {
+      "word": "Noong",
+      "start": 14.46,
+      "end": 14.7
+    },
+    {
+      "word": "simula,",
+      "start": 14.7,
+      "end": 15.38
+    },
+    {
+      "word": "noong",
+      "start": 15.38,
+      "end": 15.52
+    },
+    {
+      "word": "una",
+      "start": 15.52,
+      "end": 15.86
+    },
+    {
+      "word": "ko",
+      "start": 15.86,
+      "end": 16
+    },
+    {
+      "word": "dito,",
+      "start": 16,
+      "end": 16.94
+    },
+    {
+      "word": "doon",
+      "start": 16.94,
+      "end": 17.12
+    },
+    {
+      "word": "pa",
+      "start": 17.12,
+      "end": 17.34
+    },
+    {
+      "word": "sa",
+      "start": 17.34,
+      "end": 17.52
+    },
+    {
+      "word": "silong",
+      "start": 17.52,
+      "end": 17.98
+    },
+    {
+      "word": "ng",
+      "start": 17.98,
+      "end": 18.22
+    },
+    {
+      "word": "lumang",
+      "start": 18.22,
+      "end": 19.2
+    },
+    {
+      "word": "bahay.",
+      "start": 19.2,
+      "end": 20.42
+    },
+    {
+      "word": "At",
+      "start": 20.46,
+      "end": 20.64
+    },
+    {
+      "word": "salamat",
+      "start": 20.64,
+      "end": 21.06
+    },
+    {
+      "word": "sa",
+      "start": 21.06,
+      "end": 21.22
+    },
+    {
+      "word": "Panginoon",
+      "start": 21.22,
+      "end": 21.74
+    },
+    {
+      "word": "dahil",
+      "start": 21.74,
+      "end": 21.96
+    },
+    {
+      "word": "binamit",
+      "start": 21.96,
+      "end": 22.48
+    },
+    {
+      "word": "niya",
+      "start": 22.48,
+      "end": 22.7
+    },
+    {
+      "word": "ang",
+      "start": 22.7,
+      "end": 23.28
+    },
+    {
+      "word": "aking",
+      "start": 23.28,
+      "end": 23.54
+    },
+    {
+      "word": "kaibigan",
+      "start": 23.54,
+      "end": 24.08
+    },
+    {
+      "word": "na",
+      "start": 24.08,
+      "end": 24.26
+    },
+    {
+      "word": "si",
+      "start": 24.26,
+      "end": 24.42
+    },
+    {
+      "word": "Vicky",
+      "start": 24.42,
+      "end": 24.74
+    },
+    {
+      "word": "upang",
+      "start": 24.74,
+      "end": 25.7
+    },
+    {
+      "word": "ako'y",
+      "start": 25.7,
+      "end": 26.38
+    },
+    {
+      "word": "ma-involve",
+      "start": 26.38,
+      "end": 27.08
+    },
+    {
+      "word": "dito,",
+      "start": 27.08,
+      "end": 27.6
+    },
+    {
+      "word": "ma-connect",
+      "start": 27.6,
+      "end": 28.1
+    },
+    {
+      "word": "dito",
+      "start": 28.1,
+      "end": 28.44
+    },
+    {
+      "word": "sa",
+      "start": 28.44,
+      "end": 28.68
+    },
+    {
+      "word": "Glorious",
+      "start": 28.68,
+      "end": 29.02
+    },
+    {
+      "word": "Church.",
+      "start": 29.02,
+      "end": 29.88
+    },
+    {
+      "word": "Okay,",
+      "start": 30.32,
+      "end": 30.78
+    },
+    {
+      "word": "second",
+      "start": 30.78,
+      "end": 31.08
+    },
+    {
+      "word": "question",
+      "start": 31.08,
+      "end": 31.52
+    },
+    {
+      "word": "po.",
+      "start": 31.52,
+      "end": 32.22
+    },
+    {
+      "word": "What",
+      "start": 32.24,
+      "end": 32.38
+    },
+    {
+      "word": "is",
+      "start": 32.38,
+      "end": 32.58
+    },
+    {
+      "word": "one",
+      "start": 32.58,
+      "end": 32.84
+    },
+    {
+      "word": "memory",
+      "start": 32.84,
+      "end": 33.32
+    },
+    {
+      "word": "from",
+      "start": 33.32,
+      "end": 33.62
+    },
+    {
+      "word": "this",
+      "start": 33.62,
+      "end": 33.96
+    },
+    {
+      "word": "30",
+      "start": 33.96,
+      "end": 34.36
+    },
+    {
+      "word": "years",
+      "start": 34.36,
+      "end": 34.74
+    },
+    {
+      "word": "you",
+      "start": 34.74,
+      "end": 35.48
+    },
+    {
+      "word": "will",
+      "start": 35.48,
+      "end": 35.66
+    },
+    {
+      "word": "never",
+      "start": 35.66,
+      "end": 35.96
+    },
+    {
+      "word": "forget?",
+      "start": 35.96,
+      "end": 36.92
+    },
+    {
+      "word": "Ang",
+      "start": 38.42,
+      "end": 38.62
+    },
+    {
+      "word": "dami.",
+      "start": 38.62,
+      "end": 39.48
+    },
+    {
+      "word": "Pero",
+      "start": 39.48,
+      "end": 39.68
+    },
+    {
+      "word": "isa",
+      "start": 39.68,
+      "end": 39.98
+    },
+    {
+      "word": "na",
+      "start": 39.98,
+      "end": 40.12
+    },
+    {
+      "word": "lang,",
+      "start": 40.12,
+      "end": 40.68
+    },
+    {
+      "word": "yung",
+      "start": 40.68,
+      "end": 40.78
+    },
+    {
+      "word": "nag-trending.",
+      "start": 40.78,
+      "end": 41.6
+    },
+    {
+      "word": "Yung",
+      "start": 42.12,
+      "end": 42.3
+    },
+    {
+      "word": "nag-trending",
+      "start": 42.3,
+      "end": 42.98
+    },
+    {
+      "word": "talaga.",
+      "start": 42.98,
+      "end": 43.88
+    },
+    {
+      "word": "Kasi",
+      "start": 44.04,
+      "end": 44.24
+    },
+    {
+      "word": "talagang",
+      "start": 44.24,
+      "end": 44.82
+    },
+    {
+      "word": "ang",
+      "start": 44.82,
+      "end": 45.6
+    },
+    {
+      "word": "lungkot.",
+      "start": 45.6,
+      "end": 46.62
+    },
+    {
+      "word": "Yung",
+      "start": 46.46,
+      "end": 46.62
+    },
+    {
+      "word": "nangyari",
+      "start": 46.62,
+      "end": 47.12
+    },
+    {
+      "word": "na,",
+      "start": 47.12,
+      "end": 47.72
+    },
+    {
+      "word": "alam",
+      "start": 47.72,
+      "end": 47.9
+    },
+    {
+      "word": "mo",
+      "start": 47.9,
+      "end": 48
+    },
+    {
+      "word": "yung...",
+      "start": 48,
+      "end": 48.56
+    },
+    {
+      "word": "Ang",
+      "start": 53.38,
+      "end": 53.58
+    },
+    {
+      "word": "lungkot",
+      "start": 53.58,
+      "end": 54.06
+    },
+    {
+      "word": "eh.",
+      "start": 54.06,
+      "end": 54.18
+    },
+    {
+      "word": "Kasi",
+      "start": 54.68,
+      "end": 54.88
+    },
+    {
+      "word": "yung",
+      "start": 54.88,
+      "end": 55.06
+    },
+    {
+      "word": "nag-trending",
+      "start": 55.06,
+      "end": 55.62
+    },
+    {
+      "word": "na",
+      "start": 55.62,
+      "end": 55.78
+    },
+    {
+      "word": "yun,",
+      "start": 55.78,
+      "end": 56.34
+    },
+    {
+      "word": "Hindi",
+      "start": 55.98,
+      "end": 56.48
+    },
+    {
+      "word": "mo",
+      "start": 56.48,
+      "end": 56.64
+    },
+    {
+      "word": "akalain",
+      "start": 56.64,
+      "end": 57.18
+    },
+    {
+      "word": "na",
+      "start": 57.18,
+      "end": 57.4
+    },
+    {
+      "word": "magawa",
+      "start": 57.4,
+      "end": 57.78
+    },
+    {
+      "word": "ng",
+      "start": 57.78,
+      "end": 58
+    },
+    {
+      "word": "mga",
+      "start": 58,
+      "end": 59.24
+    },
+    {
+      "word": "leaders",
+      "start": 59.24,
+      "end": 59.82
+    },
+    {
+      "word": "na",
+      "start": 59.58417,
+      "end": 60.56417
+    },
+    {
+      "word": "bigla",
+      "start": 60.56417,
+      "end": 60.824173
+    },
+    {
+      "word": "silang",
+      "start": 60.824173,
+      "end": 61.10417
+    },
+    {
+      "word": "pumalis.",
+      "start": 61.10417,
+      "end": 61.70417
+    },
+    {
+      "word": "Nakakalumpo",
+      "start": 67.62417,
+      "end": 68.404175
+    },
+    {
+      "word": "at",
+      "start": 67.94417,
+      "end": 68.56417
+    },
+    {
+      "word": "nakakaiyak",
+      "start": 68.56417,
+      "end": 69.24417
+    },
+    {
+      "word": "talaga.",
+      "start": 69.24417,
+      "end": 70.14417
+    },
+    {
+      "word": "Pero,",
+      "start": 70.404175,
+      "end": 71.60417
+    },
+    {
+      "word": "ang",
+      "start": 71.60417,
+      "end": 71.68417
+    },
+    {
+      "word": "maganda",
+      "start": 71.68417,
+      "end": 72.12417
+    },
+    {
+      "word": "doon,",
+      "start": 72.12417,
+      "end": 73.08417
+    },
+    {
+      "word": "nakita",
+      "start": 73.28417,
+      "end": 73.68417
+    },
+    {
+      "word": "ko",
+      "start": 73.68417,
+      "end": 73.80417
+    },
+    {
+      "word": "kung",
+      "start": 73.80417,
+      "end": 73.98417
+    },
+    {
+      "word": "paano",
+      "start": 73.98417,
+      "end": 74.32417
+    },
+    {
+      "word": "ang",
+      "start": 73.84417,
+      "end": 74.50417
+    },
+    {
+      "word": "ginawa",
+      "start": 74.50417,
+      "end": 74.82417
+    },
+    {
+      "word": "ng",
+      "start": 74.82417,
+      "end": 74.98417
+    },
+    {
+      "word": "kaaway",
+      "start": 74.98417,
+      "end": 75.404175
+    },
+    {
+      "word": "sa",
+      "start": 75.404175,
+      "end": 75.58417
+    },
+    {
+      "word": "church",
+      "start": 75.58417,
+      "end": 75.86417
+    },
+    {
+      "word": "na",
+      "start": 75.86417,
+      "end": 76.06417
+    },
+    {
+      "word": "ito.",
+      "start": 76.06417,
+      "end": 76.70417
+    },
+    {
+      "word": "Nasimira",
+      "start": 76.70417,
+      "end": 77.264175
+    },
+    {
+      "word": "niya,",
+      "start": 77.264175,
+      "end": 77.78417
+    },
+    {
+      "word": "nawasak,",
+      "start": 77.78417,
+      "end": 79.00417
+    },
+    {
+      "word": "pero",
+      "start": 78.88417,
+      "end": 79.10417
+    },
+    {
+      "word": "nakita",
+      "start": 79.10417,
+      "end": 79.60417
+    },
+    {
+      "word": "ko",
+      "start": 79.60417,
+      "end": 79.764175
+    },
+    {
+      "word": "rin,",
+      "start": 79.764175,
+      "end": 80.02417
+    },
+    {
+      "word": "nasaksihan",
+      "start": 80.02417,
+      "end": 80.64417
+    },
+    {
+      "word": "ko",
+      "start": 80.64417,
+      "end": 80.80417
+    },
+    {
+      "word": "rin",
+      "start": 80.80417,
+      "end": 81.044174
+    },
+    {
+      "word": "kung",
+      "start": 81.044174,
+      "end": 81.48417
+    },
+    {
+      "word": "paano",
+      "start": 81.48417,
+      "end": 81.92417
+    },
+    {
+      "word": "binuunguli",
+      "start": 81.44417,
+      "end": 82.80417
+    },
+    {
+      "word": "ng",
+      "start": 82.80417,
+      "end": 83.00417
+    },
+    {
+      "word": "Diyos,",
+      "start": 83.00417,
+      "end": 83.38417
+    },
+    {
+      "word": "kung",
+      "start": 83.38417,
+      "end": 83.46417
+    },
+    {
+      "word": "paano",
+      "start": 83.46417,
+      "end": 83.74417
+    },
+    {
+      "word": "muli",
+      "start": 83.74417,
+      "end": 84.16417
+    },
+    {
+      "word": "ni-restore",
+      "start": 83.74417,
+      "end": 85.02417
+    },
+    {
+      "word": "ng",
+      "start": 85.02417,
+      "end": 85.20417
+    },
+    {
+      "word": "Diyos",
+      "start": 85.20417,
+      "end": 85.56417
+    },
+    {
+      "word": "ang",
+      "start": 85.08417,
+      "end": 86.22417
+    },
+    {
+      "word": "iglesia",
+      "start": 86.22417,
+      "end": 86.84417
+    },
+    {
+      "word": "ito.",
+      "start": 86.84417,
+      "end": 87.764175
+    },
+    {
+      "word": "Okay,",
+      "start": 88.70417,
+      "end": 88.98417
+    },
+    {
+      "word": "third",
+      "start": 88.98417,
+      "end": 89.28417
+    },
+    {
+      "word": "question",
+      "start": 89.28417,
+      "end": 89.74417
+    },
+    {
+      "word": "po.",
+      "start": 89.74417,
+      "end": 90.544174
+    },
+    {
+      "word": "How",
+      "start": 90.86417,
+      "end": 90.98418
+    },
+    {
+      "word": "has",
+      "start": 90.98418,
+      "end": 91.22417
+    },
+    {
+      "word": "God",
+      "start": 91.22417,
+      "end": 91.52417
+    },
+    {
+      "word": "been",
+      "start": 91.52417,
+      "end": 91.72417
+    },
+    {
+      "word": "faithful",
+      "start": 91.72417,
+      "end": 92.10417
+    },
+    {
+      "word": "to",
+      "start": 92.10417,
+      "end": 92.36417
+    },
+    {
+      "word": "you",
+      "start": 92.36417,
+      "end": 92.58417
+    },
+    {
+      "word": "through",
+      "start": 92.58417,
+      "end": 92.904175
+    },
+    {
+      "word": "this",
+      "start": 92.904175,
+      "end": 93.28417
+    },
+    {
+      "word": "church?",
+      "start": 93.28417,
+      "end": 94.14417
+    },
+    {
+      "word": "Dahil",
+      "start": 95.42417,
+      "end": 95.72417
+    },
+    {
+      "word": "napakabuti",
+      "start": 95.72417,
+      "end": 96.38417
+    },
+    {
+      "word": "ng",
+      "start": 96.38417,
+      "end": 96.58417
+    },
+    {
+      "word": "Diyos.",
+      "start": 96.58417,
+      "end": 97.34417
+    },
+    {
+      "word": "Magmula",
+      "start": 97.34417,
+      "end": 97.70417
+    },
+    {
+      "word": "nung",
+      "start": 97.70417,
+      "end": 97.84417
+    },
+    {
+      "word": "mapunta",
+      "start": 97.84417,
+      "end": 98.264175
+    },
+    {
+      "word": "ko",
+      "start": 98.264175,
+      "end": 98.42417
+    },
+    {
+      "word": "rito",
+      "start": 98.42417,
+      "end": 98.64417
+    },
+    {
+      "word": "sa",
+      "start": 98.64417,
+      "end": 98.80417
+    },
+    {
+      "word": "church",
+      "start": 98.80417,
+      "end": 99.124176
+    },
+    {
+      "word": "na",
+      "start": 99.124176,
+      "end": 99.34417
+    },
+    {
+      "word": "ito,",
+      "start": 99.34417,
+      "end": 99.92417
+    },
+    {
+      "word": "nagbago",
+      "start": 99.904175,
+      "end": 100.30417
+    },
+    {
+      "word": "na",
+      "start": 100.30417,
+      "end": 100.46417
+    },
+    {
+      "word": "ang",
+      "start": 100.46417,
+      "end": 100.58417
+    },
+    {
+      "word": "buhay",
+      "start": 100.58417,
+      "end": 100.84417
+    },
+    {
+      "word": "namin.",
+      "start": 100.84417,
+      "end": 101.66417
+    },
+    {
+      "word": "Talagang",
+      "start": 101.66417,
+      "end": 101.98418
+    },
+    {
+      "word": "from",
+      "start": 101.98418,
+      "end": 102.30417
+    },
+    {
+      "word": "nothing,",
+      "start": 102.30417,
+      "end": 103.24417
+    },
+    {
+      "word": "talagang",
+      "start": 103.24417,
+      "end": 103.544174
+    },
+    {
+      "word": "into",
+      "start": 103.544174,
+      "end": 103.86417
+    },
+    {
+      "word": "blessing.",
+      "start": 103.86417,
+      "end": 104.82417
+    },
+    {
+      "word": "Dati",
+      "start": 104.96417,
+      "end": 105.06417
+    },
+    {
+      "word": "talagang",
+      "start": 105.06417,
+      "end": 105.44417
+    },
+    {
+      "word": "walang-wala",
+      "start": 105.44417,
+      "end": 105.96417
+    },
+    {
+      "word": "kami.",
+      "start": 105.96417,
+      "end": 106.764175
+    },
+    {
+      "word": "Talagang",
+      "start": 106.74417,
+      "end": 107.08417
+    },
+    {
+      "word": "halos",
+      "start": 107.08417,
+      "end": 107.52417
+    },
+    {
+      "word": "wala",
+      "start": 107.52417,
+      "end": 107.74417
+    },
+    {
+      "word": "kami",
+      "start": 107.74417,
+      "end": 107.96417
+    },
+    {
+      "word": "makain,",
+      "start": 107.96417,
+      "end": 108.80417
+    },
+    {
+      "word": "kahit",
+      "start": 108.80417,
+      "end": 109.06417
+    },
+    {
+      "word": "pang",
+      "start": 109.06417,
+      "end": 109.30417
+    },
+    {
+      "word": "masahe.",
+      "start": 109.30417,
+      "end": 110.264175
+    },
+    {
+      "word": "Pero",
+      "start": 110.16417,
+      "end": 110.44417
+    },
+    {
+      "word": "dahil",
+      "start": 110.44417,
+      "end": 110.96417
+    },
+    {
+      "word": "sa",
+      "start": 110.96417,
+      "end": 111.16417
+    },
+    {
+      "word": "church",
+      "start": 111.16417,
+      "end": 111.52417
+    },
+    {
+      "word": "na",
+      "start": 111.52417,
+      "end": 111.72417
+    },
+    {
+      "word": "ito,",
+      "start": 111.72417,
+      "end": 112.08417
+    },
+    {
+      "word": "magmula",
+      "start": 112.10417,
+      "end": 112.48418
+    },
+    {
+      "word": "sa",
+      "start": 112.48418,
+      "end": 112.64417
+    },
+    {
+      "word": "prayers,",
+      "start": 112.64417,
+      "end": 113.16417
+    },
+    {
+      "word": "sa",
+      "start": 113.22417,
+      "end": 114.004166
+    },
+    {
+      "word": "prayers",
+      "start": 114.004166,
+      "end": 114.44417
+    },
+    {
+      "word": "at",
+      "start": 114.44417,
+      "end": 115.22417
+    },
+    {
+      "word": "sa",
+      "start": 115.22417,
+      "end": 115.34417
+    },
+    {
+      "word": "mga",
+      "start": 115.34417,
+      "end": 115.64417
+    },
+    {
+      "word": "at",
+      "start": 116.72417,
+      "end": 116.88417
+    },
+    {
+      "word": "sa",
+      "start": 116.88417,
+      "end": 116.98418
+    },
+    {
+      "word": "mga",
+      "start": 116.98418,
+      "end": 117.24417
+    },
+    {
+      "word": "gawain",
+      "start": 117.24417,
+      "end": 117.92417
+    },
+    {
+      "word": "na",
+      "start": 117.48418,
+      "end": 118.18417
+    },
+    {
+      "word": "patuloy",
+      "start": 118.18417,
+      "end": 118.74417
+    },
+    {
+      "word": "na",
+      "start": 118.74417,
+      "end": 119.004166
+    },
+    {
+      "word": "na",
+      "start": 119.06417,
+      "end": 119.74417
+    },
+    {
+      "word": "lumakas",
+      "start": 119.74417,
+      "end": 121.72417
+    },
+    {
+      "word": "ang",
+      "start": 121.24417,
+      "end": 121.904175
+    },
+    {
+      "word": "aking",
+      "start": 121.904175,
+      "end": 122.18417
+    },
+    {
+      "word": "pananampalataya",
+      "start": 122.18417,
+      "end": 123.24417
+    },
+    {
+      "word": "ayun,",
+      "start": 123.74417,
+      "end": 124.52417
+    },
+    {
+      "word": "doon",
+      "start": 124.52417,
+      "end": 124.70418
+    },
+    {
+      "word": "na",
+      "start": 124.70418,
+      "end": 124.80417
+    },
+    {
+      "word": "nagsimula",
+      "start": 124.80417,
+      "end": 125.30417
+    },
+    {
+      "word": "ng",
+      "start": 124.82417,
+      "end": 125.56418
+    },
+    {
+      "word": "pagbabago",
+      "start": 125.56418,
+      "end": 126.06418
+    },
+    {
+      "word": "ng",
+      "start": 126.06418,
+      "end": 126.22417
+    },
+    {
+      "word": "buhay",
+      "start": 126.22834,
+      "end": 126.44834
+    },
+    {
+      "word": "namin.",
+      "start": 126.44834,
+      "end": 127.288345
+    },
+    {
+      "word": "Okay,",
+      "start": 127.80834,
+      "end": 128.12834
+    },
+    {
+      "word": "fourth",
+      "start": 128.12834,
+      "end": 128.30835
+    },
+    {
+      "word": "question",
+      "start": 128.30835,
+      "end": 128.70834
+    },
+    {
+      "word": "po.",
+      "start": 128.70834,
+      "end": 128.90834
+    },
+    {
+      "word": "What",
+      "start": 129.42834,
+      "end": 129.62834
+    },
+    {
+      "word": "does",
+      "start": 129.62834,
+      "end": 129.86835
+    },
+    {
+      "word": "the",
+      "start": 129.86835,
+      "end": 130.06834
+    },
+    {
+      "word": "30th",
+      "start": 130.06834,
+      "end": 130.70834
+    },
+    {
+      "word": "anniversary",
+      "start": 130.70834,
+      "end": 131.26834
+    },
+    {
+      "word": "mean",
+      "start": 130.88834,
+      "end": 132.20834
+    },
+    {
+      "word": "to",
+      "start": 132.20834,
+      "end": 132.48834
+    },
+    {
+      "word": "you?",
+      "start": 132.48834,
+      "end": 132.66833
+    },
+    {
+      "word": "Um...",
+      "start": 136.24834,
+      "end": 137.78835
+    },
+    {
+      "word": "Okay",
+      "start": 137.42834,
+      "end": 142.22835
+    },
+    {
+      "word": "lang,",
+      "start": 142.22835,
+      "end": 144.08835
+    },
+    {
+      "word": "okay",
+      "start": 144.08835,
+      "end": 144.28835
+    },
+    {
+      "word": "lang,",
+      "start": 144.28835,
+      "end": 144.46834
+    },
+    {
+      "word": "tita.",
+      "start": 144.46834,
+      "end": 145.18834
+    },
+    {
+      "word": "Okay",
+      "start": 151.80835,
+      "end": 158.86835
+    },
+    {
+      "word": "lang",
+      "start": 158.86835,
+      "end": 158.96834
+    },
+    {
+      "word": "tita",
+      "start": 158.96834,
+      "end": 159.16833
+    },
+    {
+      "word": "kahit",
+      "start": 159.16833,
+      "end": 159.46834
+    },
+    {
+      "word": "Galing",
+      "start": 160.08835,
+      "end": 160.32834
+    },
+    {
+      "word": "sa",
+      "start": 160.32834,
+      "end": 160.44833
+    },
+    {
+      "word": "puso",
+      "start": 160.44833,
+      "end": 160.74834
+    },
+    {
+      "word": "kahit",
+      "start": 160.74834,
+      "end": 160.96834
+    },
+    {
+      "word": "anuman",
+      "start": 160.96834,
+      "end": 161.22833
+    },
+    {
+      "word": "Kahit",
+      "start": 161.72833,
+      "end": 161.88834
+    },
+    {
+      "word": "anumining",
+      "start": 161.88834,
+      "end": 162.72833
+    },
+    {
+      "word": "ng",
+      "start": 162.72833,
+      "end": 163.00835
+    },
+    {
+      "word": "30",
+      "start": 163.00835,
+      "end": 163.40834
+    },
+    {
+      "word": "years",
+      "start": 163.40834,
+      "end": 163.64835
+    },
+    {
+      "word": "po",
+      "start": 163.64835,
+      "end": 163.96834
+    },
+    {
+      "word": "sa",
+      "start": 163.96834,
+      "end": 164.10834
+    },
+    {
+      "word": "inyo",
+      "start": 164.10834,
+      "end": 164.40834
+    },
+    {
+      "word": "Okay",
+      "start": 163.94833,
+      "end": 166.84834
+    },
+    {
+      "word": "siya",
+      "start": 166.84834,
+      "end": 167.48834
+    },
+    {
+      "word": "Thank",
+      "start": 181.80835,
+      "end": 183.02835
+    },
+    {
+      "word": "you.",
+      "start": 183.02835,
+      "end": 183.28835
+    },
+    {
+      "word": "30",
+      "start": 185.21251,
+      "end": 185.8925
+    },
+    {
+      "word": "years.",
+      "start": 185.8925,
+      "end": 186.6925
+    },
+    {
+      "word": "Sige",
+      "start": 191.6325,
+      "end": 192.2525
+    },
+    {
+      "word": "na",
+      "start": 192.2525,
+      "end": 192.45251
+    },
+    {
+      "word": "lang.",
+      "start": 192.45251,
+      "end": 192.6325
+    },
+    {
+      "word": "Sabot",
+      "start": 192.73251,
+      "end": 192.99251
+    },
+    {
+      "word": "na",
+      "start": 192.99251,
+      "end": 193.1325
+    },
+    {
+      "word": "lang.",
+      "start": 193.1325,
+      "end": 193.7725
+    },
+    {
+      "word": "Ang",
+      "start": 194.93251,
+      "end": 195.1125
+    },
+    {
+      "word": "30",
+      "start": 195.1125,
+      "end": 195.51251
+    },
+    {
+      "word": "years",
+      "start": 195.51251,
+      "end": 195.9725
+    },
+    {
+      "word": "para",
+      "start": 195.67252,
+      "end": 197.31252
+    },
+    {
+      "word": "sa",
+      "start": 197.31252,
+      "end": 197.4725
+    },
+    {
+      "word": "akin",
+      "start": 197.4725,
+      "end": 197.7525
+    },
+    {
+      "word": "ay",
+      "start": 197.7525,
+      "end": 198.1925
+    },
+    {
+      "word": "tatlong",
+      "start": 199.6925,
+      "end": 200.2725
+    },
+    {
+      "word": "dekada",
+      "start": 200.2725,
+      "end": 200.87251
+    },
+    {
+      "word": "ng",
+      "start": 200.7525,
+      "end": 201.35251
+    },
+    {
+      "word": "kabutihan",
+      "start": 201.35251,
+      "end": 201.87251
+    },
+    {
+      "word": "ng",
+      "start": 201.87251,
+      "end": 202.0325
+    },
+    {
+      "word": "Lord,",
+      "start": 202.0325,
+      "end": 202.4725
+    },
+    {
+      "word": "ng",
+      "start": 202.4725,
+      "end": 202.59251
+    },
+    {
+      "word": "katapatan",
+      "start": 202.59251,
+      "end": 203.29251
+    },
+    {
+      "word": "ng",
+      "start": 203.29251,
+      "end": 203.43251
+    },
+    {
+      "word": "Lord.",
+      "start": 203.43251,
+      "end": 203.71251
+    },
+    {
+      "word": "Yun",
+      "start": 204.6125,
+      "end": 204.7725
+    },
+    {
+      "word": "ang",
+      "start": 204.7725,
+      "end": 204.85251
+    },
+    {
+      "word": "para",
+      "start": 204.85251,
+      "end": 205.07251
+    },
+    {
+      "word": "sa",
+      "start": 205.07251,
+      "end": 205.21251
+    },
+    {
+      "word": "akin.",
+      "start": 205.21251,
+      "end": 205.95251
+    },
+    {
+      "word": "At",
+      "start": 205.93251,
+      "end": 206.07251
+    },
+    {
+      "word": "ang",
+      "start": 206.07251,
+      "end": 206.31252
+    },
+    {
+      "word": "pasasalamat",
+      "start": 206.31252,
+      "end": 207.1325
+    },
+    {
+      "word": "para",
+      "start": 207.1325,
+      "end": 207.4725
+    },
+    {
+      "word": "sa",
+      "start": 207.4725,
+      "end": 207.6925
+    },
+    {
+      "word": "tatlong",
+      "start": 207.2525,
+      "end": 208.31252
+    },
+    {
+      "word": "dekada",
+      "start": 208.31252,
+      "end": 208.79251
+    },
+    {
+      "word": "ito",
+      "start": 208.79251,
+      "end": 209.1325
+    },
+    {
+      "word": "na",
+      "start": 209.1325,
+      "end": 209.59251
+    },
+    {
+      "word": "punong-punong",
+      "start": 209.59251,
+      "end": 210.35251
+    },
+    {
+      "word": "ng",
+      "start": 210.1325,
+      "end": 211.7725
+    },
+    {
+      "word": "mga",
+      "start": 211.7725,
+      "end": 212.51251
+    },
+    {
+      "word": "tatlong",
+      "start": 216.79251,
+      "end": 217.2725
+    },
+    {
+      "word": "dikada",
+      "start": 217.2725,
+      "end": 217.93251
+    },
+    {
+      "word": "ng",
+      "start": 217.4725,
+      "end": 219.21251
+    },
+    {
+      "word": "pasasalamat",
+      "start": 219.21251,
+      "end": 220.17252
+    },
+    {
+      "word": "ng",
+      "start": 220.0325,
+      "end": 220.71251
+    },
+    {
+      "word": "kabutihan",
+      "start": 220.71251,
+      "end": 221.2525
+    },
+    {
+      "word": "ng",
+      "start": 221.2525,
+      "end": 221.39252
+    },
+    {
+      "word": "Lord.",
+      "start": 221.39252,
+      "end": 221.71251
+    },
+    {
+      "word": "Okay",
+      "start": 224.5325,
+      "end": 224.85251
+    },
+    {
+      "word": "po,",
+      "start": 224.85251,
+      "end": 225.01251
+    },
+    {
+      "word": "last",
+      "start": 225.01251,
+      "end": 225.2525
+    },
+    {
+      "word": "question",
+      "start": 225.2525,
+      "end": 225.6925
+    },
+    {
+      "word": "po.",
+      "start": 225.6925,
+      "end": 225.93251
+    },
+    {
+      "word": "In",
+      "start": 226.49251,
+      "end": 226.67252
+    },
+    {
+      "word": "one",
+      "start": 226.67252,
+      "end": 227.09251
+    },
+    {
+      "word": "sentence,",
+      "start": 227.09251,
+      "end": 228.37251
+    },
+    {
+      "word": "what",
+      "start": 228.49251,
+      "end": 228.65251
+    },
+    {
+      "word": "is",
+      "start": 228.65251,
+      "end": 228.89252
+    },
+    {
+      "word": "your",
+      "start": 228.89252,
+      "end": 229.07251
+    },
+    {
+      "word": "message",
+      "start": 229.07251,
+      "end": 229.43251
+    },
+    {
+      "word": "to",
+      "start": 229.09251,
+      "end": 229.8325
+    },
+    {
+      "word": "the",
+      "start": 229.8325,
+      "end": 230.09251
+    },
+    {
+      "word": "church",
+      "start": 230.09251,
+      "end": 230.4125
+    },
+    {
+      "word": "for",
+      "start": 230.4125,
+      "end": 230.7725
+    },
+    {
+      "word": "the",
+      "start": 230.7725,
+      "end": 230.9125
+    },
+    {
+      "word": "next",
+      "start": 230.9125,
+      "end": 231.2525
+    },
+    {
+      "word": "30",
+      "start": 231.2525,
+      "end": 231.73251
+    },
+    {
+      "word": "years?",
+      "start": 231.73251,
+      "end": 232.61252
+    },
+    {
+      "word": "Last",
+      "start": 232.59251,
+      "end": 233.2525
+    },
+    {
+      "word": "question.",
+      "start": 233.2525,
+      "end": 233.59251
+    },
+    {
+      "word": "Last",
+      "start": 233.65251,
+      "end": 234.07251
+    },
+    {
+      "word": "time,",
+      "start": 234.07251,
+      "end": 234.43251
+    },
+    {
+      "word": "we",
+      "start": 234.43251,
+      "end": 234.4725
+    },
+    {
+      "word": "are",
+      "start": 234.4725,
+      "end": 234.57251
+    },
+    {
+      "word": "friends.",
+      "start": 234.57251,
+      "end": 235.45251
+    },
+    {
+      "word": "I",
+      "start": 234.4725,
+      "end": 235.23251
+    },
+    {
+      "word": "don't",
+      "start": 235.23251,
+      "end": 237.01251
+    },
+    {
+      "word": "have",
+      "start": 237.01251,
+      "end": 237.2725
+    },
+    {
+      "word": "to.",
+      "start": 237.2725,
+      "end": 237.57251
+    },
+    {
+      "word": "From",
+      "start": 242.29251,
+      "end": 242.59251
+    },
+    {
+      "word": "glory",
+      "start": 242.59251,
+      "end": 242.95251
+    },
+    {
+      "word": "to",
+      "start": 242.95251,
+      "end": 243.15251
+    },
+    {
+      "word": "glory,",
+      "start": 243.15251,
+      "end": 244.0525
+    },
+    {
+      "word": "onward",
+      "start": 244.0525,
+      "end": 244.59251
+    },
+    {
+      "word": "to",
+      "start": 244.59251,
+      "end": 244.9125
+    },
+    {
+      "word": "next",
+      "start": 244.9125,
+      "end": 245.4725
+    },
+    {
+      "word": "30",
+      "start": 245.4725,
+      "end": 245.9125
+    },
+    {
+      "word": "years.",
+      "start": 245.9125,
+      "end": 246.43251
+    },
+    {
+      "word": "Cut.",
+      "start": 249.39252,
+      "end": 249.67252
+    },
+    {
+      "word": "1,",
+      "start": 251.11252,
+      "end": 252.0325
+    },
+    {
+      "word": "2,",
+      "start": 252.0325,
+      "end": 252.7725
+    },
+    {
+      "word": "3.",
+      "start": 252.7725,
+      "end": 253.6925
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 5.92,
+      "text": " When and how did you first come to Glorious Church?",
+      "tokens": [
+        50365,
+        1133,
+        293,
+        577,
+        630,
+        291,
+        700,
+        808,
+        281,
+        5209,
+        14354,
+        7882,
+        30,
+        50661
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1774459,
+      "compression_ratio": 1.5605382,
+      "no_speech_prob": 0.049621582
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.3799996,
+      "end": 9.4,
+      "text": " Nag-start ako sa Glorious Church taong 1998.",
+      "tokens": [
+        50684,
+        18913,
+        12,
+        24419,
+        43567,
+        601,
+        5209,
+        14354,
+        7882,
+        1846,
+        556,
+        21404,
+        13,
+        50835
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1774459,
+      "compression_ratio": 1.5605382,
+      "no_speech_prob": 0.049621582
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.04,
+      "end": 13.84,
+      "text": " Kaya 28 years na ako dito sa iglesyang ito.",
+      "tokens": [
+        50867,
+        591,
+        4427,
+        7562,
+        924,
+        1667,
+        43567,
+        274,
+        3528,
+        601,
+        8508,
+        904,
+        23594,
+        309,
+        78,
+        13,
+        51057
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1774459,
+      "compression_ratio": 1.5605382,
+      "no_speech_prob": 0.049621582
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.16,
+      "end": 19.939999,
+      "text": " Noong simula, noong una ko dito, doon pa sa silong ng lumang bahay.",
+      "tokens": [
+        51073,
+        883,
+        556,
+        1034,
+        3780,
+        11,
+        572,
+        556,
+        2002,
+        8384,
+        274,
+        3528,
+        11,
+        360,
+        266,
+        2502,
+        601,
+        3425,
+        556,
+        6415,
+        24635,
+        656,
+        12913,
+        320,
+        13,
+        51362
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1774459,
+      "compression_ratio": 1.5605382,
+      "no_speech_prob": 0.049621582
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.939999,
+      "end": 29.4,
+      "text": " At salamat sa Panginoon dahil binamit niya ang aking kaibigan na si Vicky upang ako'y ma-involve dito, ma-connect dito sa Glorious Church.",
+      "tokens": [
+        51362,
+        1711,
+        1845,
+        39143,
+        601,
+        49499,
+        2982,
+        266,
+        16800,
+        388,
+        5171,
+        335,
+        270,
+        3867,
+        3016,
+        2562,
+        257,
+        5092,
+        6799,
+        897,
+        9552,
+        1667,
+        1511,
+        691,
+        20539,
+        493,
+        656,
+        43567,
+        6,
+        88,
+        463,
+        12,
+        259,
+        9646,
+        303,
+        274,
+        3528,
+        11,
+        463,
+        12,
+        9826,
+        274,
+        3528,
+        601,
+        5209,
+        14354,
+        7882,
+        13,
+        51835
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1774459,
+      "compression_ratio": 1.5605382,
+      "no_speech_prob": 0.049621582
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 30,
+      "end": 31.74,
+      "text": " Okay, second question po.",
+      "tokens": [
+        50365,
+        1033,
+        11,
+        1150,
+        1168,
+        714,
+        13,
+        50452
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 32.2,
+      "end": 36.44,
+      "text": " What is one memory from this 30 years you will never forget?",
+      "tokens": [
+        50475,
+        708,
+        307,
+        472,
+        4675,
+        490,
+        341,
+        2217,
+        924,
+        291,
+        486,
+        1128,
+        2870,
+        30,
+        50687
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 38.02,
+      "end": 39.04,
+      "text": " Ang dami.",
+      "tokens": [
+        50766,
+        4521,
+        2422,
+        72,
+        13,
+        50817
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 39.46,
+      "end": 41.66,
+      "text": " Pero isa na lang, yung nag-trending.",
+      "tokens": [
+        50838,
+        9377,
+        307,
+        64,
+        1667,
+        2265,
+        11,
+        288,
+        1063,
+        17096,
+        12,
+        3599,
+        273,
+        278,
+        13,
+        50948
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 9,
+      "seek": 3000,
+      "start": 42.079998,
+      "end": 43.4,
+      "text": " Yung nag-trending talaga.",
+      "tokens": [
+        50969,
+        398,
+        1063,
+        17096,
+        12,
+        3599,
+        273,
+        278,
+        4023,
+        9286,
+        13,
+        51035
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 10,
+      "seek": 3000,
+      "start": 44,
+      "end": 46.14,
+      "text": " Kasi talagang ang lungkot.",
+      "tokens": [
+        51065,
+        591,
+        8483,
+        4023,
+        559,
+        656,
+        2562,
+        16730,
+        74,
+        310,
+        13,
+        51172
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 11,
+      "seek": 3000,
+      "start": 46.5,
+      "end": 48.44,
+      "text": " Yung nangyari na, alam mo yung...",
+      "tokens": [
+        51190,
+        398,
+        1063,
+        297,
+        656,
+        88,
+        3504,
+        1667,
+        11,
+        419,
+        335,
+        705,
+        288,
+        1063,
+        485,
+        51287
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 12,
+      "seek": 3000,
+      "start": 52.94,
+      "end": 54.239998,
+      "text": " Ang lungkot eh.",
+      "tokens": [
+        51512,
+        4521,
+        16730,
+        74,
+        310,
+        7670,
+        13,
+        51577
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 54.64,
+      "end": 55.98,
+      "text": " Kasi yung nag-trending na yun,",
+      "tokens": [
+        51597,
+        591,
+        8483,
+        288,
+        1063,
+        17096,
+        12,
+        3599,
+        273,
+        278,
+        1667,
+        288,
+        409,
+        11,
+        51664
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.27305153,
+      "compression_ratio": 1.5581396,
+      "no_speech_prob": 0.020065308
+    },
+    {
+      "id": 14,
+      "seek": 58,
+      "start": 55.98,
+      "end": 68.44417,
+      "text": " Hindi mo akalain na magawa ng mga leaders na bigla silang pumalis Nakakalumpo",
+      "tokens": [
+        50365,
+        36225,
+        705,
+        9308,
+        304,
+        491,
+        1667,
+        2258,
+        10449,
+        6415,
+        275,
+        3680,
+        3523,
+        1667,
+        955,
+        875,
+        3425,
+        656,
+        48842,
+        48581,
+        13,
+        50533,
+        50829,
+        25779,
+        514,
+        304,
+        1420,
+        78,
+        50867
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 15,
+      "seek": 58,
+      "start": 68.44417,
+      "end": 69.66417,
+      "text": " at nakakaiyak talaga.",
+      "tokens": [
+        50867,
+        412,
+        20332,
+        514,
+        1301,
+        88,
+        514,
+        4023,
+        9286,
+        13,
+        50928
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 16,
+      "seek": 58,
+      "start": 70.42417,
+      "end": 72.60417,
+      "text": " Pero, ang maganda doon,",
+      "tokens": [
+        50966,
+        9377,
+        11,
+        2562,
+        2258,
+        5575,
+        360,
+        266,
+        11,
+        51075
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 17,
+      "seek": 58,
+      "start": 73.26417,
+      "end": 74.34417,
+      "text": " nakita ko kung paano",
+      "tokens": [
+        51108,
+        20332,
+        2786,
+        8384,
+        49304,
+        2502,
+        3730,
+        51162
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 18,
+      "seek": 58,
+      "start": 74.34417,
+      "end": 76.34417,
+      "text": " ang ginawa ng kaaway sa church na ito.",
+      "tokens": [
+        51162,
+        2562,
+        290,
+        1426,
+        4151,
+        6415,
+        350,
+        4332,
+        676,
+        601,
+        4128,
+        1667,
+        309,
+        78,
+        13,
+        51262
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 19,
+      "seek": 58,
+      "start": 76.68417,
+      "end": 78.52417,
+      "text": " Nasimira niya, nawasak,",
+      "tokens": [
+        51279,
+        16151,
+        332,
+        4271,
+        3867,
+        3016,
+        11,
+        18969,
+        296,
+        514,
+        11,
+        51371
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 20,
+      "seek": 58,
+      "start": 78.88417,
+      "end": 79.94417,
+      "text": " pero nakita ko rin,",
+      "tokens": [
+        51389,
+        4768,
+        20332,
+        2786,
+        8384,
+        367,
+        259,
+        11,
+        51442
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 21,
+      "seek": 58,
+      "start": 80.044174,
+      "end": 81.94417,
+      "text": " nasaksihan ko rin kung paano",
+      "tokens": [
+        51447,
+        5382,
+        45042,
+        3451,
+        8384,
+        367,
+        259,
+        49304,
+        2502,
+        3730,
+        51542
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 22,
+      "seek": 58,
+      "start": 81.94417,
+      "end": 84.24417,
+      "text": " binuunguli ng Diyos, kung paano muli",
+      "tokens": [
+        51542,
+        5171,
+        84,
+        1063,
+        25484,
+        6415,
+        413,
+        4727,
+        329,
+        11,
+        49304,
+        2502,
+        3730,
+        14077,
+        72,
+        51657
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 23,
+      "seek": 58,
+      "start": 84.24417,
+      "end": 85.58417,
+      "text": " ni-restore ng Diyos",
+      "tokens": [
+        51657,
+        3867,
+        12,
+        4149,
+        418,
+        6415,
+        413,
+        4727,
+        329,
+        51724
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 24,
+      "seek": 58,
+      "start": 85.58417,
+      "end": 87.28417,
+      "text": " ang iglesia ito.",
+      "tokens": [
+        51724,
+        2562,
+        8508,
+        48507,
+        309,
+        78,
+        13,
+        51809
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20372982,
+      "compression_ratio": 1.6666666,
+      "no_speech_prob": 0.0017576218
+    },
+    {
+      "id": 25,
+      "seek": 3058,
+      "start": 88.404175,
+      "end": 90.06417,
+      "text": " Okay, third question po.",
+      "tokens": [
+        50365,
+        1033,
+        11,
+        2636,
+        1168,
+        714,
+        13,
+        50448
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 26,
+      "seek": 3058,
+      "start": 90.78417,
+      "end": 93.70417,
+      "text": " How has God been faithful to you through this church?",
+      "tokens": [
+        50484,
+        1012,
+        575,
+        1265,
+        668,
+        17808,
+        281,
+        291,
+        807,
+        341,
+        4128,
+        30,
+        50630
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 27,
+      "seek": 3058,
+      "start": 95.20417,
+      "end": 96.96417,
+      "text": " Dahil napakabuti ng Diyos.",
+      "tokens": [
+        50705,
+        36977,
+        388,
+        9296,
+        514,
+        455,
+        29161,
+        6415,
+        413,
+        4727,
+        329,
+        13,
+        50793
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 28,
+      "seek": 3058,
+      "start": 97.34417,
+      "end": 99.544174,
+      "text": " Magmula nung mapunta ko rito sa church na ito,",
+      "tokens": [
+        50812,
+        6395,
+        76,
+        3780,
+        297,
+        1063,
+        4471,
+        46380,
+        8384,
+        367,
+        3528,
+        601,
+        4128,
+        1667,
+        309,
+        78,
+        11,
+        50922
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 29,
+      "seek": 3058,
+      "start": 99.904175,
+      "end": 101.20417,
+      "text": " nagbago na ang buhay namin.",
+      "tokens": [
+        50940,
+        17096,
+        65,
+        6442,
+        1667,
+        2562,
+        758,
+        47464,
+        297,
+        7428,
+        13,
+        51005
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 30,
+      "seek": 3058,
+      "start": 101.624176,
+      "end": 104.34417,
+      "text": " Talagang from nothing, talagang into blessing.",
+      "tokens": [
+        51026,
+        10516,
+        559,
+        656,
+        490,
+        1825,
+        11,
+        4023,
+        559,
+        656,
+        666,
+        13869,
+        13,
+        51162
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 31,
+      "seek": 3058,
+      "start": 104.82417,
+      "end": 106.28417,
+      "text": " Dati talagang walang-wala kami.",
+      "tokens": [
+        51186,
+        413,
+        6908,
+        4023,
+        559,
+        656,
+        21346,
+        656,
+        12,
+        86,
+        5159,
+        34502,
+        13,
+        51259
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 32,
+      "seek": 3058,
+      "start": 106.70417,
+      "end": 109.78417,
+      "text": " Talagang halos wala kami makain, kahit pang masahe.",
+      "tokens": [
+        51280,
+        10516,
+        559,
+        656,
+        7523,
+        329,
+        261,
+        5159,
+        34502,
+        963,
+        491,
+        11,
+        21651,
+        270,
+        280,
+        656,
+        2300,
+        545,
+        68,
+        13,
+        51434
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 33,
+      "seek": 3058,
+      "start": 109.78417,
+      "end": 112.004166,
+      "text": " Pero dahil sa church na ito,",
+      "tokens": [
+        51434,
+        9377,
+        16800,
+        388,
+        601,
+        4128,
+        1667,
+        309,
+        78,
+        11,
+        51545
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 34,
+      "seek": 3058,
+      "start": 112.124176,
+      "end": 113.22417,
+      "text": " magmula sa prayers,",
+      "tokens": [
+        51551,
+        2258,
+        76,
+        3780,
+        601,
+        16860,
+        11,
+        51606
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.20616075,
+      "compression_ratio": 1.6261262,
+      "no_speech_prob": 0.0078086853
+    },
+    {
+      "id": 35,
+      "seek": 5540,
+      "start": 113.22417,
+      "end": 115.72417,
+      "text": " sa prayers at sa mga",
+      "tokens": [
+        50365,
+        601,
+        16860,
+        412,
+        601,
+        275,
+        3680,
+        50490
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2021248,
+      "compression_ratio": 1.4379562,
+      "no_speech_prob": 0.0040512085
+    },
+    {
+      "id": 36,
+      "seek": 5540,
+      "start": 115.72417,
+      "end": 117.98417,
+      "text": " at sa mga gawain",
+      "tokens": [
+        50490,
+        412,
+        601,
+        275,
+        3680,
+        290,
+        1607,
+        491,
+        50603
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2021248,
+      "compression_ratio": 1.4379562,
+      "no_speech_prob": 0.0040512085
+    },
+    {
+      "id": 37,
+      "seek": 5540,
+      "start": 117.98417,
+      "end": 119.56417,
+      "text": " na patuloy na",
+      "tokens": [
+        50603,
+        1667,
+        1947,
+        425,
+        939,
+        1667,
+        50682
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2021248,
+      "compression_ratio": 1.4379562,
+      "no_speech_prob": 0.0040512085
+    },
+    {
+      "id": 38,
+      "seek": 5540,
+      "start": 119.56417,
+      "end": 121.74417,
+      "text": " na lumakas",
+      "tokens": [
+        50682,
+        1667,
+        24635,
+        514,
+        296,
+        50791
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2021248,
+      "compression_ratio": 1.4379562,
+      "no_speech_prob": 0.0040512085
+    },
+    {
+      "id": 39,
+      "seek": 121,
+      "start": 121.74417,
+      "end": 132.66833,
+      "text": " ang aking pananampalataya ayun doon na nagsimula ng pagbabago ng buhay namin Okay fourth question po What does the 30th anniversary mean to you",
+      "tokens": [
+        50791,
+        2562,
+        257,
+        5092,
+        2462,
+        282,
+        1215,
+        304,
+        267,
+        4427,
+        50868,
+        50868,
+        7494,
+        409,
+        11,
+        360,
+        266,
+        1667,
+        297,
+        12109,
+        332,
+        3780,
+        50970,
+        50970,
+        6415,
+        11812,
+        24301,
+        6442,
+        6415,
+        758,
+        47464,
+        297,
+        7428,
+        13,
+        50615,
+        50661,
+        1033,
+        11,
+        6409,
+        1168,
+        714,
+        13,
+        50722,
+        50742,
+        708,
+        775,
+        264,
+        2217,
+        392,
+        12962,
+        50844,
+        50844,
+        914,
+        281,
+        291,
+        30,
+        50908
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32260627,
+      "compression_ratio": 1.3333334,
+      "no_speech_prob": 0.08795166
+    },
+    {
+      "id": 40,
+      "seek": 121,
+      "start": 136.66833,
+      "end": 137.30835,
+      "text": " Um...",
+      "tokens": [
+        51108,
+        3301,
+        485,
+        51140
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32260627,
+      "compression_ratio": 1.3333334,
+      "no_speech_prob": 0.08795166
+    },
+    {
+      "id": 41,
+      "seek": 121,
+      "start": 137.30835,
+      "end": 144.70834,
+      "text": " Okay lang, okay lang, tita.",
+      "tokens": [
+        51140,
+        1033,
+        2265,
+        11,
+        1392,
+        2265,
+        11,
+        256,
+        2786,
+        13,
+        51510
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.32260627,
+      "compression_ratio": 1.3333334,
+      "no_speech_prob": 0.08795166
+    },
+    {
+      "id": 42,
+      "seek": 3121,
+      "start": 151.80835,
+      "end": 159.56834,
+      "text": " Okay lang tita kahit",
+      "tokens": [
+        50365,
+        1033,
+        2265,
+        256,
+        2786,
+        21651,
+        270,
+        50753
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4275873,
+      "compression_ratio": 1.1807228,
+      "no_speech_prob": 0.6743164
+    },
+    {
+      "id": 43,
+      "seek": 3121,
+      "start": 159.56834,
+      "end": 161.30835,
+      "text": " Galing sa puso kahit anuman",
+      "tokens": [
+        50753,
+        460,
+        4270,
+        601,
+        280,
+        24431,
+        21651,
+        270,
+        364,
+        6829,
+        50840
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4275873,
+      "compression_ratio": 1.1807228,
+      "no_speech_prob": 0.6743164
+    },
+    {
+      "id": 44,
+      "seek": 3121,
+      "start": 161.30835,
+      "end": 164.44833,
+      "text": " Kahit anumining ng 30 years po sa inyo",
+      "tokens": [
+        50840,
+        39444,
+        270,
+        364,
+        449,
+        1760,
+        6415,
+        2217,
+        924,
+        714,
+        601,
+        294,
+        8308,
+        50997
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4275873,
+      "compression_ratio": 1.1807228,
+      "no_speech_prob": 0.6743164
+    },
+    {
+      "id": 45,
+      "seek": 3121,
+      "start": 164.44833,
+      "end": 167.54834,
+      "text": " Okay siya",
+      "tokens": [
+        50997,
+        1033,
+        1511,
+        3016,
+        51152
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4275873,
+      "compression_ratio": 1.1807228,
+      "no_speech_prob": 0.6743164
+    },
+    {
+      "id": 46,
+      "seek": 6121,
+      "start": 181.80835,
+      "end": 182.80835,
+      "text": " Thank you.",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        13,
+        50415
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.69763064,
+      "compression_ratio": 0.57894737,
+      "no_speech_prob": 0.37304688
+    },
+    {
+      "id": 47,
+      "seek": 185,
+      "start": 185.21251,
+      "end": 186.45251,
+      "text": " 30 years.",
+      "tokens": [
+        50365,
+        2217,
+        924,
+        13,
+        50427
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 48,
+      "seek": 185,
+      "start": 191.45251,
+      "end": 192.6125,
+      "text": " Sige na lang.",
+      "tokens": [
+        50677,
+        318,
+        3969,
+        1667,
+        2265,
+        13,
+        50735
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 49,
+      "seek": 185,
+      "start": 192.71251,
+      "end": 193.29251,
+      "text": " Sabot na lang.",
+      "tokens": [
+        50740,
+        13915,
+        310,
+        1667,
+        2265,
+        13,
+        50769
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 50,
+      "seek": 185,
+      "start": 194.4125,
+      "end": 196.1325,
+      "text": " Ang 30 years",
+      "tokens": [
+        50825,
+        4521,
+        2217,
+        924,
+        50911
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 51,
+      "seek": 185,
+      "start": 196.1325,
+      "end": 198.2725,
+      "text": " para sa akin ay",
+      "tokens": [
+        50911,
+        1690,
+        601,
+        47540,
+        7494,
+        51018
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 52,
+      "seek": 185,
+      "start": 198.2725,
+      "end": 200.93251,
+      "text": " tatlong dekada",
+      "tokens": [
+        51018,
+        9600,
+        13025,
+        368,
+        74,
+        1538,
+        51151
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 53,
+      "seek": 185,
+      "start": 200.93251,
+      "end": 202.2725,
+      "text": " ng kabutihan ng Lord,",
+      "tokens": [
+        51151,
+        6415,
+        27835,
+        29161,
+        3451,
+        6415,
+        3257,
+        11,
+        51218
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 54,
+      "seek": 185,
+      "start": 202.4725,
+      "end": 203.71251,
+      "text": " ng katapatan ng Lord.",
+      "tokens": [
+        51228,
+        6415,
+        16536,
+        22602,
+        282,
+        6415,
+        3257,
+        13,
+        51290
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 55,
+      "seek": 185,
+      "start": 204.59251,
+      "end": 205.51251,
+      "text": " Yun ang para sa akin.",
+      "tokens": [
+        51334,
+        18007,
+        2562,
+        1690,
+        601,
+        47540,
+        13,
+        51380
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 56,
+      "seek": 185,
+      "start": 205.87251,
+      "end": 207.7525,
+      "text": " At ang pasasalamat para sa",
+      "tokens": [
+        51398,
+        1711,
+        2562,
+        1736,
+        296,
+        23819,
+        267,
+        1690,
+        601,
+        51492
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 57,
+      "seek": 185,
+      "start": 207.7525,
+      "end": 210.6325,
+      "text": " tatlong dekada ito na punong-punong",
+      "tokens": [
+        51492,
+        9600,
+        13025,
+        368,
+        74,
+        1538,
+        309,
+        78,
+        1667,
+        4468,
+        556,
+        12,
+        79,
+        409,
+        556,
+        51636
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 58,
+      "seek": 185,
+      "start": 210.6325,
+      "end": 212.6925,
+      "text": " ng mga",
+      "tokens": [
+        51636,
+        6415,
+        275,
+        3680,
+        51739
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38747275,
+      "compression_ratio": 1.6466166,
+      "no_speech_prob": 0.49145508
+    },
+    {
+      "id": 59,
+      "seek": 2933,
+      "start": 212.6925,
+      "end": 217.9725,
+      "text": " tatlong dikada",
+      "tokens": [
+        50365,
+        9600,
+        13025,
+        1026,
+        74,
+        1538,
+        50629
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43510258,
+      "compression_ratio": 1.2900764,
+      "no_speech_prob": 0.1427002
+    },
+    {
+      "id": 60,
+      "seek": 2933,
+      "start": 217.9725,
+      "end": 220.23251,
+      "text": " ng pasasalamat",
+      "tokens": [
+        50629,
+        6415,
+        1736,
+        296,
+        23819,
+        267,
+        50742
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43510258,
+      "compression_ratio": 1.2900764,
+      "no_speech_prob": 0.1427002
+    },
+    {
+      "id": 61,
+      "seek": 2933,
+      "start": 220.23251,
+      "end": 221.67252,
+      "text": " ng kabutihan ng Lord.",
+      "tokens": [
+        50742,
+        6415,
+        27835,
+        29161,
+        3451,
+        6415,
+        3257,
+        13,
+        50814
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43510258,
+      "compression_ratio": 1.2900764,
+      "no_speech_prob": 0.1427002
+    },
+    {
+      "id": 62,
+      "seek": 2933,
+      "start": 224.09251,
+      "end": 225.9725,
+      "text": " Okay po, last question po.",
+      "tokens": [
+        50935,
+        1033,
+        714,
+        11,
+        1036,
+        1168,
+        714,
+        13,
+        51029
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43510258,
+      "compression_ratio": 1.2900764,
+      "no_speech_prob": 0.1427002
+    },
+    {
+      "id": 63,
+      "seek": 2933,
+      "start": 226.35251,
+      "end": 227.9725,
+      "text": " In one sentence,",
+      "tokens": [
+        51048,
+        682,
+        472,
+        8174,
+        11,
+        51129
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43510258,
+      "compression_ratio": 1.2900764,
+      "no_speech_prob": 0.1427002
+    },
+    {
+      "id": 64,
+      "seek": 2933,
+      "start": 227.9725,
+      "end": 229.59251,
+      "text": " what is your message",
+      "tokens": [
+        51129,
+        437,
+        307,
+        428,
+        3636,
+        51210
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43510258,
+      "compression_ratio": 1.2900764,
+      "no_speech_prob": 0.1427002
+    },
+    {
+      "id": 65,
+      "seek": 2933,
+      "start": 229.59251,
+      "end": 232.1325,
+      "text": " to the church for the next 30 years?",
+      "tokens": [
+        51210,
+        281,
+        264,
+        4128,
+        337,
+        264,
+        958,
+        2217,
+        924,
+        30,
+        51337
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43510258,
+      "compression_ratio": 1.2900764,
+      "no_speech_prob": 0.1427002
+    },
+    {
+      "id": 66,
+      "seek": 2933,
+      "start": 232.5925,
+      "end": 233.65251,
+      "text": " Last question.",
+      "tokens": [
+        51360,
+        5264,
+        1168,
+        13,
+        51413
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43510258,
+      "compression_ratio": 1.2900764,
+      "no_speech_prob": 0.1427002
+    },
+    {
+      "id": 67,
+      "seek": 5029,
+      "start": 233.65251,
+      "end": 234.9725,
+      "text": " Last time, we are friends.",
+      "tokens": [
+        50365,
+        5264,
+        565,
+        11,
+        321,
+        366,
+        1855,
+        13,
+        50431
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8763138,
+      "compression_ratio": 1.0721649,
+      "no_speech_prob": 0.053009033
+    },
+    {
+      "id": 68,
+      "seek": 5029,
+      "start": 234.9725,
+      "end": 237.4125,
+      "text": " I don't have to.",
+      "tokens": [
+        50431,
+        286,
+        500,
+        380,
+        362,
+        281,
+        13,
+        50553
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8763138,
+      "compression_ratio": 1.0721649,
+      "no_speech_prob": 0.053009033
+    },
+    {
+      "id": 69,
+      "seek": 5029,
+      "start": 241.4125,
+      "end": 243.67252,
+      "text": " From glory to glory,",
+      "tokens": [
+        50753,
+        3358,
+        11924,
+        281,
+        11924,
+        11,
+        50866
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8763138,
+      "compression_ratio": 1.0721649,
+      "no_speech_prob": 0.053009033
+    },
+    {
+      "id": 70,
+      "seek": 5029,
+      "start": 244.01251,
+      "end": 246.49251,
+      "text": " onward to next 30 years.",
+      "tokens": [
+        50883,
+        322,
+        1007,
+        281,
+        958,
+        2217,
+        924,
+        13,
+        51007
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8763138,
+      "compression_ratio": 1.0721649,
+      "no_speech_prob": 0.053009033
+    },
+    {
+      "id": 71,
+      "seek": 5029,
+      "start": 248.6125,
+      "end": 249.6925,
+      "text": " Cut.",
+      "tokens": [
+        51113,
+        9431,
+        13,
+        51167
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8763138,
+      "compression_ratio": 1.0721649,
+      "no_speech_prob": 0.053009033
+    },
+    {
+      "id": 72,
+      "seek": 5029,
+      "start": 251.0325,
+      "end": 253.21251,
+      "text": " 1, 2, 3.",
+      "tokens": [
+        51234,
+        502,
+        11,
+        568,
+        11,
+        805,
+        13,
+        51343
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8763138,
+      "compression_ratio": 1.0721649,
+      "no_speech_prob": 0.053009033
+    }
+  ],
+  "x_groq": {
+    "id": "req_01m65b7ttvewb8jrpzzrwkctj2"
+  }
+}
